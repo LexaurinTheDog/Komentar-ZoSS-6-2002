@@ -187,6 +187,11 @@ Funkční období přísedícího činí dle § 64 odst. 1 (v součinnosti s § 
 
 § 67 váže výkon soudcovské funkce na **přidělení k určitému soudu**. Jmenování soudce prezidentem republiky je provázeno přidělením k určitému soudu, které navrhuje ministr spravedlnosti. Soudce vykonává funkci pouze u soudu, k němuž je přidělen (princip **zákonného soudce** — čl. 38 odst. 1 Listiny).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [7 Tdo 986/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A57C5F5B970351FEC1257A4E006878D7?openDocument) — 17. 8. 2011, kat. A
+  > „I. Z ustanovení § 67 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů, plyne, že soudce může svou funkci vykonávat jen u jednoho konkrétně určeného soudu, k němuž byl přidělen. Stejná zásada platí i pro soudce dočasně přiděleného k výkonu funkce soudce k jinému soudu podle § 68 tohoto zákona, a proto se takový soudce na dobu dočasného přidělení stává soudcem soudu, k němuž byl dočasně přidělen, a po tuto dobu nemá z hlediska výkonu soudcovské funkce žádný vztah k soudu, od něhož byl přidělen. Poznámka redakce: Tyto principy se neuplatní u soudců kárného soudu, a to vzhledem ke speciální zákonné úpravě způsobu, jakým je tento soud sestaven, tak i vymezení jeho kompetencí (viz zákon č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů, ve znění pozdějších předpisů). Rozhodnutí předsedy krajského soudu o dočasném přidělení soudce…"
+
 ---
 
 ### § 68 — Dočasné přidělení soudce
@@ -216,6 +221,11 @@ Funkční období přísedícího činí dle § 64 odst. 1 (v součinnosti s § 
 > *(4) Ustanovení odstavce 3 platí obdobně, byl-li soudce dočasně přidělen k ministerstvu nebo Justiční akademii.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [7 Tdo 986/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A57C5F5B970351FEC1257A4E006878D7?openDocument) — 17. 8. 2011, kat. A
+  > „I. Z ustanovení § 67 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů, plyne, že soudce může svou funkci vykonávat jen u jednoho konkrétně určeného soudu, k němuž byl přidělen. Stejná zásada platí i pro soudce dočasně přiděleného k výkonu funkce soudce k jinému soudu podle § 68 tohoto zákona, a proto se takový soudce na dobu dočasného přidělení stává soudcem soudu, k němuž byl dočasně přidělen, a po tuto dobu nemá z hlediska výkonu soudcovské funkce žádný vztah k soudu, od něhož byl přidělen. Poznámka redakce: Tyto principy se neuplatní u soudců kárného soudu, a to vzhledem ke speciální zákonné úpravě způsobu, jakým je tento soud sestaven, tak i vymezení jeho kompetencí (viz zákon č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů, ve znění pozdějších předpisů). Rozhodnutí předsedy krajského soudu o dočasném přidělení soudce…"
 
 #### Trojí typ dočasného přidělení
 
@@ -390,6 +400,11 @@ Souhlas prezidenta republiky chrání **institucionální nezávislost** justice
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 3737/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47AF8EADB4B5B398C125899D0030F40F?openDocument) — 29. 3. 2023, kat. A
+  > „I. Ujednání stanov spolku, která by uvnitř spolku na jedné straně zřizovala rozhodčí komisi, a na druhé straně stanovila, že rozhodnutí rozhodčí komise nepodléhají přezkumu v řízení o zrušení rozhodčího nálezu soudem a zastavení nařízeného výkonu rozhodnutí (ve smyslu § 31 až § 35 zákona č. 216/1994 Sb. ve znění pozdějších předpisů), odporují donucujícím ustanovením zákona. II. Úprava § 89 z. ř. s. umožňující upustit od nařízení jednání se uplatní toliko v řízení před soudem prvního stupně, nikoli v řízení odvolacím. III. Členství v rozhodčí komisi spolku je neslučitelné s výkonem funkce soudce"
+
 #### Hmotněprávní jádro soudcovské etiky
 
 § 80 obsahuje **podústavní jádro soudcovské etiky** — katalog povinností soudce ve výkonu funkce i mimo ni. Tyto povinnosti jsou současně **hmotněprávní bází kárné odpovědnosti** (§ 87 ZoSS — kárným proviněním je porušení povinností soudce nebo chování, jímž narušuje důstojnost funkce).
@@ -454,6 +469,11 @@ Výkon pedagogické činnosti dle § 83 odst. 1 a 2 se považuje za **výkon sou
 ### § 84 — Pracovní vztah soudce
 
 § 84 stanoví, že pracovní vztah soudce **vzniká dnem nástupu do funkce** a zaniká dnem zániku funkce. Subsidiárně se aplikují ustanovení **zákoníku práce** (zákon č. 262/2006 Sb.). Předseda soudu může nařídit **pracovní pohotovost** v rozsahu nejvýše **400 hodin ročně** (typicky u trestního senátu pro úkony v noci, ve svátky a o víkendech — vazby, domovní prohlídky apod.).
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — 4. 4. 2013, kat. A
+  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 ,odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální ,náhrada výdajů na reprezentaci a na odbornou literaturu"
 
 ---
 

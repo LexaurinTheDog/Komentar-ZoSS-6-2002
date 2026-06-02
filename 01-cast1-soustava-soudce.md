@@ -613,6 +613,11 @@ Vzhledem k překryvům obchodního a občanského práva (zejm. po rekodifikaci 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 1468/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D68EEEA3F0C7F96C1258A8900318BBF?openDocument) — 8. 11. 2023, kat. A
+  > „Je-li tříčlenný senát Nejvyššího soudu, jemuž byla věc přidělena podle rozvrhu práce Nejvyššího soudu k projednání a rozhodnutí, vázán právním názorem obsaženým pro poměry dané věci ve zrušujícím nálezu Ústavního soudu, není to důvodem pro předložení věci velkému senátu příslušného kolegia Nejvyššího soudu bez zřetele k tomu, že dodržení závazného právního názoru Ústavního soudu způsobí rozpor v rozhodovací praxi tříčlenných senátů Nejvyššího soudu. To platí bez zřetele k tomu, zda jde o závazný právní názor o hmotném právu, nebo o závazný právní názor o procesním právu"
+
 #### Tříčlenný senát jako standard (odst. 2)
 
 Běžný senát NS rozhoduje ve složení **předseda senátu + 2 soudci**. Předseda senátu je soudce jmenovaný do funkce předsedy senátu podle § 104 ZSS. Toto složení je standardní pro většinu věcí.
@@ -636,6 +641,21 @@ Velký senát je **9členné nebo větší kolegiální těleso** (jedna třetin
 > *(3) Odstavce 1 a 2 neplatí, byl-li odlišný právní názor již vysloven ve stanovisku Nejvyššího soudu, zaujatému podle § 14 odst. 3.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 3810/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C7A6EB584A700A17C1258AFA002CB534?openDocument) — 14. 2. 2024, kat. A
+  > „Skutečnost, že právní názor vyjádřený v rozhodnutí senátu Nejvyššího soudu je v rozporu s právním názorem vyjádřeným v již dříve vydaném rozhodnutí velkého senátu příslušného kolegia Nejvyššího soudu, není důvodem pro postoupení následně projednávané věci, v níž senát Nejvyššího soudu dospěl při svém rozhodování k právnímu názoru odlišnému od právního názoru vyjádřeného v rozhodnutí senátu Nejvyššího soudu, k rozhodnutí velkému senátu"
+- *NS* [31 Cdo 1468/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/6D68EEEA3F0C7F96C1258A8900318BBF?openDocument) — 8. 11. 2023, kat. A
+  > „Je-li tříčlenný senát Nejvyššího soudu, jemuž byla věc přidělena podle rozvrhu práce Nejvyššího soudu k projednání a rozhodnutí, vázán právním názorem obsaženým pro poměry dané věci ve zrušujícím nálezu Ústavního soudu, není to důvodem pro předložení věci velkému senátu příslušného kolegia Nejvyššího soudu bez zřetele k tomu, že dodržení závazného právního názoru Ústavního soudu způsobí rozpor v rozhodovací praxi tříčlenných senátů Nejvyššího soudu. To platí bez zřetele k tomu, zda jde o závazný právní názor o hmotném právu, nebo o závazný právní názor o procesním právu"
+- *NS* [15 Tdo 525/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF5DFBA629C9E5C9C12587CC001D2D73?openDocument) — 22. 9. 2021, kat. A
+  > „Postoupení věci velkému senátu trestního kolegia Nejvyššího soudu § 20 odst. 1 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů I. Pokud senát trestního kolegia Nejvyššího soudu dospěje při svém rozhodování k právnímu názoru, který je odlišný od právního názoru zaujatého v dřívějším rozhodnutí senátu občanskoprávního a obchodního kolegia Nejvyššího soudu, postoupí věc podle § 20 odst. 1 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů, k rozhodnutí velkému senátu trestního kolegia Nejvyššího soudu, který je k takovému rozhodnutí příslušný, nebyla-li věc dosud řešena ve stanovisku pléna nebo některého z kolegií Nejvyššího soudu. Porušení povinnosti učinit pravdivé prohlášení o majetku § 227 tr. zákoníku II. Přečinu porušení povinnosti učinit pravdivé prohlášení o majetku podle § 227 tr. zákoníku se nedopustí ten, kdo uvede nepravdivé nebo…"
+- *NS* [25 Cdo 5764/2017](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2020%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2020&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-25_Cdo_5764_2017.txt) — 27. 6. 2019, kat. A
+  > „Povinnost městských částí hlavního města Prahy nahradit újmu vzniklou při nakládání s majetkem hlavního města Prahy svěřeným jim do správy nevylučuje současnou odpovědnost hlavního města Prahy za tutéž újmu"
+- *NS* [31 Cdo 1168/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/673E041B624A7424C1257D9D0038FE3E?openDocument) — 12. 11. 2014, kat. A
+  > „Podle právního řádu platného a účinného do 31. 12 2013 (resp. do 31. 12. 2014, viz § 3064 o. z.) nemohlo (nemůže) - vyjma zákonem stanovených způsobů - dojít k tomu, že by oprávněný držitel mohl při pouhé dobré víře v zápis do katastru nemovitostí nabýt vlastnické právo k nemovitosti zapsané v katastru nemovitostí od nevlastníka"
+- *NS* [31 Cdo 2805/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FB255CCADF451A42C1257A4E0067955F?openDocument) — 13. 6. 2012, kat. A
+  > „Rozpory v rozhodovací činnosti Nejvyššího soudu přísluší řešit velkému senátu Nejvyššího soudu prosté převzetí názoru Ústavního soudu tříčlenným senátem Nejvyššího soudu ke sjednocení rozhodování nepostačuje. Obviněnému náleží vůči státu nárok na náhradu škody způsobené trestním stíháním, i když nepodal stížnost proti usnesení o zahájení trestního stíhání, ledaže by tu v konkrétním případě byly dány důvody hodné zvláštního zřetele pro nepřiznání náhrady škody"
 
 #### Mechanismus překonání předchozí judikatury
 
@@ -934,6 +954,13 @@ Krajský soud (na rozdíl od vrchního) má institut **justičních kandidátů*
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [5 To 58/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FD5F4243008D5194C1258A7F003C92B7?openDocument) — 22. 10. 2022, kat. A
+  > „Krajský soud rozhoduje v senátě také v trestních řízeních vedených o trestných činech taxativně vymezených v ustanovení § 17 odst. 1 věta druhá tr. ř. i tehdy, je-li dolní hranice trestu odnětí svobody nižší než pět let"
+- *NS* [14 To 119/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/5C38A650722670D9C1257F03004080F7?openDocument) — 8. 9. 2014, kat. A
+  > „O předání osoby do vyžadujícího státu podle § 205 odst. 1 zák. č. 104/2013 Sb., o mezinárodní justiční spolupráci ve věcech trestních, ve znění pozdějších předpisů, rozhoduje krajský soud v senátě složeném z předsedy a dvou soudců [§ 31 odst. 2 písm. b) zákona o soudech a soudcích, ve znění pozdějších předpisů]"
+
 #### Samosoudce jako pravidlo, senát jako výjimka (odst. 1)
 
 V odvolací funkci krajský soud rozhoduje **v senátech** (jako každý odvolací soud — § 36a a § 36 OSŘ, § 252 TŘ). Naopak v některých prvostupňových věcech, kde je krajský soud věcně příslušný, může rozhodovat **samosoudce** (zejm. ve správním soudnictví — § 31 odst. 2 SŘS — kde samosoudce rozhoduje ve věcech sociálního zabezpečení a v některých dalších; v ostatních správních věcech rozhoduje tříčlenný senát).
@@ -1052,6 +1079,11 @@ Předseda OS má kompetenci pouze vůči NS (nikoli vůči NSS — věci správn
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4259/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BD067D394786974DC1257ACC004CF811?openDocument) — 14. 11. 2012, kat. A
+  > „Vyšší soudní úředník nebo asistent soudce okresního, krajského nebo vrchního soudu provádí v občanském soudním řízení jednotlivé úkony vždy jen v takovém soudním oddělení, do něhož byl zařazen rozvrhem práce provedením úkonů, které smí činit jen na základě pověření předsedy senátu (samosoudce), ho pověřuje pouze ten předseda senátu (samosoudce), který působí v tomtéž soudním oddělení jako vyšší soudní úředník (asistent soudce). Úkony soudu, které vyšší soudní úředník (asistent soudce) provádí i bez výslovného pověření, si předseda senátu (samosoudce) působící v témže soudním oddělení může vyhradit ke svému provedení nebo může konkrétní věc vyššímu soudnímu úředníkovi (asistentu soudce) odejmout a vyřídit ji ve vlastní působnosti, jedná-li se o věc právně nebo skutkově složitou. Jsou-li splněny uvedené předpoklady, může vyšší soudní úředník nebo asistent soudce okresního nebo krajského…"
+
 #### Asistent na nižších soudech — fakultativní
 
 Na rozdíl od NS, kde je asistent obligatorní (§ 16), na vrchním, krajském a okresním soudu je asistent **fakultativní** („může být jmenován" — odst. 1). V praxi mají asistenta zejm. soudci s nejvyšší zátěží (krajští soudci v insolvenčních a obchodních věcech, předsedové senátů). Některé okresní soudy asistenty mají, jiné nikoli.
@@ -1147,6 +1179,11 @@ Odvolacím soudem v těchto věcech je **Vrchní soud v Praze** (§ 25 písm. a)
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2048/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/00AC4FAF6649B207C1257D00004B02A8?openDocument) — 28. 5. 2014, kat. A
+  > „Pravomocné rozhodnutí odvolacího soudu není postiženo zmatečností podle ustanovení § 229 odst. 1 písm. f) o. s. ř., byla-li věc v odvolacím řízení projednána a rozhodnuta v soudním oddělení, do něhož patří podle rozvrhu práce, a byl-li senát odvolacího soudu při projednání a rozhodnutí věci složen z předsedy senátu a soudců, kteří do něj byli zařazeni v souladu s rozvrhem práce"
+
 #### Soudní oddělení jako organizační jednotka
 
 **Soudní oddělení** je primární organizační jednotka soudu — okruh věcí přidělený určitému soudci nebo senátu, vč. asistentů, VSÚ a soudních tajemníků, kteří pro něj pracují (§ 42 odst. 1 písm. a)). Každý soudce **musí být zařazen alespoň do jednoho oddělení** (odst. 1) — tím se zabezpečuje úplné pokrytí agendy soudu.
@@ -1179,6 +1216,11 @@ Soudní kancelář je administrativní podpora — protokoluje, vede spisy, zabe
 > *(3) Vydaný rozvrh práce je veřejně přístupný; každý má právo do něho nahlížet a činit si z něj výpisy nebo opisy. Je-li rozvrh práce dotčen změnou, zveřejní se bez zbytečného odkladu změna i úplné znění rozvrhu práce po zapracování této změny.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2048/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/00AC4FAF6649B207C1257D00004B02A8?openDocument) — 28. 5. 2014, kat. A
+  > „Pravomocné rozhodnutí odvolacího soudu není postiženo zmatečností podle ustanovení § 229 odst. 1 písm. f) o. s. ř., byla-li věc v odvolacím řízení projednána a rozhodnuta v soudním oddělení, do něhož patří podle rozvrhu práce, a byl-li senát odvolacího soudu při projednání a rozhodnutí věci složen z předsedy senátu a soudců, kteří do něj byli zařazeni v souladu s rozvrhem práce"
 
 #### Rozvrh práce jako garance zákonného soudce
 
@@ -1237,6 +1279,15 @@ Rozvrh práce je **veřejně přístupný** — každý do něj může nahlíže
 > *(3) Změna rozvrhu práce je účinná ode dne následujícího po jejím vydání, nebyl-li určen den pozdější.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 28/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/082CDD3BD5B2BACAC1258153003C35B4?openDocument) — 30. 3. 2017, kat. A
+  > „Přidělení věci do jiného soudního oddělení podle § 160 odst. 2 insolvenčního zákona (ve znění účinném do 30. 6. 2017) bránila (zásadně) skutečnost, že ve věci již byl (soudcem, jemuž byla věc dle rozvrhu práce původně přidělena) učiněn úkon"
+- *NS* [21 Cdo 2048/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/00AC4FAF6649B207C1257D00004B02A8?openDocument) — 28. 5. 2014, kat. A
+  > „Pravomocné rozhodnutí odvolacího soudu není postiženo zmatečností podle ustanovení § 229 odst. 1 písm. f) o. s. ř., byla-li věc v odvolacím řízení projednána a rozhodnuta v soudním oddělení, do něhož patří podle rozvrhu práce, a byl-li senát odvolacího soudu při projednání a rozhodnutí věci složen z předsedy senátu a soudců, kteří do něj byli zařazeni v souladu s rozvrhem práce"
+- *NS* [3 VSPH 608/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5EC72AC25DBEAFFC1257A4E00695702?openDocument) — 14. 9. 2010, kat. A
+  > „Princip specializace soudců (soudních oddělení) v insolvenčním řízení na agendu reorganizací (jako způsobu řešení dlužníkova úpadku) je možné ve smyslu § 42 odst. 2 zákona č. 6/2002 Sb. ve znění pozdějších předpisů promítnout do rozvrhu práce jedině tak, že věci budou do příslušného oddělení rozděleny podle hledisek určitelných ke dni zahájení insolvenčního řízení (např. podle toho, zda byl návrh na reorganizaci podán spolu s insolvenčním návrhem, popřípadě podle kritérií stanovených v § 316 odst. 4 insolvenčního zákona)"
 
 #### Šest povinných obsahových složek (odst. 1)
 
@@ -1967,7 +2018,4 @@ Odkaz na „zvláštní právní předpis" (odst. 4) zahrnuje zejm. zdravotní z
 > **Výjimky a specifika přísedících:** Přísedící (§ 64) má užší rozsah předpokladů — nevyžaduje se právnické vzdělání ani justiční zkouška. Postačují obecné předpoklady z § 60 odst. 1 (občanství ČR, plná svéprávnost, bezúhonnost, věk 30+ let, záruka řádného výkonu, souhlas) a podmínka **územní vazby k obvodu zastupitelstva a soudu** (§ 64 odst. 3) — viz dále výklad k § 64 v druhé části tohoto komentáře.
 
 ---
-
-
-
 
