@@ -1815,31 +1815,43 @@ Institut **komerčního právníka** existoval v ČR v 90. letech podle zákona 
 
 > **§ 186**
 >
-> ##### Zrušovací ustanovení
->
 > *Zrušují se:*
 >
-> *1. Zákon č. 335/1991 Sb., o soudech a soudcích.*
+> *- 1. Zákon č. 335/1991 Sb., o soudech a soudcích.*
 >
-> *2. Zákon č. 17/1993 Sb., kterým se mění a doplňuje zákon č. 335/1991 Sb., o soudech a soudcích, ve znění zákona č. 264/1992 Sb.*
+> *- 2. Zákon č. 17/1993 Sb., kterým se mění a doplňuje zákon č. 335/1991 Sb., o soudech a soudcích, ve znění zákona č. 264/1992 Sb.*
 >
-> *3. Zákon č. 239/1995 Sb., kterým se mění a doplňuje zákon č. 335/1991 Sb., o soudech a soudcích, ve znění pozdějších předpisů.*
+> *- 3. Zákon č. 239/1995 Sb., kterým se mění a doplňuje zákon č. 335/1991 Sb., o soudech a soudcích, ve znění pozdějších předpisů.*
 >
-> *4. Zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky.*
+> *- 4. Zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky.*
 >
-> *5. Zákon č. 580/1991 Sb., kterým se doplňuje zákon č. 436/1991 Sb. […]*
+> *- 5. Zákon č. 580/1991 Sb., kterým se doplňuje zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky.*
 >
-> *6. Zákon č. 23/1993 Sb., kterým se mění a doplňuje zákon č. 436/1991 Sb. […]*
+> *- 6. Zákon č. 23/1993 Sb., kterým se mění a doplňuje zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky, ve znění zákona č. 580/1991 Sb.*
 >
-> *7. Zákon č. 284/1993 Sb., kterým se mění a doplňuje zákon č. 436/1991 Sb. […]*
+> *- 7. Zákon č. 284/1993 Sb., kterým se mění a doplňuje zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky, ve znění zákona č. 580/1991 Sb., zákona č. 23/1993 Sb. a zákona č. 171/1993 Sb.*
 >
-> *8. Zákon č. 240/1995 Sb., kterým se mění a doplňuje zákon č. 436/1991 Sb. […]*
+> *- 8. Zákon č. 240/1995 Sb., kterým se mění a doplňuje zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky, ve znění pozdějších předpisů.*
 >
-> *9. Zákon č. 215/2000 Sb., kterým se mění zákon č. 436/1991 Sb. […]*
+> *- 9. Zákon č. 215/2000 Sb., kterým se mění zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky, ve znění pozdějších předpisů.*
 >
-> *10. Zákon č. 11/2001 Sb., kterým se mění zákon č. 335/1991 Sb., zákon č. 436/1991 Sb. a zákon č. 283/1993 Sb., o státním zastupitelství […]*
+> *- 10. Zákon č. 11/2001 Sb., kterým se mění zákon č. 335/1991 Sb., o soudech a soudcích, ve znění pozdějších předpisů, zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky, ve znění pozdějších předpisů, a zákon č. 283/1993 Sb., o státním zastupitelství, ve znění pozdějších předpisů.*
 >
-> *11.–18. Vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů (a její novelizace č. 71/1993 Sb., 178/1993 Sb., 1/1994 Sb., 235/1994 Sb., 293/1995 Sb., 195/1997 Sb., 190/2001 Sb.).*
+> *- 11. Vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů.*
+>
+> *- 12. Vyhláška č. 71/1993 Sb., kterou se mění a doplňuje vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů.*
+>
+> *- 13. Vyhláška č. 178/1993 Sb., kterou se mění vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů, ve znění vyhlášky č. 71/1993 Sb.*
+>
+> *- 14. Vyhláška č. 1/1994 Sb., kterou se doplňuje vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů, ve znění vyhlášek č. 71/1993 Sb. a č. 178/1993 Sb.*
+>
+> *- 15. Vyhláška č. 235/1994 Sb., kterou se mění a doplňuje vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů, ve znění vyhlášky č. 71/1993 Sb., vyhlášky č. 178/1993 Sb. a vyhlášky č. 1/1994 Sb.*
+>
+> *- 16. Vyhláška č. 293/1995 Sb., kterou se mění a doplňuje vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů, ve znění pozdějších předpisů.*
+>
+> *- 17. Vyhláška č. 195/1997 Sb., kterou se mění vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů, ve znění vyhlášky č. 71/1993 Sb., vyhlášky č. 178/1993 Sb., vyhlášky č. 1/1994 Sb., vyhlášky č. 235/1994 Sb. a vyhlášky č. 293/1995 Sb.*
+>
+> *- 18. Vyhláška č. 190/2001 Sb., kterou se mění vyhláška č. 576/1991 Sb., o zřízení poboček některých krajských a okresních soudů, ve znění pozdějších předpisů.*
 
 **Výklad:**
 
@@ -1908,7 +1920,7 @@ Původní části IV a V (změna zákona č. 41/1993 Sb. o ověřování shody o
 
 > **§ 194**
 >
-> *V zákoně č. 202/1997 Sb., kterým se mění a doplňuje občanský soudní řád a kterým se mění zákon č. 436/1991 Sb. […], ve znění pozdějších předpisů, se čl. II zrušuje.*
+> *V zákoně č. 202/1997 Sb., kterým se mění a doplňuje občanský soudní řád a kterým se mění zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky, ve znění pozdějších předpisů, se čl. II zrušuje.*
 
 **Výklad:** Stejná logika — zrušený článek měnil zákon č. 436/1991 Sb. (rovněž zrušený § 186 odst. 4).
 

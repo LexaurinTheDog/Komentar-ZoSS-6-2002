@@ -24,13 +24,15 @@
 
 > **§ 60**
 >
-> *(1) Soudcem nebo přísedícím může být ustanoven státní občan České republiky, který je svéprávný a bezúhonný, jestliže jeho zkušenosti a morální vlastnosti dávají záruku, že bude svou funkci řádně zastávat, v den ustanovení dosáhl věku nejméně 30 let a souhlasí se svým ustanovením za soudce nebo přísedícího a s přidělením k určitému soudu.*
+> *(1) Soudcem nebo přísedícím může být ustanoven státní občan České republiky (dále jen „občan“), který je plně svéprávný a bezúhonný, jestliže jeho zkušenosti a morální vlastnosti dávají záruku, že bude svou funkci řádně zastávat, v den ustanovení dosáhl věku nejméně 30 let a souhlasí se svým ustanovením za soudce nebo přísedícího a s přidělením k určitému soudu.*
 >
-> *(2) (...) Předpokladem pro výkon funkce soudce a přísedícího je dále složení slibu (§ 62).*
+> *(2) Podmínku bezúhonnosti podle odstavce 1 nesplňuje ten, kdo byl pravomocně odsouzen za trestný čin, jestliže se na něj podle zvláštního právního předpisu nebo rozhodnutí prezidenta republiky nehledí, jako by nebyl odsouzen.*
 >
-> *(3) Soudcem může být dále ustanoven jen ten, kdo má vysokoškolské vzdělání získané řádným ukončením studia v magisterském studijním programu v oblasti práva na vysoké škole v České republice a uspěl ve výběrovém řízení na funkci soudce. Soudcem nemůže být občan, jehož bezúhonnost a další morální vlastnosti nedávají záruku, že bude svou funkci řádně zastávat.*
+> *(3) Předpokladem pro ustanovení soudcem je též vysokoškolské vzdělání získané řádným ukončením studia v magisterském studijním programu v oblasti práva na vysoké škole v České republice, složení odborné justiční zkoušky a úspěšné absolvování výběrového řízení na funkci soudce.*
 >
-> *(4) Předpokladem pro ustanovení do funkce přísedícího je vedle splnění podmínek uvedených v odstavci 1 i to, aby kandidát na funkci přísedícího byl občanem obce, v jejíchž volbách do zastupitelstva má být zvolen, nebo aby v této obci pracoval, popřípadě aby v této obci trvale bydlel nebo měl k ní jiný blízký vztah, a aby s ustanovením do funkce přísedícího souhlasil.*
+> *(4) Další předpoklady pro ustanovení soudcem nebo přísedícím stanoví zvláštní právní předpis.1)*
+>
+> *(5) Za odbornou justiční zkoušku se považuje též advokátní zkouška, závěrečná zkouška právního čekatele, notářská zkouška a odborná exekutorská zkouška. Stejné účinky má výkon funkce soudce Ústavního soudu alespoň po dobu 2 let.*
 
 **Výklad:**
 
@@ -147,11 +149,11 @@ Tato delegace ke složení slibu „**do rukou ministra spravedlnosti**" u soudc
 
 > **§ 64**
 >
-> *(1) Přísedící okresních soudů volí zastupitelstva obcí, v jejichž obvodech mají okresní soudy sídlo, do působnosti kterých přísedící patří.*
+> *(1) Přísedící volí zastupitelstva krajů, jejichž území je alespoň zčásti v obvodu příslušného krajského soudu. V hlavním městě Praze volí přísedící Městského soudu v Praze zastupitelstvo hlavního města Prahy.*
 >
-> *(2) Přísedící krajských soudů volí zastupitelstva krajů, v jejichž obvodech mají krajské soudy sídlo. (...)*
+> *(2) Kandidáty do funkce přísedícího navrhují členové příslušného zastupitelstva. K navrženým kandidátům si zastupitelstvo vyžádá vyjádření předsedy příslušného soudu.*
 >
-> *(3) Kandidáty na funkci přísedícího navrhují členové příslušných zastupitelstev. K návrhu je třeba vyjádření předsedy příslušného soudu.*
+> *(3) Přísedícím může být zvolen občan, který je přihlášen k trvalému pobytu2) v obvodu zastupitelstva, jímž je do funkce volen, a v obvodu soudu, pro který je do funkce volen, nebo který v těchto obvodech pracuje.*
 
 **Výklad:**
 
@@ -165,7 +167,9 @@ Funkční období přísedícího činí dle § 64 odst. 1 (v součinnosti s § 
 
 > **§ 65**
 >
-> *Přísedící je volen do funkce na dobu 4 let. (...)*
+> *(1) Počet přísedících, kteří mají být pro příslušný krajský soud zvoleni, stanoví předseda příslušného soudu. Při stanovení počtu přísedících je třeba přihlížet k tomu, aby jednotliví přísedící zpravidla nezasedali více než 20 dnů v kalendářním roce.*
+>
+> *(2) Patří-li do obvodu příslušného soudu území více krajů, stanoví předseda příslušného soudu potřebný počet přísedících zvlášť pro jednotlivá zastupitelstva; přihlíží přitom k počtu obyvatelstva kraje nebo části území v obvodu soudu.*
 
 **Výklad:**
 
@@ -189,7 +193,27 @@ Funkční období přísedícího činí dle § 64 odst. 1 (v součinnosti s § 
 
 > **§ 68**
 >
-> *(1) Soudce přiděleného k výkonu funkce k určitému soudu (...) lze s jeho souhlasem na dobu nejdéle tří let v zájmu řádného výkonu soudnictví dočasně přidělit k jinému soudu, popřípadě v zájmu využití jeho zkušeností k Justiční akademii, nebo na dobu nejdéle 6 měsíců v zájmu využití jeho zkušeností k ministerstvu. (...)*
+> *(1) Soudce přiděleného k výkonu funkce k určitému soudu podle § 67 nebo přeloženého k jinému soudu podle § 71 a 72 lze s jeho souhlasem na dobu nejdéle tří let v zájmu řádného výkonu soudnictví dočasně přidělit k jinému soudu, popřípadě v zájmu využití jeho zkušeností k Justiční akademii, nebo na dobu nejdéle 6 měsíců v zájmu využití jeho zkušeností k ministerstvu. Soudce dočasně přidělený k ministerstvu nesmí vykonávat žádnou funkci na ministerstvu, podílet se na rozhodování ministerstva, na nakládání s finančními prostředky státu a na řešení individuálních případů, zejména v oblasti dohledu a personálních záležitostí. K ministerstvu lze soudce opakovaně dočasně přidělit nejdříve po uplynutí 1 roku poté, co skončilo přechozí dočasné přidělení k ministerstvu. K ministerstvu nelze přidělit soudce, který vykonává funkci předsedy nebo místopředsedy soudu.*
+>
+> *(2) O dočasném přidělení rozhodne*
+>
+> *  - a) předseda krajského soudu po projednání s předsedou soudu, k němuž je soudce přidělen podle § 67 nebo přeložen podle § 71 a 72 k výkonu funkce, jde-li o dočasné přidělení soudce k jinému okresnímu soudu v obvodu téhož krajského soudu nebo k příslušnému krajskému soudu a souhlasí-li s dočasným přidělením předseda soudu, k němuž má být soudce dočasně přidělen,*
+>
+> *  - b) ministr spravedlnosti po projednání s předsedou soudu, k němuž je soudce přidělen podle § 67 nebo přeložen podle § 71 a 72 k výkonu funkce, jde-li o dočasné přidělení soudce k Justiční akademii,*
+>
+> *  - c) ministr spravedlnosti se souhlasem předsedy soudu, k němuž je soudce přidělen podle § 67 nebo přeložen podle § 71 a 72 k výkonu funkce, a po vyjádření příslušné soudcovské rady nebo shromáždění všech soudců, jde-li o dočasné přidělení soudce k ministerstvu,*
+>
+> *  - d) v ostatních případech ministr spravedlnosti na návrh příslušného předsedy krajského soudu, vrchního soudu, Nejvyššího soudu nebo Nejvyššího správního soudu, k němuž má být soudce dočasně přidělen, po projednání s předsedou soudu, k němuž je soudce přidělen podle § 67 nebo přeložen podle § 71 a 72 k výkonu funkce; předseda krajského soudu podává návrh též tehdy, jde-li o dočasné přidělení soudce k okresnímu soudu v obvodu jeho působnosti.*
+>
+> *(3) Soudce dočasně přidělený k jinému soudu má po dobu přidělení*
+>
+> *  - a) právo na zajištění přiměřeného ubytování na náklady státu v sídle soudu, k němuž byl dočasně přidělen, nelze-li po něm oprávněně požadovat, aby denně konal k výkonu funkce u tohoto soudu cestu z místa svého bydliště,*
+>
+> *  - b) právo na náhradu za používání jiného než služebního silničního motorového vozidla k cestě z místa svého bydliště k soudu, k němuž byl dočasně přidělen, a zpět, bylo-li to dohodnuto; výše této náhrady se řídí právními předpisy upravujícími náhrady za používání silničních motorových vozidel při pracovních cestách konaných zaměstnanci v pracovním poměru,*
+>
+> *  - c) právo na náhradu prokázaných jízdních výdajů vynaložených na cestu z místa svého bydliště k soudu, k němuž byl dočasně přidělen, a zpět, nemá-li za vykonanou cestu právo na náhradu podle písmena b).*
+>
+> *(4) Ustanovení odstavce 3 platí obdobně, byl-li soudce dočasně přidělen k ministerstvu nebo Justiční akademii.*
 
 **Výklad:**
 
@@ -248,7 +272,7 @@ O přeložení rozhoduje **ministr spravedlnosti** po projednání s předsedy o
 >
 > *(1) Funkce soudce a přísedícího je veřejnou funkcí.*
 >
-> *(2) Funkce soudce není slučitelná s funkcemi a činnostmi, o nichž to stanoví zákon. (...)*
+> *(2) Funkce soudce není slučitelná s funkcemi a činnostmi, o nichž to stanoví zákon. S výjimkou funkce předsedy soudu nebo místopředsedy soudu nesmí soudce současně s výkonem funkce soudce zastávat žádnou jinou funkci ve veřejné správě. Funkce přísedícího není slučitelná s funkcí člena komory Parlamentu, jakož i s jinými činnostmi, o nichž to stanoví zákon.*
 
 **Výklad:**
 
@@ -332,7 +356,37 @@ Souhlas prezidenta republiky chrání **institucionální nezávislost** justice
 
 > **§ 80**
 >
-> *(1) Soudce a přísedící je povinen vykonávat svědomitě svou funkci a při výkonu funkce a v občanském životě se zdržet všeho, co by mohlo narušit důstojnost soudcovské funkce nebo ohrozit důvěru v nezávislé, nestranné a spravedlivé rozhodování soudů. (...)*
+> *(1) Soudce a přísedící je povinen vykonávat svědomitě svou funkci a při výkonu funkce a v občanském životě se zdržet všeho, co by mohlo narušit důstojnost soudcovské funkce nebo ohrozit důvěru v nezávislé, nestranné a spravedlivé rozhodování soudů. Soudce je povinen podávat oznámení o osobním zájmu, o činnostech, majetku, příjmech a závazcích podle zvláštního právního předpisu.*
+>
+> *(2) V zájmu záruk nezávislosti a nestrannosti výkonu soudcovské funkce soudce zejména*
+>
+> *  - a) je povinen prosazovat a obhajovat nezávislost soudnictví a jeho dobrou pověst,*
+>
+> *  - b) je povinen chovat se tak, aby nezavdal příčinu ke snížení důvěry v soudnictví a důstojnosti soudcovské funkce,*
+>
+> *  - c) je povinen odmítnout jakýkoliv zásah, nátlak, vliv, přání nebo žádost, jejichž důsledkem by mohlo být ohrožení nezávislosti soudnictví,*
+>
+> *  - d) se nesmí při výkonu své funkce nechat ovlivnit zájmy politických stran, veřejným míněním a sdělovacími prostředky,*
+>
+> *  - e) musí vystupovat nezaujatě a ke stranám nebo účastníkům řízení přistupovat bez ekonomických, sociálních, rasových, etnických, sexuálních, náboženských nebo jiných předsudků,*
+>
+> *  - f) dbá svým chováním o to, aby jeho nestrannost nebyla důvodně zpochybňována.*
+>
+> *(3) Soudce je povinen vykonávat svou funkci v souladu se zájmem na řádném výkonu soudnictví. Při své rozhodovací činnosti soudce zejména*
+>
+> *  - a) je povinen poskytnout každému účastníku řízení nebo straně soudního řízení anebo jejich zástupcům plnou možnost k uplatnění jejich práv; nesmí však od nich, s výjimkou případů stanovených zákony o řízení před soudy, jednostranně přijímat nebo jim podávat informace nebo s nimi jednat o skutkové podstatě projednávané věci nebo o procesních otázkách, které na ni mohou mít vliv,*
+>
+> *  - b) dbá o to, aby jeho rozhodnutí bylo srozumitelně a pečlivě odůvodněno.*
+>
+> *(4) Soudce je povinen při své činnosti mimo výkon funkce soudce a při výkonu svých politických práv si počínat tak, aby tato činnost neohrožovala nebo nenarušovala důvěru v nezávislé, nestranné a spravedlivé rozhodování soudu nebo nenarušovala důstojnost soudcovské funkce anebo mu nebránila v řádném výkonu funkce soudce.*
+>
+> *(5) Soudce je povinen ve svém osobním životě svým chováním dbát o to, aby nenarušovalo důstojnost soudcovské funkce a neohrožovalo nebo nenarušovalo důvěru v nezávislé, nestranné a spravedlivé rozhodování soudů. Soudce zejména*
+>
+> *  - a) nesmí umožnit, aby jeho funkce byla zneužita k prosazování soukromých zájmů,*
+>
+> *  - b) nesmí působit jako rozhodce nebo zprostředkovatel řešení právního sporu, zastupovat účastníky soudního řízení nebo jako zmocněnec poškozeného nebo zúčastněné osoby v soudním nebo správním řízení, s výjimkou zákonného zastoupení a případů, v nichž půjde o zastupování dalšího účastníka řízení, v němž je účastníkem i sám soudce.*
+>
+> *(6) Soudce je povinen zachovávat náležitou úctu k ostatním soudcům, jiným osobám vykonávajícím právnická povolání a k ostatním zaměstnancům soudu a k účastníkům nebo stranám soudního řízení. Ve vztahu k zástupcům účastníků nebo zástupcům stran soudního řízení je povinen se zdržet projevů sympatií, náklonnosti nebo negativních postojů.*
 
 **Výklad:**
 
@@ -407,7 +461,11 @@ Výkon pedagogické činnosti dle § 83 odst. 1 a 2 se považuje za **výkon sou
 
 > **§ 85**
 >
-> *(1) Soudce nesmí ode dne, který je stanoven jako den nástupu do funkce, až do zániku funkce soudce kromě výkonu funkce soudce, funkcionáře soudu, veřejného ochránce práv (...) a činností spojených s dočasným přidělením k Justiční akademii, zastávat žádnou jinou placenou funkci ani vykonávat jinou výdělečnou činnost (...)*
+> *(1) Soudce nesmí ode dne, který je stanoven jako den nástupu do funkce, až do zániku funkce soudce kromě výkonu funkce soudce, funkcionáře soudu, veřejného ochránce práv, ochránce práv dětí nebo jejich zástupce, anebo činností spojených s dočasným přidělením k Justiční akademii, zastávat žádnou jinou placenou funkci ani vykonávat jinou výdělečnou činnost s výjimkou správy vlastního majetku včetně členství v orgánech bytových družstev, společenství vlastníků jednotek a jiných právnických osob, jejichž hlavní předmět činnosti je zaměřen na uspokojování bytových potřeb svých členů, a činnosti vědecké, pedagogické, literární, publicistické, umělecké, aktivního sportovce a činnosti v poradních orgánech ministerstva, vlády a v orgánech komor Parlamentu,5) a to za předpokladu, že taková činnost nenarušuje důstojnost soudcovské funkce nebo neohrožuje důvěru v nezávislost a nestrannost soudnictví.*
+>
+> *(2) Soudce nesmí ode dne jmenování do funkce až do zániku funkce soudce zastávat funkci ve statutárním, řídícím a kontrolním orgánu podnikající právnické osoby a nesmí být svěřenským správcem nebo další osobou určenou k dohledu nad správou svěřenského fondu, jehož účelem je provozování obchodního závodu.*
+>
+> *(3) Výkon funkce soudce je neslučitelný s členstvím v politické straně nebo v politickém hnutí.*
 
 **Výklad:**
 
@@ -469,7 +527,7 @@ Důležitým **opomenutím** je, že předseda senátu jako takový **není** v�
 >
 > *(1) Kárným proviněním soudce je zaviněné porušení povinností soudce, jakož i zaviněné chování nebo jednání, jímž soudce narušuje důstojnost soudcovské funkce nebo ohrožuje důvěru v nezávislé, nestranné, odborné a spravedlivé rozhodování soudů.*
 >
-> *(2) Kárným proviněním předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu je též zaviněné porušení povinností spojených s funkcí (...)*
+> *(2) Kárným proviněním předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu je též zaviněné porušení povinností spojených s funkcí předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu.*
 
 **Výklad:**
 
@@ -499,13 +557,31 @@ Funkcionáři soudu (předsedové, místopředsedové, předsedové kolegií NS/
 >
 > *(1) Za kárné provinění podle § 87 odst. 1 lze uložit soudci podle závažnosti kárného provinění některé z těchto kárných opatření:*
 >
-> *- a) důtku,*
+> *  - a) důtku,*
 >
-> *- b) snížení platu až o 30 % na dobu nejvíce 1 roku a při opětovném kárném provinění (...) na dobu nejvíce 2 let,*
+> *  - b) snížení platu až o 30 % na dobu nejvíce 1 roku a při opětovném kárném provinění, jehož se soudce dopustil v době před zahlazením kárného opatření, na dobu nejvíce 2 let,*
 >
-> *- c) odvolání z funkce předsedy senátu,*
+> *  - c) odvolání z funkce předsedy senátu,*
 >
-> *- d) odvolání z funkce soudce.*
+> *  - d) odvolání z funkce soudce.*
+>
+> *(2) Za kárné provinění podle § 87 odst. 2 lze uložit předsedovi soudu, místopředsedovi soudu, předsedovi kolegia Nejvyššího soudu nebo Nejvyššího správního soudu podle závažnosti kárného provinění některé z těchto kárných opatření:*
+>
+> *  - a) důtku,*
+>
+> *  - b) odnětí zvýšení platového koeficientu za výkon funkce předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu na dobu nejvíce 1 roku a při opětovném kárném provinění, jehož se předseda soudu, místopředseda soudu, předseda kolegia Nejvyššího soudu nebo Nejvyššího správního soudu dopustil v době před zahlazením kárného opatření, na dobu nejvíce 2 let,*
+>
+> *  - c) snížení platu až o 30 % na dobu nejvíce 1 roku a při opětovném kárném provinění, jehož se předseda soudu, místopředseda soudu, předseda kolegia Nejvyššího soudu nebo Nejvyššího správního soudu dopustil v době před zahlazením kárného opatření, na dobu nejvíce 2 let,*
+>
+> *  - d) odvolání z funkce předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu.*
+>
+> *(3) Kárné opatření odvolání z funkce předsedy soudu, místopředsedy soudu nebo předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu lze uložit vedle kárného opatření snížení platu.*
+>
+> *(4) Od uložení kárného opatření lze upustit, jestliže projednání kárného provinění je postačující.*
+>
+> *(5) Za více kárných provinění téhož soudce, předsedy soudu, místopředsedy soudu nebo předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu, projednaných ve společném řízení, se uloží kárné opatření podle ustanovení vztahujícího se na kárné provinění nejpřísněji postižitelné.*
+>
+> *(6) Kárné opatření podle odstavce 1 písm. b) a odstavce 2 písm. b) a c) se vůči kárně postiženému soudci nebo předsedovi soudu, místopředsedovi soudu, předsedovi kolegia Nejvyššího soudu nebo Nejvyššího správního soudu uplatní od prvního dne kalendářního měsíce následujícího po dni nabytí právní moci rozhodnutí o uložení kárného opatření. Do doby, po kterou má být uplatněno kárné opatření podle odstavce 1 písm. b) nebo odstavce 2 písm. b) anebo c), se nezahrnuje doba, po kterou kárně postiženému plat nenáleží, nebo souhrn těchto dob.*
 
 **Výklad:**
 
@@ -549,7 +625,15 @@ Odst. 6 — kárné opatření finanční povahy (b, c) se uplatní od **prvníh
 
 > **§ 88a**
 >
-> *(1) Drobné nedostatky v práci nebo drobné poklesky v chování může orgán státní správy soudů, který je oprávněn podat návrh na zahájení kárného řízení, vyřídit tím, že je soudci (...) písemně vytkne, je-li to postačující.*
+> *(1) Drobné nedostatky v práci nebo drobné poklesky v chování může orgán státní správy soudů, který je oprávněn podat návrh na zahájení kárného řízení, vyřídit tím, že je soudci, předsedovi soudu, místopředsedovi soudu, předsedovi kolegia Nejvyššího soudu nebo Nejvyššího správního soudu písemně vytkne, je-li to postačující.*
+>
+> *(2) Pokud výtku uložil předseda soudu, doručí ji též ministerstvu a předsedovi soudu, který je součástí vyššího článku soustavy soudů, je-li též oprávněn výtku uložit.*
+>
+> *(3) Soudce, předseda soudu, místopředseda soudu a předseda kolegia Nejvyššího soudu nebo Nejvyššího správního soudu může proti výtce podat do 30 dnů od jejího doručení námitky podle zákona o řízení ve věcech soudců, státních zástupců a soudních exekutorů.*
+>
+> *(4) Námitky proti výtce může ve prospěch i v neprospěch soudce, předsedy soudu, místopředsedy soudu nebo předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu podat též orgán státní správy soudů, pokud se mu výtka doručuje. Lhůta podle odstavce 3 se počítá od doručení výtky tomuto orgánu.*
+>
+> *(5) Žaloba proti výtce není přípustná.*
 
 **Výklad:**
 
@@ -578,7 +662,13 @@ Námitky mohou podat i **ve prospěch i v neprospěch** soudce **orgány státn�
 
 > **§ 89**
 >
-> *(1) Odpovědnost soudce a předsedy soudu (...) za kárné provinění zaniká, nebyl-li do 5 let od jeho spáchání podán návrh na zahájení kárného řízení.*
+> *(1) Odpovědnost soudce a předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu za kárné provinění zaniká, nebyl-li do 5 let od jeho spáchání podán návrh na zahájení kárného řízení.*
+>
+> *(2) Lhůta podle odstavce 1 neběží od zahájení do skončení řízení o zpřístupnění protokolu o hlasování vedeného pro týž skutek s touž osobou a od zahájení do skončení řízení o námitkách proti výtce uložené téže osobě pro týž skutek.*
+>
+> *(3) Lhůta podle odstavce 1 se přerušuje zahájením trestního stíhání vedeného pro týž skutek proti téže osobě. Skončením takového trestního stíhání počíná běžet lhůta nová.*
+>
+> *(4) Bylo-li kárné řízení vedeno pro týž skutek proti téže osobě na podkladě návrhu na zahájení kárného řízení, kterým navrhovatel navrhl schválení dohody o vině a kárném opatření, a pokud kárný soud svým rozhodnutím vrátil věc navrhovateli, lhůta podle odstavce 1 neskončí dříve než uplynutím 6 měsíců ode dne právní moci takového rozhodnutí.*
 
 **Výklad:**
 
@@ -620,11 +710,11 @@ Odst. 4 — Specifická úprava pro **dohodu o vině a kárném opatření**: by
 >
 > *Soudce je nezpůsobilý vykonávat soudcovskou funkci, jestliže*
 >
-> *- a) mu nepříznivý zdravotní stav dlouhodobě nedovoluje vykonávat jeho funkci,*
+> *  - a) mu nepříznivý zdravotní stav dlouhodobě nedovoluje vykonávat jeho funkci,*
 >
-> *- b) byl pravomocně odsouzen za trestný čin a takové odsouzení nebylo důvodem k zániku funkce soudce podle § 94 písm. c) (...),*
+> *  - b) byl pravomocně odsouzen za trestný čin a takové odsouzení nebylo důvodem k zániku funkce soudce podle § 94 písm. c), jestliže čin, za který byl soudce odsouzen, svou povahou zpochybňuje důvěryhodnost jeho dalšího setrvání v soudcovské funkci, nebo*
 >
-> *- c) byl v posledních 5 letech před podáním návrhu na zahájení řízení o způsobilosti soudce vykonávat svou funkci nejméně třikrát pravomocně uznán vinným kárným proviněním (...)*
+> *  - c) byl v posledních 5 letech před podáním návrhu na zahájení řízení o způsobilosti soudce vykonávat svou funkci nejméně třikrát pravomocně uznán vinným kárným proviněním, jestliže tato skutečnost zpochybňuje důvěryhodnost jeho dalšího setrvání v soudcovské funkci.*
 
 **Výklad:**
 
@@ -765,11 +855,31 @@ Odlišnost od soudců: přísedící může být **odvolán zastupitelstvem** (�
 >
 > *(1) Soudce je dočasně zproštěn výkonu funkce,*
 >
-> *- a) byl-li jmenován soudcem Ústavního soudu, a to na dobu výkonu této funkce,*
+> *  - a) byl-li jmenován soudcem Ústavního soudu, a to na dobu výkonu této funkce,*
 >
-> *- b) stal-li se soudcem nebo asistentem soudce mezinárodního soudu (...),*
+> *  - b) stal-li se soudcem nebo asistentem soudce mezinárodního soudu nebo byl-li pověřen výkonem obdobné funkce u mezinárodního soudu, a to na dobu výkonu této funkce,*
 >
-> *- c) byl-li dočasně přidělen k ministerstvu nebo Justiční akademii podle § 68 odst. 1 (...)*
+> *  - c) byl-li dočasně přidělen k ministerstvu nebo Justiční akademii podle § 68 odst. 1, a to na dobu tohoto dočasného přidělení,*
+>
+> *  - d) byl-li dočasně přidělen k orgánu nebo organizaci se sídlem mimo území České republiky, do mírové nebo záchranné operace nebo k humanitární pomoci mimo území České republiky podle § 70a odst. 1, a to na dobu tohoto dočasného přidělení.*
+>
+> *(2) Soudce jmenovaný do funkce evropského nejvyššího žalobce je dnem, k němuž mu vznikla tato funkce, dočasně zproštěn výkonu soudcovské funkce.*
+>
+> *(3) Soudce zvolený do funkce veřejného ochránce práv, ochránce práv dětí nebo jejich zástupce je dnem, k němuž mu vznikla tato funkce, dočasně zproštěn výkonu soudcovské funkce.*
+>
+> *(4) Po dobu dočasného zproštění výkonu funkce podle odstavce 1 písm. a), odstavce 2 nebo odstavce 3 soudci plat a další náležitosti spojené s výkonem funkce soudce podle zvláštního právního předpisu3) nenáleží. Po dobu dočasného zproštění funkce podle odstavce 1 písm. b) a d) náleží soudci plat a další náležitosti spojené s výkonem funkce soudce podle zvláštního právního předpisu3), není-li s výkonem funkce u mezinárodního soudu, u orgánu nebo organizace se sídlem mimo území České republiky nebo v mírové nebo záchranné operaci anebo s výkonem funkce v rámci humanitární pomoci mimo území České republiky spojeno poskytování odměny. Po dobu dočasného zproštění výkonu funkce podle odstavce 1 písm. c) náleží soudci plat a další náležitosti spojené s výkonem funkce soudce podle zvláštního právního předpisu3).*
+>
+> *(5) Soudce dočasně zproštěný výkonu funkce soudce podle odstavce 1 písm. b) a d) má nárok na náhrady nákladů poskytované při výkonu funkce v zahraničí, pokud tyto náklady nehradí ten, u něhož tuto funkci vykonává.*
+>
+> *(6) Vláda stanoví nařízením náhrady nákladů poskytovaných při výkonu funkce soudce v zahraničí, a to náhradu*
+>
+> *  - a) zvýšených životních nákladů,*
+>
+> *  - b) zvýšených vybavovacích výdajů,*
+>
+> *  - c) jízdních výdajů a výdajů za ubytování,*
+>
+> *  - d) výdajů spojených s přepravou osobních věcí.*
 
 **Výklad:**
 
@@ -807,11 +917,17 @@ Soudce dočasně zproštěný a vyslaný do zahraničí (b, d) má nárok na **n
 >
 > *(1) Ministr spravedlnosti může dočasně zprostit výkonu funkce soudce,*
 >
-> *- a) který je trestně stíhán, a to do pravomocného skončení trestního stíhání,*
+> *  - a) který je trestně stíhán, a to do pravomocného skončení trestního stíhání,*
 >
-> *- b) je-li kárně stíhán pro takové kárné provinění, pro které je v kárné žalobě navrženo uložení kárného opatření odvolání z funkce (...),*
+> *  - b) je-li kárně stíhán pro takové kárné provinění, pro které je v kárné žalobě navrženo uložení kárného opatření odvolání z funkce, a to na dobu do pravomocného skončení kárného řízení nebo dokud není kárnému soudu doručeno prohlášení soudce, že trvá na projednání věci,*
 >
-> *- c) bylo-li z důvodu uvedeného v § 91 zahájeno řízení o jeho nezpůsobilosti vykonávat soudcovskou funkci (...)*
+> *  - c) bylo-li z důvodu uvedeného v § 91 zahájeno řízení o jeho nezpůsobilosti vykonávat soudcovskou funkci, a to na dobu do pravomocného skončení tohoto řízení.*
+>
+> *(2) Po dobu dočasného zproštění výkonu funkce podle odstavce 1 soudci náleží 50 % platu, na který vznikl soudci ke dni účinnosti dočasného zproštění výkonu funkce a po dobu trvání dočasného zproštění výkonu funkce nárok podle zvláštního právního předpisu.3) Nedošlo-li k zániku funkce, doplatí se soudci zbývající část platu, jestliže by mu na něj jinak vznikl nárok; to neplatí, byl-li soudce pravomocně odsouzen pro trestný čin, bylo-li kárné řízení zastaveno v důsledku vzdání se funkce nebo pokud kárný soud vyslovil, že k zániku funkce by došlo, jestliže by se jí soudce dříve nevzdal.*
+>
+> *(3) K dočasnému zproštění výkonu soudcovské funkce dojde dnem následujícím po dni, v němž bylo soudci doručeno rozhodnutí o dočasném zproštění, nebyl-li v rozhodnutí uveden den pozdější.*
+>
+> *(4) Proti rozhodnutí o dočasném zproštění výkonu funkce podle odstavce 1 písm. b) může soudce do 5 pracovních dnů od jeho doručení podat námitky k soudu, příslušnému podle zvláštního právního předpisu ke kárnému řízení;7a) podání námitek nemá odkladný účinek.*
 
 **Výklad:**
 
@@ -1286,7 +1402,11 @@ Specifikem **předsedy krajského soudu** je rovněž:
 
 > **§ 128**
 >
-> *(1) Zjistí-li příslušný orgán státní správy soudů, že soudce zaviněně porušil své povinnosti při výkonu funkce nebo že chování soudce narušuje důstojnost soudcovské funkce (...), podá návrh na zahájení řízení o kárné odpovědnosti soudců podle zvláštního právního předpisu.*
+> *(1) Zjistí-li příslušný orgán státní správy soudů, že soudce zaviněně porušil své povinnosti při výkonu funkce nebo že chování soudce narušuje důstojnost soudcovské funkce nebo ohrožuje důvěru v nezávislé, nestranné, odborné a spravedlivé rozhodování soudů, podá návrh na zahájení řízení o kárné odpovědnosti soudců podle zvláštního právního předpisu.6)*
+>
+> *(2) Návrh podle zvláštního právního předpisu6) podá příslušný orgán státní správy soudů také tehdy, je-li soudce nezpůsobilý vykonávat soudcovskou funkci podle § 91, nebo pokud zjistí, že soudce, jmenovaný předsedou nebo místopředsedou soudu, závažným způsobem porušuje stanovené povinnosti při výkonu státní správy soudů.*
+>
+> *(3) Příslušný orgán státní správy soudů podá návrh na zahájení řízení o zpřístupnění protokolu o hlasování podle zvláštního právního předpisu6), zjistí-li, že zpřístupnění protokolu může přispět ke zjištění skutečností rozhodných pro podání návrhu podle odstavce 1 nebo 2 proti soudci, o jehož hlasování byl protokol pořízen.*
 
 **Výklad:**
 
@@ -1320,7 +1440,7 @@ Tato úprava prolamuje obecnou **tajnost porady senátu** (která je jednou z kl
 >
 > *(1) Zřizuje se Justiční akademie se sídlem v Kroměříži. Justiční akademie je organizační složkou státu a účetní jednotkou. Dohled nad činností Justiční akademie vykonává ministerstvo.*
 >
-> *(2) Justiční akademie zejména připravuje a po organizační a odborné stránce zabezpečuje výchovně vzdělávací akce v rámci přípravy justičních kandidátů, právních čekatelů, asistentů soudců a soustavné vzdělávání soudců, státních zástupců a dalších osob, působících v justici. (...)*
+> *(2) Justiční akademie zejména připravuje a po organizační a odborné stránce zabezpečuje výchovně vzdělávací akce v rámci přípravy justičních kandidátů, právních čekatelů, asistentů soudců a soustavné vzdělávání soudců, státních zástupců a dalších osob, působících v justici. Justiční akademie může dále zabezpečovat vzdělávací akce pro osoby, které spolupracují s justicí, zejména policejní orgány a orgány sociálně-právní ochrany dětí. Tuto činnost vykonává Justiční akademie v úzké součinnosti se soudy a státními zastupitelstvími tak, aby co nejlépe odpovídala jejich potřebám.*
 
 **Výklad:**
 
