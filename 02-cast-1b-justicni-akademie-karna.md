@@ -189,8 +189,8 @@ Funkční období přísedícího činí dle § 64 odst. 1 (v součinnosti s § 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [7 Tdo 986/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A57C5F5B970351FEC1257A4E006878D7?openDocument) — 17. 8. 2011, kat. A
-  > „I. Z ustanovení § 67 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů, plyne, že soudce může svou funkci vykonávat jen u jednoho konkrétně určeného soudu, k němuž byl přidělen. Stejná zásada platí i pro soudce dočasně přiděleného k výkonu funkce soudce k jinému soudu podle § 68 tohoto zákona, a proto se takový soudce na dobu dočasného přidělení stává soudcem soudu, k němuž byl dočasně přidělen, a po tuto dobu nemá z hlediska výkonu soudcovské funkce žádný vztah k soudu, od něhož byl přidělen. Poznámka redakce: Tyto principy se neuplatní u soudců kárného soudu, a to vzhledem ke speciální zákonné úpravě způsobu, jakým je tento soud sestaven, tak i vymezení jeho kompetencí (viz zákon č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů, ve znění pozdějších předpisů). Rozhodnutí předsedy krajského soudu o dočasném přidělení soudce…"
+- *NS* [7 Tdo 986/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A57C5F5B970351FEC1257A4E006878D7?openDocument) — kat. A, 17. 8. 2011
+  > „I. Z ustanovení § 67 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů, plyne, že soudce může svou funkci vykonávat jen u jednoho konkrétně určeného soudu, k němuž byl přidělen. Stejná zásada platí i pro soudce dočasně přiděleného k výkonu funkce soudce k jinému soudu podle § 68 tohoto zákona, a proto se takový soudce na dobu dočasného přidělení stává soudcem soudu, k němuž byl dočasně přidělen, a po tuto dobu nemá z hlediska výkonu soudcovské funkce žádný vztah k soudu, od něhož byl přidělen. … Rozhodnutí předsedy krajského soudu o dočasném přidělení soudce okresního soudu k výkonu funkce u krajského soudu podle § 68 odst. 1, odst. 2 písm. a) zákona o soudech a soudcích, jakož i výkon funkce takového soudce odpovídají požadavkům kladeným na zákonného soudce podle § 38 odst. 1 Listiny základních práv a svobod … jen tehdy, je-li soudce k výkonu funkce u krajského soudu dočasně přidělen tak, že po dobu takového přidělení přestává vykonávat funkci soudce okresního soudu, k němuž byl přidělen podle § 67 zákona o soudech a soudcích"
 
 ---
 
@@ -224,8 +224,10 @@ Funkční období přísedícího činí dle § 64 odst. 1 (v součinnosti s § 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [7 Tdo 986/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A57C5F5B970351FEC1257A4E006878D7?openDocument) — 17. 8. 2011, kat. A
-  > „I. Z ustanovení § 67 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů, plyne, že soudce může svou funkci vykonávat jen u jednoho konkrétně určeného soudu, k němuž byl přidělen. Stejná zásada platí i pro soudce dočasně přiděleného k výkonu funkce soudce k jinému soudu podle § 68 tohoto zákona, a proto se takový soudce na dobu dočasného přidělení stává soudcem soudu, k němuž byl dočasně přidělen, a po tuto dobu nemá z hlediska výkonu soudcovské funkce žádný vztah k soudu, od něhož byl přidělen. Poznámka redakce: Tyto principy se neuplatní u soudců kárného soudu, a to vzhledem ke speciální zákonné úpravě způsobu, jakým je tento soud sestaven, tak i vymezení jeho kompetencí (viz zákon č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů, ve znění pozdějších předpisů). Rozhodnutí předsedy krajského soudu o dočasném přidělení soudce…"
+- *NS* [7 Tdo 986/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A57C5F5B970351FEC1257A4E006878D7?openDocument) — kat. A, 17. 8. 2011
+  > „I. Z ustanovení § 67 zákona č. 6/2002 Sb., o soudech a soudcích, ve znění pozdějších předpisů, plyne, že soudce může svou funkci vykonávat jen u jednoho konkrétně určeného soudu, k němuž byl přidělen. Stejná zásada platí i pro soudce dočasně přiděleného k výkonu funkce soudce k jinému soudu podle § 68 tohoto zákona, a proto se takový soudce na dobu dočasného přidělení stává soudcem soudu, k němuž byl dočasně přidělen, a po tuto dobu nemá z hlediska výkonu soudcovské funkce žádný vztah k soudu, od něhož byl přidělen. … Právo na zákonného soudce nelze obcházet organizačním opatřením předsedy krajského soudu, jímž bylo „přerušeno“ dočasné přidělení soudce za účelem jeho rozhodování v konkrétní věci u okresního soudu …"
+- *ÚS* [Pl.ÚS 39/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-39-08_1) — nález, 6. 10. 2010
+  > „V citovaném nálezu (č. 349/2002 Sb.) Ústavní soud dospěl k závěru, že imanentním rysem soudcovské funkce je kontinuálnost jejího výkonu. Proto členství v poradních orgánech ministerstva, vlády i obou komor Parlamentu, stejně jako plnění úkolů těchto odlišných složek státní moci, je v rozporu s principem dělby moci, nehledě k tomu, že osobní a mimosoudní vazby, k nimž při takové činnosti dochází, nevyhnutelně zvyšují pravděpodobnost možného střetu zájmů a činí tak nestrannost v podobě nepodjatosti soudců zpochybnitelnou"
 
 #### Trojí typ dočasného přidělení
 
@@ -318,6 +320,11 @@ Platové poměry jsou upraveny **zákonem č. 236/1995 Sb.**, o platu a dalšíc
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 164/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-164-05) — usnesení, 3. 8. 2005
+  > „Povinnost příslušného orgánu vyžádat si souhlas prezidenta republiky k trestnímu stíhání soudce pro činy spáchané při výkonu funkce (§ 76 odst. 1 zákona č. 6/2002 Sb.), jež zakládá do jisté míry pro soudce obecného soudu právní status s určitými rysy imunity, však mj. právě proto nelze chápat jako výsadu či privilegium osoby konkrétního soudce a nejedná se ani o otázku základního práva garantovaného Listinou základních práv a svobod či jinými součástmi ústavního pořádku …"
+
 #### Imunita ve funkčním smyslu
 
 § 76 zakotvuje **funkční (nikoli osobní) imunitu** soudce — vztahuje se pouze na činy **spáchané při výkonu funkce nebo v souvislosti s ním**, nikoli na soukromé jednání (např. dopravní přestupek mimo služební cestu). Pro takový čin lze soudce trestně stíhat běžným způsobem.
@@ -402,8 +409,10 @@ Souhlas prezidenta republiky chrání **institucionální nezávislost** justice
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [27 Cdo 3737/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47AF8EADB4B5B398C125899D0030F40F?openDocument) — 29. 3. 2023, kat. A
-  > „I. Ujednání stanov spolku, která by uvnitř spolku na jedné straně zřizovala rozhodčí komisi, a na druhé straně stanovila, že rozhodnutí rozhodčí komise nepodléhají přezkumu v řízení o zrušení rozhodčího nálezu soudem a zastavení nařízeného výkonu rozhodnutí (ve smyslu § 31 až § 35 zákona č. 216/1994 Sb. ve znění pozdějších předpisů), odporují donucujícím ustanovením zákona. II. Úprava § 89 z. ř. s. umožňující upustit od nařízení jednání se uplatní toliko v řízení před soudem prvního stupně, nikoli v řízení odvolacím. III. Členství v rozhodčí komisi spolku je neslučitelné s výkonem funkce soudce"
+- *ÚS* [Pl.ÚS 22/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-22-09_1) — nález, 7. 9. 2010
+  > „Napadené ustanovení má chránit především nestrannost soudcovského rozhodování, zároveň však i důstojnost soudcovské funkce. … Jestliže je tak stanoveno za účelem nenarušování a neohrožování důstojnosti soudcovské funkce a důvěry v nezávislé, nestranné a spravedlivé rozhodování soudů zákonem č. 6/2002 Sb. v napadeném ustanovení, nelze než konstatovat, že tak bylo učiněno v souladu s ústavním pořádkem"
+- *NS* [27 Cdo 3737/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/47AF8EADB4B5B398C125899D0030F40F?openDocument) — kat. A, 29. 3. 2023
+  > „III. Členství v rozhodčí komisi spolku je neslučitelné s výkonem funkce soudce"
 
 #### Hmotněprávní jádro soudcovské etiky
 
@@ -472,8 +481,8 @@ Výkon pedagogické činnosti dle § 83 odst. 1 a 2 se považuje za **výkon sou
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — 4. 4. 2013, kat. A
-  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 ,odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální ,náhrada výdajů na reprezentaci a na odbornou literaturu"
+- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — kat. A, 4. 4. 2013
+  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální náhrada výdajů na reprezentaci a na odbornou literaturu"
 
 ---
 
@@ -551,6 +560,13 @@ Důležitým **opomenutím** je, že předseda senátu jako takový **není** v�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [I.ÚS 2420/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2420-11_1) — nález, 16. 11. 2011
+  > „Za této situace nelze mít právní názor nadřízeného soudu, kterým zavazuje stěžovatele-soudce soudu nižšího stupně k tomu, aby rozhodl ve smyslu § 419 trestního zákoníku o poměrném zkrácení trestu, za zásah do nezávislosti soudce. Ústavní soud na tomto místě zdůrazňuje, že ctí právo soudce na nezávislé rozhodování a v jeho rámci na vyjádření nezávislého právního názoru, který vždy nemusí být shodný s právními závěry soudu nadřízeného, je však vždy nutno trvat na dodržení zásad spravedlivého procesu, který mimo jiné spočívá v dodržování procesních pravidel zakotvených v trestním řádu (např. § 149 odst. 6 trestního řádu) a zejména pak v dodržování práv zaručených článkem 36 a následujících Listiny základních práv a svobod"
+- *ÚS* [III.ÚS 1076/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1076-07_1) — nález, 21. 1. 2008
+  > „Ústavní soud v této souvislosti připomíná, že je s ohledem na řádné fungování demokratického právního státu třeba, aby funkce soudců vykonávaly pouze osoby s vysokou morální integritou, vědomé si vysoké míry své osobní odpovědnosti, jež je s jejich postavením spjata, a odhodlané vykonávat své povinnosti výhradně v souladu s principy právního státu a svým svědomím"
+
 #### Dvojí skutková podstata kárného provinění
 
 § 87 odst. 1 obsahuje **dvě alternativně formulované skutkové podstaty** kárného provinění soudce:
@@ -604,6 +620,11 @@ Funkcionáři soudu (předsedové, místopředsedové, předsedové kolegií NS/
 > *(6) Kárné opatření podle odstavce 1 písm. b) a odstavce 2 písm. b) a c) se vůči kárně postiženému soudci nebo předsedovi soudu, místopředsedovi soudu, předsedovi kolegia Nejvyššího soudu nebo Nejvyššího správního soudu uplatní od prvního dne kalendářního měsíce následujícího po dni nabytí právní moci rozhodnutí o uložení kárného opatření. Do doby, po kterou má být uplatněno kárné opatření podle odstavce 1 písm. b) nebo odstavce 2 písm. b) anebo c), se nezahrnuje doba, po kterou kárně postiženému plat nenáleží, nebo souhrn těchto dob.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 1076/07](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-1076-07_1) — nález, 21. 1. 2008
+  > „K tomu Ústavní soud poznamenává, že již kárné provinění uvedené pod bodem 1, spočívající v několikaměsíčních průtazích s vyhotovením písemných znění trestních rozsudků, je vzhledem k předchozím výtkám uloženým stěžovateli za stejné nedostatky v jeho práci soudce a jejich dopadům do právní jistoty obviněných osob natolik závažné, že by nebylo lze vytýkat kárnému soudu, pokud by i jen za toto kárné provinění sáhl ke krajnímu kárnému opatření spočívajícímu v odvolání z funkce soudce"
 
 #### Katalog kárných opatření pro soudce — odst. 1
 

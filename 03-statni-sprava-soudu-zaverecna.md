@@ -20,6 +20,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 678/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-678-05) — usnesení, 13. 9. 2006
+  > „Správa soudů je specifickou činností vykonávanou pouze uvnitř soudní soustavy a podmiňující více či méně vlastní rozhodovací činnost soudů… Správa je tedy prováděna ve vztahu k soudu, tj. je obrácena dovnitř a vytváří předpoklady pro výkon soudní činnosti zvláště po stránce materiální, organizační a personální a nesmí zasahovat do nezávislosti soudů (srov. ustanovení § 118 zákona č. 6/2002 Sb., o soudech a soudcích). Ostatně i termín státní správa soudů… naznačuje, že objektem správy je soud, a nikoli záležitosti jiné než jeho vlastní, jako např. záležitosti účastníka řízení"
+- *NSS* [1 As 130/2019 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/652377) — 22. 10. 2019
+  > „i § 118 odst. 2 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), výslovně stanoví, že „[v]ýkon státní správy soudů nesmí zasahovat do nezávislosti soudů.“ Zákon pravomoc zasáhnout do nezávislé rozhodovací činnosti svěřuje toliko hierarchicky nadřazeným soudům v rámci řízení o odvolání, dovolání, kasační stížnosti apod. … O případném pochybení jednotlivých soudců rozhoduje kárný senát"
+
 #### Funkční vymezení státní správy (odst. 1) — servisní, nikoli mocenská funkce
 
 § 118 odst. 1 stanoví **dvě složky** státní správy soudů:
@@ -517,6 +524,11 @@ Pokud soud uplatní výjimku, musí o tom subjekt údajů **bez zbytečného odk
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 1610/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1610-08_1) — usnesení, 12. 12. 2008
+  > „tato povinnost uložená ministerstvem jde nad rozsah toho, co lze považovat za výkon státní správy soudů, což je jediný prostor, v němž se realizuje přímý vztah mezi mocí výkonnou a soudní (z předložených podkladů nevyplývá, že by ministerstvo tímto opatřením sledovalo zajištění podmínek pro řádný výkon soudnictví, zejména po stránce personální, organizační, hospodářské, finanční a výchovné, nebo že by bylo motivováno snahou odvrátit průtahy v řízeních či dohlížet nad důstojností řízení a soudcovskou etikou - srov. § 118 ve spojení s § 123 zákona č. 6/2002 Sb., o soudech a soudcích)"
+
 #### Katalog kompetencí MSp (odst. 1) — strukturální analýza
 
 § 123 odst. 1 obsahuje **klíčový taxativní katalog** patnácti (a) – o)) okruhů působnosti ministerstva spravedlnosti ve věcech státní správy obecných soudů. Katalog lze tematicky rozdělit do pěti skupin:
@@ -921,6 +933,11 @@ Tato třístupňová cesta zajišťuje **odbornou filtraci** a brání zahlcení
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 Kss 2/2017 - 63](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/642113) — 27. 4. 2017
+  > „Součástí výkonu státní správy je i výkon jeho kárné pravomoci, tedy povinnost iniciovat kárné řízení, za podmínek vyplývajících z ustanovení § 128 odst. 1 zákona č. 6/2002 Sb. … Vystupuje-li tedy předseda (krajského) soudu jako kárný navrhovatel […], jde o výkon státní správy; předseda soudu zde tedy vykonává veřejnou moc"
+
 #### Klíčové ustanovení — vstup do kárné jurisdikce
 
 § 128 propojuje ZSS s **paralelním zákonem č. 7/2002 Sb., o řízení ve věcech soudců, státních zástupců a soudních exekutorů** (dále „**zákon o kárném řízení**"). Tento zákon upravuje řízení před kárným senátem Nejvyššího správního soudu (§§ 3, 4 zákona č. 7/2002 Sb. — od novely zák. č. 314/2008 Sb. se kárný senát ustavuje při NSS), které rozhoduje o kárných proviněních soudců, státních zástupců a exekutorů.
@@ -1231,6 +1248,13 @@ Periodické formální „hodnocení" výkonu soudce, jaké existuje u některý
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 180/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-180-04) — nález, 17. 8. 2004
+  > „Ohledně splnění podmínky vyčerpání všech procesních prostředků poskytovaných zákonem k ochraně práv stěžovatele Ústavní soud ve své rozhodovací praxi dříve judikoval, že takovým prostředkem je i stížnost na průtahy řízení předsedovi soudu [§ 164 odst. 1 zákona č. 6/2002 Sb.], a přípustnost ústavní stížnosti podmiňoval předchozím podáním takové stížnosti"
+- *ÚS* [IV.ÚS 1572/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1572-11_1) — nález, 6. 3. 2012
+  > „ve smyslu konečného rozhodnutí Evropského soudu pro lidská práva ze dne 16. října 2007 o přijatelnosti stížnosti č. 40552/02 - Vokurka proti České republice za takový [účinný prostředek nápravy] nebylo možné považovat hierarchickou stížnost na průtahy v řízení podle § 164 odst. 1 zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích)"
+
 #### Stížnost jako prostředek dohledové pravomoci
 
 Stížnost podle § 164 ZSS je **specifickým procesním prostředkem** sloužícím k uplatnění dohledové pravomoci orgánů státní správy soudů. **Nejde o opravný prostředek** v procesním smyslu — stížnost neumožňuje přezkum samotného soudního rozhodnutí, pouze administrativní dohled nad způsobem výkonu funkce soudce a chodu soudu.
@@ -1521,10 +1545,12 @@ Pokud stěžovatel podá v téže věci opakovanou stížnost **bez nových skut
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cul 5/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A53540B46BEAC12C1257A830035D4BD?openDocument) — 10. 9. 2012, kat. A
+- *NS* [21 Cul 3/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AC07550A420AAC9C1257A4E00652591?openDocument) — kat. A, 12. 1. 2005
+  > „V řízení o návrhu na určení lhůty k procesnímu úkonu podle ustanovení § 174a zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, může příslušný soud stanovit lhůtu jen ve vztahu k takovým procesním úkonům, o jejichž provedení soud, vůči němuž návrh směřuje, již rozhodl (a je v prodlení s jejich provedením) nebo jejichž potřeba provedení - i když o nich dosud nebylo rozhodnuto - je podle obsahu spisu a s přihlédnutím k povaze věci nepochybná a které ve věci musí být podle zákona…"
+- *NS* [21 Cul 5/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3A53540B46BEAC12C1257A830035D4BD?openDocument) — kat. A, 10. 9. 2012
   > „Návrhem podle ustanovení § 174a zákona č. 6/2002 Sb., o soudech a soudcích, se nelze domáhat určení lhůty k nařízení jednání, jestliže potřeba jeho provedení není s přihlédnutím k povaze věci nepochybná"
-- *NS* [21 Cul 3/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4AC07550A420AAC9C1257A4E00652591?openDocument) — 12. 1. 2005, kat. A
-  > „V řízení o návrhu na určení lhůty k procesnímu úkonu podle ustanovení § 174a zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, může příslušný soud stanovit lhůtu jen ve vztahu k takovým procesním úkonům, o jejichž provedení soud, vůči němuž návrh směřuje, již rozhodl (a je v prodlení s jejich provedením) nebo jejichž potřeba provedení - i když o nich dosud nebylo rozhodnuto - je podle obsahu spisu a s přihlédnutím k povaze věci nepochybná a které ve věci musí být podle zákona učiněny. Při rozhodování o tomto návrhu může příslušný soud stanovit lhůtu jen k provedení takového procesního úkonu, u něhož jsou v návrhu namítány (tvrzeny) průtahy navrhovanou délkou lhůty k provedení procesního úkonu však není vázán"
+- *ÚS* [IV.ÚS 392/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-392-05) — nález, 30. 11. 2005
+  > „Přístup Ústavního soudu se změnil po nabytí účinnosti ustanovení § 174a zákona č. 6/2002 Sb., o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích), ve znění pozdějších předpisů, které zavedlo nový procesní prostředek k ochraně práva na projednání věci bez zbytečných průtahů, a to návrh soudu na určení lhůty k provedení procesního úkonu"
 
 #### Mimořádný procesní prostředek — vnitrostátní nápravný prostředek dle čl. 13 EÚLP
 
@@ -1605,6 +1631,11 @@ Proti usnesení o návrhu na určení lhůty **nejsou přípustné opravné pros
 > *- b) zásadní opatření týkající se organizace soudů, postavení soudců a výkonu státní správy soudů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 5/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-5-24_1) — nález, 15. 5. 2024
+  > „Za dostačující Ústavní soud pokládá, je-li návrh zákona ve výše uvedeném smyslu projednán s předsedy Nejvyššího soudu, Nejvyššího správního soudu, vrchních soudů a krajských soudů a dále se zájmovými organizacemi soudců (srov. obdobně § 175 zákona č. 6/2002 Sb. o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů), na jejichž vnitřních organizačních pravidlech je, koho pověří formulováním svého stanoviska"
 
 #### Zájmové organizace soudců jako konzultativní partner
 
