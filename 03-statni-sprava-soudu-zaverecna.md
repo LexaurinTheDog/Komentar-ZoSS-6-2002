@@ -58,6 +58,42 @@ Z § 118 odst. 2 vyplývají tři **negativní zákazy** pro orgány státní sp
 
 > **Srovnání s ústavním pořádkem:** § 118 odst. 2 konkretizuje na zákonné úrovni čl. 81 a čl. 82 odst. 1 Ústavy. Ústavní soud v Pl. ÚS 18/06 (odvolání Ivy Brožové z funkce předsedkyně NS) výslovně dovodil, že **i funkcionáři soudu (předseda, místopředseda) jsou v rozsahu výkonu soudcovské funkce nezávislí** a jejich administrativní role nesmí být využita jako nástroj politického vlivu. Toto pojetí odlišuje českou úpravu od některých zahraničních modelů (např. ministerský model německé Bavorské justiční správy), kde má MSp výrazně silnější pozici.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Místopředseda krajského soudu, nespokojený s právním názorem jedné soudkyně civilního úseku, vyzve předsedu soudu, aby soudkyni v rámci „dohledu" nad činností soudu uložil revidovat již vyhlášený, dosud nepravomocný rozsudek a rozhodnout opačně, případně aby jí byla snížena nápadová zátěž jako „opatření za chybné rozhodování". Soudkyně se brání s tím, že jde o nepřípustný zásah do její nezávislosti. Důkazy: písemný pokyn/e-mail funkcionáře, záznam o prověrce spisu, rozvrh práce, protokol o jednání.
+
+**2. Právní otázka.** Je pokyn funkcionáře soudu hodnotící věcnou správnost právního názoru soudce a směřující ke změně rozhodnutí výkonem státní správy soudů ve smyslu § 118 odst. 1, nebo nepřípustným zásahem do nezávislosti soudů podle § 118 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118 — servisní vymezení státní správy (odst. 1) a absolutní zákaz zásahu do nezávislosti soudů (odst. 2).
+- *Související ustanovení téhož zákona:* § 123 odst. 2 (dozor MSp omezen jen na důstojnost, etiku a průtahy), § 124 odst. 2, § 126 odst. 2 (paralelní omezení pro funkcionáře), § 41 (rozvrh práce a zákonný soudce).
+- *Související předpisy:* čl. 81, čl. 82 odst. 1 Ústavy; čl. 38 odst. 1 Listiny (zákonný soudce); zákon č. 7/2002 Sb. (kárná jurisdikce jako jediná cesta postihu pochybení soudce).
+- *Judikatura:* ÚS IV.ÚS 678/05 (správa je obrácena dovnitř, nesmí zasahovat do nezávislosti); NSS 1 As 130/2019 (do rozhodovací činnosti lze zasáhnout jen opravnými prostředky nadřízeného soudu, o pochybení soudce rozhoduje kárný senát); Pl. ÚS 18/06 (i funkcionář je v rozsahu soudcovské funkce nezávislý).
+
+**4. Subsumpce.** Vytváření podmínek pro výkon soudnictví (odst. 1) nezahrnuje hodnocení věcné správnosti rozhodnutí. Pokyn ke změně názoru i sankční snížení nápadu míří přímo na obsah rozhodování — naplňují tedy znak „zásahu do nezávislosti" (odst. 2). Hranice dozoru (důstojnost, etika, průtahy) překročena.
+
+**5. Řešení.** Pokyn je nicotný/nezávazný; soudkyně jej nemusí respektovat a rozhoduje podle svého přesvědčení a zákona. Domnělé pochybení lze řešit výlučně opravným prostředkem (odvolání účastníka) nebo kárným návrhem (§ 128), nikoli pokynem státní správy. Soudkyně se může bránit též stížností a oznámením o zásahu do nezávislosti.
+
+**6. Varianty.** (a) Pokud by funkcionář pouze upozornil na opakované nedůvodné průtahy v této věci a vyzval k jejich odstranění, šlo by o legitimní dozor (§ 123 odst. 2). (b) Pokud by šlo o organizační opatření (přidělení asistenta, úprava rozvrhu pro futuro dle § 41), nešlo by o zásah do meritu.
+
+##### G. Protiargumenty a rizika
+
+- *„Dohled na řádné plnění úkolů (odst. 1) zahrnuje i kontrolu kvality rozhodování."* Neutralizace: dohled je výslovně vázán „způsobem a v mezích tímto zákonem stanovených" a § 123 odst. 2 taxativně omezuje hodnocení na důstojnost, etiku a průtahy; věcná správnost je vyhrazena instanční soustavě.
+- *„Funkcionář je nadřízený, může tedy dávat pokyny."* Neutralizace: nadřízenost je jen administrativní; v rozhodovací činnosti je i řadový soudce nezávislý (Pl. ÚS 18/06).
+- Slabé místo: hranice mezi legitimní prověrkou průtahů a skrytým nátlakem je v praxi obtížně prokazatelná — nutno dbát na systematičnost a věcné odůvodnění dozorových úkonů.
+
+##### H. Praktický závěr
+
+Státní správa soudů je servisní a dozorová funkce s pevně ohraničeným obsahem; jakýkoli zásah do meritu rozhodování, přidělování věcí mimo rozvrh či selektivní dozor je protiústavní. Pochybení soudce se řeší opravnými prostředky a kárně, nikoli pokyny správy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Směřuje úkon státní správy k vytvoření podmínek pro výkon soudnictví, nebo k obsahu rozhodnutí?
+- [ ] Drží se dozor v mezích § 123 odst. 2 (důstojnost, etika, průtahy)?
+- [ ] Není opatření selektivně namířeno na konkrétního soudce?
+- [ ] Je správné řešení vedeno cestou opravného prostředku / kárného návrhu, nikoli pokynem?
+
+**Typicky rozhodné důkazy / podklady:** písemný pokyn či e-mail funkcionáře, záznam o prověrce spisu, rozvrh práce a jeho změny, protokoly o jednání, stížnostní spis.
+
 ---
 
 #### § 118a — Databáze rozhodnutí
@@ -83,6 +119,42 @@ Databáze je veřejným informačním systémem podle zákona č. 365/2000 Sb., 
 Detaily (kategorie zveřejňovaných rozhodnutí, anonymizace dle GDPR a procesních předpisů, rozsah a postup) jsou ponechány **vyhlášce MSp**. Zákon tak respektuje nutnost flexibilního podzákonného řešení technických aspektů, ale zachovává si výsadu klíčových parametrů (existence Databáze, povinnost zveřejňovat) na úrovni zákona.
 
 > **Srovnání s úpravou Nejvyššího soudu a Nejvyššího správního soudu:** Zveřejňování rozhodnutí nejvyšších soudů upravují speciální normy (§ 24 ZSS pro NS, § 22 z. č. 150/2002 Sb., soudní řád správní, pro NSS), a to vlastní sbírkou rozhodnutí (Sbírka rozhodnutí NS, Sbírka NSS). § 118a se na nejvyšší soudy nevztahuje.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Občan, advokát i akademik žádají přístup k pravomocnému rozsudku okresního soudu v mediálně sledované věci. Soud sdělí, že rozhodnutí v Databázi není, neboť „nespadá do kategorie zveřejňovaných rozhodnutí podle vyhlášky". Žadatel namítá, že každé pravomocné rozhodnutí má být dostupné. Důkazy: žádost, sdělení soudu, znění prováděcí vyhlášky MSp, kategorizace rozhodnutí.
+
+**2. Právní otázka.** Zakládá § 118a subjektivní právo na zveřejnění každého konkrétního pravomocného rozhodnutí v Databázi, nebo je rozsah zveřejnění určen vyhláškou MSp v mezích zákonného zmocnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118a — povinnost MSp provozovat veřejně dostupnou Databázi (odst. 1) a povinnost soudů zveřejňovat pravomocná rozhodnutí v rozsahu stanoveném vyhláškou (odst. 2).
+- *Související ustanovení téhož zákona:* § 123 odst. 1 písm. m (MSp organizuje a kontroluje zveřejňování), § 24 ZSS (Sbírka rozhodnutí NS — odlišný režim).
+- *Související předpisy:* zákon č. 365/2000 Sb. o ISVS; zákon č. 106/1999 Sb. (svobodný přístup k informacím — paralelní cesta); čl. 96 odst. 2 Ústavy (veřejné vyhlašování rozsudků); GDPR a procesní předpisy (anonymizace).
+- *Judikatura:* obecně známý závěr správních soudů, že rozsah informační povinnosti vázané na podzákonný předpis je dán mezemi zákonného zmocnění; nelze žádat plnění nad rámec zmocnění, ale ani jej podzákonně zúžit pod zákonné minimum.
+
+**4. Subsumpce.** § 118a odst. 2 výslovně svěřuje vymezení kategorie, postupu a rozsahu zveřejnění vyhlášce. Subjektivní právo na zveřejnění konkrétního rozhodnutí přímo ze zákona neplyne; existuje však povinnost soudu zveřejnit rozhodnutí spadající do vyhláškou určené kategorie.
+
+**5. Řešení.** Spadá-li rozhodnutí do kategorie podle vyhlášky a nebylo zveřejněno, jde o porušení povinnosti, jež lze řešit stížností (§ 164) a podnětem k MSp (§ 123 odst. 1 písm. m). Nezávisle na Databázi má žadatel právo požádat o rozhodnutí podle zákona č. 106/1999 Sb. (s anonymizací).
+
+**6. Varianty.** (a) Jde-li o rozhodnutí NS/NSS, § 118a se neuplatní (zvláštní úprava sbírek). (b) Bránila-li by se vyhláška zveřejnění celé třídy pravomocných rozhodnutí způsobem popírajícím účel zákona, byla by v rozsahu excesu nezákonná.
+
+##### G. Protiargumenty a rizika
+
+- *„Každý pravomocný rozsudek musí být v Databázi."* Neutralizace: zákon výslovně deleguje rozsah na vyhlášku; plošná povinnost ze zákona neplyne, byť účelem je co nejširší transparentnost.
+- *„Anonymizace brání zveřejnění."* Neutralizace: anonymizace je technický předpoklad, nikoli důvod nezveřejnění; soud zveřejní rozhodnutí v anonymizované podobě.
+- Slabé místo: zákon nestanoví lhůtu pro zveřejnění ani sankci za nezveřejnění — vynutitelnost je nepřímá (stížnost, dohled MSp).
+
+##### H. Praktický závěr
+
+§ 118a vytváří institucionální základ veřejné dostupnosti judikatury nižších soudů; konkrétní rozsah řídí vyhláška MSp. Žadatel má dvě cesty: Databázi a žádost podle informačního zákona.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá rozhodnutí do kategorie zveřejňované podle vyhlášky?
+- [ ] Bylo zveřejněno v anonymizované podobě dálkovým přístupem?
+- [ ] Nejde o rozhodnutí NS/NSS s odlišným režimem (§ 24 ZSS)?
+- [ ] Lze využít paralelní cestu podle zákona č. 106/1999 Sb.?
+
+**Typicky rozhodné důkazy / podklady:** žádost a sdělení soudu, znění a kategorizace dle prováděcí vyhlášky MSp, výstup z Databáze, případně rozhodnutí o žádosti dle informačního zákona.
 
 ---
 
@@ -142,6 +214,42 @@ Odst. 3 zavádí možnost **delegace dílčích úkonů** na ne-funkcionáře (p
 
 Delegace vyžaduje **souhlas** delegovaného (§ 121 odst. 5) a nezbavuje odpovědnosti delegujícího funkcionáře.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Ředitel správy krajského soudu (zaměstnanec, nikoli funkcionář) z vlastní iniciativy vydá rozvrh práce, kterým přerozdělí věci mezi soudce. Jeden účastník následně namítá, že o jeho věci rozhodl soudce určený osobou bez zákonné působnosti. Důkazy: rozvrh práce a jeho autor, pracovní smlouva ředitele, organizační řád soudu.
+
+**2. Právní otázka.** Může být orgánem státní správy soudů (a vykonávat výhradní pravomoci jako vydání rozvrhu práce) jiná osoba než ta, kterou taxativně uvádí § 119 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 119 — taxativní výčet orgánů státní správy soudů (odst. 2); pouze „podílení se" ne-funkcionářů (odst. 3).
+- *Související ustanovení téhož zákona:* § 41 (rozvrh práce vydává předseda soudu), § 121 odst. 5 (delegace jen jednotlivých úkonů se souhlasem soudce), § 122a (ředitel správy je zaměstnanec, ne funkcionář), § 102 a násl. (jmenování funkcionářů).
+- *Související předpisy:* čl. 38 odst. 1 Listiny (zákonný soudce); čl. 81 Ústavy.
+- *Judikatura:* obecně přijímaný závěr, že rozvrh práce je výhradní pravomocí předsedy soudu a porušení pravidel jeho tvorby může zakládat porušení práva na zákonného soudce.
+
+**4. Subsumpce.** Ředitel správy soudu není uveden v § 119 odst. 2; je toliko zaměstnancem „podílejícím se" na správě (odst. 3) a § 122a. Vydání rozvrhu práce je výhradní pravomocí předsedy (§ 41), nepřenosnou ani delegací (§ 121 odst. 5 dovoluje jen jednotlivé úkony). Ředitel tedy jednal mimo svou působnost.
+
+**5. Řešení.** Rozvrh vydaný ředitelem je vadný (akt osoby bez působnosti); rozhodoval-li podle něj jiný než zákonný soudce, jde o porušení čl. 38 odst. 1 Listiny — vada uplatnitelná v odvolání/dovolání i ústavní stížnosti. Náprava: rozvrh musí vydat (zhojit) předseda soudu.
+
+**6. Varianty.** (a) Pověřil-li by předseda ředitele pouze technickou přípravou podkladů a rozvrh sám vydal a podepsal, vada by nevznikla. (b) Šlo-li by o pověření soudce jednotlivým úkonem správy s jeho souhlasem (§ 121 odst. 5), bylo by přípustné.
+
+##### G. Protiargumenty a rizika
+
+- *„Ředitel správy fakticky řídí provoz, může tedy i rozvrh."* Neutralizace: provozní zajištění (§ 122a) nezahrnuje výhradní pravomoci předsedy; § 119 odst. 2 je taxativní.
+- *„Odst. 3 umožňuje podílení se zaměstnanců."* Neutralizace: „podílení se" je výkon dílčích, delegovaných úkonů, nikoli nositelství výhradní působnosti.
+- Slabé místo: v praxi ředitelé fakticky připravují řadu podkladů — nutno odlišit přípravu (přípustnou) od vlastního rozhodovacího aktu (vyhrazeného předsedovi).
+
+##### H. Praktický závěr
+
+Okruh orgánů státní správy soudů je uzavřený; výhradní pravomoci náleží funkcionářům dle § 119 odst. 2 a ne-funkcionáři je vykonávat nemohou, jen se na správě dílčím způsobem podílejí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je osoba činící úkon správy uvedena v § 119 odst. 2?
+- [ ] Nejde o výhradní pravomoc předsedy (rozvrh práce, jmenování, kárný návrh)?
+- [ ] Pokud jedná ne-funkcionář, jde jen o delegovaný jednotlivý úkon se souhlasem (§ 121 odst. 5)?
+- [ ] U NSS je třeba zohlednit zvláštní úpravu (§ 120 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh práce a údaj o jeho vydavateli, jmenovací akty funkcionářů, pracovní smlouva/organizační řád ředitele správy, doklad o pověření a souhlasu soudce.
+
 ---
 
 ### Díl 2 — Výkon státní správy soudů
@@ -184,6 +292,42 @@ Ve věcech majetku a rozpočtu zákon **obligatorně** stanoví prostřednictví
 
 - *Hospodářsko-organizační* — předseda soudu jako vedoucí organizační složky státu (§ 11 zákona č. 219/2000 Sb., o majetku ČR) je nejlépe schopen reálně rozhodnout o detailech majetkové dispozice (např. nájem prostor, drobná údržba);
 - *Ochrana nezávislosti* — vyloučením přímých zásahů MSp do majetkového hospodaření jednotlivého soudu se zmírňuje riziko, že by ministerstvo využilo „rozpočtových škrtů" jako nepřímého nátlaku na konkrétní soudce nebo soud.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** MSp chce provést personální opatření (např. zahájit prověrku hospodaření) přímo u Nejvyššího soudu a vyšle své pracovníky bez součinnosti s předsedou NS. Předseda NS namítá, že státní správu NS lze vykonávat výhradně jeho prostřednictvím. Souběžně MSp u jednoho okresního soudu řeší rozpočtový limit přímo, nikoli přes předsedu OS. Důkazy: pokyn MSp, korespondence s předsedy soudů, rozpočtová dokumentace.
+
+**2. Právní otázka.** Smí MSp vykonávat státní správu Nejvyššího soudu přímo a smí ve věcech státního rozpočtu jednat jinak než prostřednictvím předsedy soudu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 120 — tři způsoby výkonu (odst. 1), obligatorní prostřednictví u NS (odst. 2), autonomie NSS (odst. 3), obligatorní prostřednictví předsedů ve věcech majetku a rozpočtu (odst. 4).
+- *Související ustanovení téhož zákona:* § 119 (orgány správy), § 123 (působnost MSp), § 124 odst. 5, § 126 odst. 1 písm. b, c (rozpočtová mezistruktura).
+- *Související předpisy:* zákon č. 150/2002 Sb. (s. ř. s.) — správa NSS; zákon č. 219/2000 Sb. o majetku ČR (předseda jako vedoucí org. složky); zákon č. 218/2000 Sb. o rozpočtových pravidlech (kapitola 336); čl. 92 Ústavy (postavení NS).
+- *Judikatura:* ÚS IV.ÚS 1610/08 (opatření MSp nad rámec § 118 ve spojení s § 123 je nepřípustné) — analogicky stvrzuje vázanost způsobů výkonu zákonem.
+
+**4. Subsumpce.** Státní správu NS lze podle odst. 2 vykonávat výhradně prostřednictvím předsedy NS — přímý zásah MSp je vyloučen. Ve věcech rozpočtu odst. 4 obligatorně předepisuje prostřednictví předsedů. Postup MSp v obou liniích je tedy se zákonem v rozporu.
+
+**5. Řešení.** MSp musí u NS jednat přes předsedu NS a u rozpočtových věcí OS přes předsedu OS (resp. v rozpisové linii přes předsedu KS — § 126). Přímý úkon je vadný; předseda NS jej může odmítnout a domáhat se respektování § 120 odst. 2.
+
+**6. Varianty.** (a) U běžného okresního soudu v organizační (nerozpočtové) věci může MSp volit přímý výkon i prostřednictví — diskrece dle odst. 1. (b) U NSS MSp správu nevykonává vůbec (odst. 3).
+
+##### G. Protiargumenty a rizika
+
+- *„MSp je ústřední orgán, může tedy jednat přímo všude."* Neutralizace: ústřední postavení (§ 119 odst. 1) je omezeno způsoby výkonu v § 120; u NS a u rozpočtu je prostřednictví obligatorní.
+- *„Rozpočtová efektivita vyžaduje přímý zásah."* Neutralizace: zákon vědomě volí prostřednictví předsedů jako pojistku proti nepřímému nátlaku rozpočtem.
+- Slabé místo: hranice mezi „organizační" a „rozpočtovou" věcí může být sporná — při pochybnosti volit přísnější režim prostřednictví.
+
+##### H. Praktický závěr
+
+Způsob výkonu státní správy je předepsán zákonem: u nižších a vrchních soudů diskrece mezi přímým výkonem a prostřednictvím, u NS vždy přes předsedu, u NSS autonomně, u majetku a rozpočtu vždy přes předsedy soudů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O který soud jde (NS, NSS, vrchní, krajský, okresní)?
+- [ ] Jde o věc majetku/rozpočtu (pak vždy přes předsedu)?
+- [ ] U NS je zvolen výkon prostřednictvím předsedy?
+- [ ] U NSS se neaplikuje ZSS, nýbrž s. ř. s.?
+
+**Typicky rozhodné důkazy / podklady:** pokyn/akt MSp, korespondence mezi MSp a předsedy soudů, rozpočtová a majetková dokumentace, vymezení organizační složky státu.
 
 ---
 
@@ -230,6 +374,42 @@ Pověření má **tři kumulativní podmínky**:
 
 > **Praktický příklad:** Předseda krajského soudu může pověřit zkušeného soudce vedením personální agendy asistentů soudců, organizací odborné stáže pro justiční kandidáty nebo prováděním prověrek soudních spisů (§ 126 odst. 2 písm. a). Nemůže však pověřit soudce vyřizováním stížností (§ 170 — pravomoc je vázána přímo na předsedu KS) ani vydáváním rozvrhu práce (§ 41 — výhradní pravomoc předsedy).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Předseda krajského soudu pověří zkušeného soudce vedením personální agendy asistentů a organizací stáží justičních kandidátů; soudce souhlasí. Později předseda týmž neformálním pověřením přenese na soudce i vyřizování stížností na jiné soudce (§ 170) a chce, aby tento „úkol" plnil trvale. Soudce namítá, že stížnostní agenda je vázána na předsedu a že nejde o „jednotlivý úkon". Důkazy: pověřovací akt, souhlas soudce, rozsah agendy, stížnostní spisy.
+
+**2. Právní otázka.** Lze pověřením podle § 121 odst. 5 přenést na soudce i pravomoc vyřizovat stížnosti a trvale celou agendu, nebo jen jednotlivé úkony se souhlasem soudce a při zachování odpovědnosti předsedy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 121 — primární kompetence předsedy (odst. 1), derivativní působnost místopředsedů (odst. 2–4), pověření jednotlivými úkony se souhlasem soudce (odst. 5).
+- *Související ustanovení téhož zákona:* § 119 odst. 3 (podílení se), § 170 (stížnostní pravomoc předsedy), § 41 (rozvrh práce), § 122a (ředitel správy).
+- *Související předpisy:* čl. 82 odst. 1 Ústavy (nezávislost soudce — primát rozhodování nad administrativou); § 164 a násl. ZSS (stížnostní řízení).
+- *Judikatura:* zásada, že výhradní pravomoci funkcionáře nelze přenášet nad rámec zákonného zmocnění; delegace se vykládá restriktivně.
+
+**4. Subsumpce.** § 121 odst. 5 dovoluje jen pověření „jednotlivými úkony" se souhlasem soudce a při zachování odpovědnosti předsedy. Vyřizování stížností je vázáno přímo na předsedu (§ 170) a trvalé přenesení celé agendy překračuje pojem „jednotlivého úkonu" (k tomu slouží institut místopředsedy). Pověření vedením personální agendy je naopak v mezích odst. 5.
+
+**5. Řešení.** Pověření personální agendou a organizací stáží je platné. Přenesení stížnostní agendy je neúčinné — stížnosti musí vyřizovat předseda (popř. místopředseda v rozsahu pověření). Soudce může plnění odmítnout; vyřízení stížnosti soudcem bez působnosti by bylo vadné.
+
+**6. Varianty.** (a) Časově/věcně ohraničené pověření jedním konkrétním úkonem (např. prověrkou jednoho spisu) je přípustné. (b) Pro trvalé převzetí agendy by předseda musel využít místopředsedu (§ 121 odst. 2–4).
+
+##### G. Protiargumenty a rizika
+
+- *„Odst. 5 nestanoví, které úkony nelze delegovat."* Neutralizace: meze plynou z jiných ustanovení (§ 170, § 41) svěřujících pravomoc výslovně předsedovi a z požadavku „jednotlivosti" úkonu.
+- *„Souhlas soudce legitimizuje jakékoli pověření."* Neutralizace: souhlas je nutná, nikoli postačující podmínka; navíc nesmí jít o trvalé přenesení agendy.
+- Slabé místo: odpovědnost zůstává předsedovi i při pověření — vadné provedení úkonu soudcem jde k tíži předsedy, který musí zajistit dohled.
+
+##### H. Praktický závěr
+
+Předseda je prvotním nositelem správní působnosti; místopředsedové ji odvozují z pověření a soudce lze pověřit jen jednotlivými úkony se souhlasem a při zachování odpovědnosti předsedy. Výhradní pravomoci (rozvrh, stížnosti) zůstávají u předsedy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o jednotlivý, ohraničený úkon, nebo o trvalé přenesení agendy?
+- [ ] Dal pověřený soudce souhlas?
+- [ ] Nejde o výhradní pravomoc předsedy (rozvrh, stížnosti)?
+- [ ] Zůstává zachována odpovědnost a dohled předsedy?
+
+**Typicky rozhodné důkazy / podklady:** pověřovací akt a jeho rozsah, písemný souhlas soudce, rozvrh práce, stížnostní spisy, organizační uspořádání úseků mezi místopředsedy.
+
 ---
 
 #### § 122 — Spolupráce se soudcovskými radami
@@ -256,6 +436,42 @@ Typické případy vyjádření soudcovské rady stanovuje § 50 a násl. ZSS:
 | Zájmy soudců v hospodářsko-organizačních věcech | § 51 |
 
 > **Charakter institutu:** Soudcovské rady představují v české úpravě **slabší formu soudcovské samosprávy** ve srovnání s italským CSM nebo polskou KRS. Zatímco italský CSM rozhoduje o kariéře soudců, česká soudcovská rada se „pouze" vyjadřuje. Diskuze o posílení role soudcovských rad (zřízení Nejvyšší rady soudnictví, soudní samospráva) je trvalou součástí české justiční politiky.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Předseda krajského soudu vydá zásadní změnu rozvrhu práce (přesun celé specializace mezi senáty) bez vyžádání vyjádření soudcovské rady. Soudcovská rada i dotčení soudci namítají porušení konzultativního práva. Předseda tvrdí, že vyjádření rady je nezávazné, a tedy zbytné. Důkazy: změna rozvrhu, doklad o (ne)vyžádání vyjádření, zápisy soudcovské rady.
+
+**2. Právní otázka.** Zakládá § 122 (ve spojení s § 41 odst. 4 a § 51 ZSS) povinnost orgánu státní správy soudů vyžádat a zohlednit vyjádření soudcovské rady, a jaký je následek jejího opomenutí, je-li vyjádření nezávazné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122 — povinnost vykonávat správu „s přihlédnutím" k vyjádřením soudcovských rad v zákonem stanovených případech.
+- *Související ustanovení téhož zákona:* § 41 odst. 4 (rozvrh práce a vyjádření rady), §§ 46–59 (soudcovské rady), § 50, § 51 (případy vyjádření), § 102 odst. 4 (jmenování předsedy senátu).
+- *Související předpisy:* zásady řádné správy; požadavek odůvodnění odklonu od stanoviska poradního orgánu.
+- *Judikatura:* obecný správní princip, že povinnost „přihlédnout" znamená vyžádat, vzít v úvahu a odůvodnit případný odklon; opomenutí obligatorní konzultace je vadou postupu.
+
+**4. Subsumpce.** Jde-li o případ, kde zákon (§ 41 odst. 4, § 51) vyžaduje vyjádření rady, je vyžádání obligatorní procesní podmínkou. „Přihlédnout" neznamená vázanost obsahem, ale povinnost vyjádření opatřit a vypořádat. Úplné opomenutí konzultace je porušením § 122.
+
+**5. Řešení.** Předseda měl vyjádření rady vyžádat; pokud tak neučinil v případě, kdy to zákon ukládá, jde o vadu postupu. Náprava: dodatečné vyžádání vyjádření a řádné odůvodnění rozhodnutí. Nezávaznost vyjádření nezbavuje povinnosti je opatřit.
+
+**6. Varianty.** (a) Jde-li o věc, kde zákon vyjádření rady nepředepisuje, povinnost konzultace neexistuje. (b) Vyžádal-li předseda vyjádření a odůvodněně se od něj odchýlil, postupoval správně.
+
+##### G. Protiargumenty a rizika
+
+- *„Vyjádření je nezávazné, takže je lze pominout."* Neutralizace: nezávaznost se týká obsahu, nikoli povinnosti vyjádření vyžádat a vypořádat.
+- *„Rada je jen poradní orgán."* Neutralizace: i poradní vstup je v zákonem určených věcech obligatorní procesní podmínkou.
+- Slabé místo: zákon výslovně nestanoví sankci za opomenutí — vada se projeví spíše ve stížnostní/dozorové rovině a oslabuje legitimitu rozhodnutí.
+
+##### H. Praktický závěr
+
+V zákonem vymezených věcech musí orgán státní správy soudů vyžádat vyjádření soudcovské rady, zohlednit je a odůvodnit případný odklon; obsahem však vázán není. Jde o slabší formu soudcovské participace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá věc do případů, kde zákon předepisuje vyjádření rady (§ 41 odst. 4, § 51)?
+- [ ] Bylo vyjádření skutečně vyžádáno?
+- [ ] Bylo vypořádáno a případný odklon odůvodněn?
+- [ ] Nezaměňuje se nezávaznost obsahu za zbytnost konzultace?
+
+**Typicky rozhodné důkazy / podklady:** akt orgánu státní správy (rozvrh, jmenování), doklad o vyžádání a obsahu vyjádření soudcovské rady, zápisy z jednání rady, odůvodnění rozhodnutí.
 
 ---
 
@@ -293,6 +509,42 @@ Z toho plyne, že ředitel správy je hierarchicky **podřízen** předsedovi so
 
 Funkce ředitele je vykonávána v **pracovním poměru** — nikoli jmenováním do soudcovské funkce (§ 84). Pracovní poměr vzniká **jmenováním** (§ 33 odst. 3 zákoníku práce), takže ředitel není soudcem a nepožívá ochrany podle čl. 82 odst. 2 Ústavy (neodvolatelnost). Předseda jej může odvolat z funkce kdykoli postupem podle zákoníku práce, čímž pracovní poměr zaniká, resp. se mění na poměr na jinou pracovní pozici (§ 73a zákoníku práce).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Ředitel správy okresního soudu z vlastní iniciativy rozhodne o zařazení soudce na jiný úsek a o personálních věcech soudců (např. čerpání dovolené v rozporu s rozvrhem). Soudce namítá, že personalia soudců nespadají do působnosti ředitele. Zároveň ředitel uzavře nájemní smlouvu na prostory soudu bez vědomí předsedy. Důkazy: jmenovací akt ředitele, organizační řád, smlouva, rozsah vyhrazených věcí předsedy.
+
+**2. Právní otázka.** Spadá rozhodování o personálních věcech soudců do působnosti ředitele správy soudu, a jak se uplatní výhrada předsedy a jeho trvající odpovědnost podle § 122a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122a — ředitel zajišťuje provoz soudu, odpovědnost předsedy není dotčena, předseda si může věci vyhradit (odst. 1); funkce v pracovním poměru (odst. 2).
+- *Související ustanovení téhož zákona:* § 124–127 odst. 5 (výčet působnosti ředitele — provoz hospodářský, materiální, finanční; personalia zaměstnanců mimo soudce), § 121 odst. 1 (personalia soudců předsedovi).
+- *Související předpisy:* zákoník práce (§ 33 odst. 3 — vznik pracovního poměru jmenováním; § 73a — odvolání); zákon č. 219/2000 Sb. (předseda jako vedoucí org. složky státu).
+- *Judikatura:* zásada, že ředitel je podřízeným zaměstnancem bez vlastní zákonné působnosti ve věcech vyhrazených předsedovi.
+
+**4. Subsumpce.** Personální věci soudců jsou podle § 124–127 odst. 5 písm. b výslovně vyňaty z působnosti ředitele (ten vyřizuje personalia zaměstnanců „s výjimkou soudců"); náleží předsedovi (§ 121). Majetková dispozice spadá do provozního zajištění, avšak při zachování odpovědnosti a možné výhrady předsedy.
+
+**5. Řešení.** Rozhodnutí ředitele o personáliích soudců je mimo jeho působnost a neúčinné — rozhoduje předseda. Nájemní smlouvu mohl ředitel uzavřít v rámci provozního zajištění, předseda si ji však mohl vyhradit; za řádnost dohledu odpovídá předseda. Náprava: zrušení/zhojení personálního aktu předsedou.
+
+**6. Varianty.** (a) Personalia nesoudcovských zaměstnanců ředitel řešit může. (b) Vyhradil-li si předseda předem majetkové dispozice nad limit, byla by smlouva ředitele bez vyhrazeného souhlasu vadná.
+
+##### G. Protiargumenty a rizika
+
+- *„Ředitel zajišťuje provoz, tedy i personalia."* Neutralizace: zákon výslovně vyjímá soudce z personální působnosti ředitele; ta zůstává předsedovi.
+- *„Pracovní poměr dává řediteli samostatnost."* Neutralizace: pracovní poměr nezakládá funkcionářskou působnost; ředitel je předsedovi podřízen a odvolatelný (§ 73a ZP).
+- Slabé místo: hranice mezi „provozním zajištěním" a vyhrazenými věcmi je dána i vnitřním organizačním řádem soudu — nutno ověřit konkrétní výhradu předsedy.
+
+##### H. Praktický závěr
+
+Ředitel správy soudu je profesionální administrátor v pracovním poměru, podřízený předsedovi; zajišťuje provoz a personalia nesoudcovských zaměstnanců. Personalia soudců a vyhrazené věci náleží předsedovi, jehož odpovědnost trvá.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá věc do provozního zajištění, nebo jde o personalia soudců / vyhrazenou věc?
+- [ ] Vyhradil si předseda danou věc k vlastnímu rozhodnutí?
+- [ ] Je zachována odpovědnost a dohled předsedy?
+- [ ] Je ředitel řádně jmenován do pracovního poměru?
+
+**Typicky rozhodné důkazy / podklady:** jmenovací akt a pracovní smlouva ředitele, organizační řád soudu, doklad o výhradě předsedy, sporný akt (personální/majetkový) a jeho autor.
+
 ---
 
 #### § 122b — Zpracovávání osobních údajů soudy
@@ -328,6 +580,42 @@ Odst. 2 zakotvuje **dva okruhy** legitimního předávání:
 
 Předávání je vázáno na **účel** — soud nesmí předat údaje pro účel, který je mimo zákonem vymezenou působnost příjemce. Zákon nevyžaduje souhlas subjektu údajů (právním základem je čl. 6 odst. 1 písm. e GDPR ve spojení s § 122b).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Žalovaný v civilním sporu (žaloba o náhradu škody) zjistí, že žalobce použil jako důkaz údaje z jeho dřívějšího trestního spisu, které soud měl z titulu jiné agendy. Žalovaný namítá nezákonné zpracování osobních údajů a žádá výmaz. Soud naopak údaje předá též policii pro probíhající pátrání. Důkazy: spisy obou řízení, žádost o výmaz, doklad o předání policii.
+
+**2. Právní otázka.** Mohou soudy zpracovávat osobní údaje k jinému účelu, než pro který byly shromážděny, a předávat je bezpečnostním složkám bez souhlasu subjektu údajů podle § 122b?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122b — generální zmocnění ke zpracování (odst. 1), přípustná změna účelu, předávání bezpečnostním složkám a orgánům veřejné správy (odst. 2).
+- *Související ustanovení téhož zákona:* § 122c (výjimka z působnosti DPO), § 122d (vnitřní dozor), § 122e (omezení práv subjektu údajů).
+- *Související předpisy:* GDPR — čl. 6 odst. 1 písm. e (úkol ve veřejném zájmu / výkon veřejné moci), čl. 6 odst. 4 (slučitelný účel), čl. 23 (omezení), čl. 5 odst. 1 písm. b (omezení účelem); směrnice (EU) 2016/680; bod 20 odůvodnění GDPR.
+- *Judikatura:* obecně přijímaný závěr, že zpracování při výkonu soudní pravomoci má právní základ ve výkonu veřejné moci a nevyžaduje souhlas.
+
+**4. Subsumpce.** Zpracování údajů z trestního spisu pro civilní řízení je změnou účelu výslovně dovolenou § 122b odst. 1 (slučitelný účel, čl. 6 odst. 4 GDPR). Předání policii pro pátrání spadá pod odst. 2 (bezpečnostní složky). Právním základem je čl. 6 odst. 1 písm. e GDPR; souhlas se nevyžaduje.
+
+**5. Řešení.** Zpracování i předání jsou zákonné; žádost o výmaz lze odmítnout, je-li dán důvod omezení podle § 122e (např. vymáhání soukromoprávních nároků, ochrana práv třetích). Soud o uplatnění výjimky subjekt vyrozumí (§ 122e odst. 2). Námitka nezákonnosti zpracování je nedůvodná.
+
+**6. Varianty.** (a) Předal-li by soud údaje příjemci pro účel mimo jeho zákonnou působnost, šlo by o nezákonné předání. (b) Šlo-li by o zpracování zcela nesouvisející s působností soudu, generální zmocnění by se neuplatnilo.
+
+##### G. Protiargumenty a rizika
+
+- *„Změna účelu porušuje zásadu omezení účelem (čl. 5 GDPR)."* Neutralizace: § 122b odst. 1 ve spojení s čl. 6 odst. 4 a čl. 23 GDPR výslovně dovoluje slučitelný účel u výkonu veřejné moci.
+- *„Předání bez souhlasu je nezákonné."* Neutralizace: právním základem je výkon veřejné moci (čl. 6 odst. 1 písm. e), souhlas není vyžadován.
+- Slabé místo: předání je vázáno na působnost příjemce — překročení účelu zakládá nezákonnost; nutno doložit účel a působnost příjemce.
+
+##### H. Praktický závěr
+
+Soudy mají generální zákonné zmocnění ke zpracování osobních údajů při výkonu působnosti, včetně slučitelné změny účelu a předávání bezpečnostním složkám a orgánům veřejné správy v rámci jejich působnosti, bez souhlasu subjektu údajů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je zpracování nezbytné pro výkon působnosti soudu?
+- [ ] Je nový účel slučitelný (čl. 6 odst. 4 GDPR)?
+- [ ] Je příjemce předávaných údajů příslušný k danému účelu v rámci své působnosti?
+- [ ] Byl při omezení práv subjekt vyrozuměn (§ 122e odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** soudní spisy obou agend, doklad o účelu a právním základu zpracování, záznam o předání a označení příjemce, vyrozumění subjektu o uplatnění výjimky.
+
 ---
 
 #### § 122c — Pověřenec pro ochranu osobních údajů
@@ -362,6 +650,42 @@ Odst. 2 umožňuje **flexibilitu** — soudy mohou mít:
 - *centrálního pověřence MSp* — určeného ministerstvem pro všechny soudy nebo jejich skupinu.
 
 Tato úprava reaguje na praktický problém: pověřit DPO odpovídajícími znalostmi (GDPR + procesní právo + soudní specifika) je obtížné a u malých OS by samostatný DPO byl neúčelný.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Účastník řízení se obrátí na pověřence pro ochranu osobních údajů (DPO) krajského soudu se stížností na způsob, jakým soudce v jeho civilním sporu nakládal s jeho citlivými údaji v rozhodnutí. DPO se cítí příslušný a začne soudci ukládat „nápravná opatření". Soud namítá, že DPO nemá ve vztahu k rozhodovací činnosti působnost. Souběžně malý okresní soud nemá vlastního DPO. Důkazy: stížnost, sdělení DPO, dohoda o sdíleném pověřenci.
+
+**2. Právní otázka.** Vykonává DPO činnost ve vztahu ke zpracování osobních údajů soudem v rámci rozhodovací činnosti, a lze úkoly DPO svěřit dohodou pověřenci jiného soudu nebo MSp podle § 122c?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122c — negativní vymezení působnosti DPO ve vztahu k trestní agendě a rozhodovací činnosti (odst. 1); dohoda o sdíleném/centrálním pověřenci (odst. 2).
+- *Související ustanovení téhož zákona:* § 122b (zpracování), § 122d (vnitřní dozor jako náhrada za DPO v těchto agendách), § 122e (omezení práv).
+- *Související předpisy:* GDPR čl. 37–39 (DPO); čl. 32 směrnice (EU) 2016/680; bod 20 odůvodnění GDPR (vyloučení výkonu soudní funkce); § 118 odst. 2 (nezávislost).
+- *Judikatura:* obecně uznávaný závěr, že dozor nad zpracováním v rámci soudní funkce nesmí zasahovat do nezávislosti soudce.
+
+**4. Subsumpce.** Zpracování údajů soudcem v rámci rozhodování spadá do agendy vyňaté z působnosti DPO (§ 122c odst. 1). DPO tedy není příslušný a nesmí soudci ukládat opatření; dozor v této oblasti vykonává orgán podle § 122d. Absenci vlastního DPO u OS lze řešit dohodou podle odst. 2.
+
+**5. Řešení.** „Nápravná opatření" DPO vůči soudci jsou mimo jeho působnost a neúčinná; podnět subjektu patří orgánu vnitřního dozoru (§ 122d), nikoli DPO. Malý OS uzavře dohodu o sdíleném pověřenci (KS) nebo centrálním pověřenci MSp pro vedlejší administrativní agendu.
+
+**6. Varianty.** (a) Týkala-li by se stížnost údajů v personální/IT agendě soudu (mimo rozhodování), DPO příslušný je. (b) Bez dohody podle odst. 2 musí mít každý soud vlastního DPO pro vedlejší agendu.
+
+##### G. Protiargumenty a rizika
+
+- *„GDPR vyžaduje DPO pro všechna zpracování."* Neutralizace: bod 20 odůvodnění GDPR a § 122c výslovně vylučují výkon soudní funkce z působnosti DPO.
+- *„Subjekt nemá ochranu, není-li DPO příslušný."* Neutralizace: ochrana je zajištěna alternativním vnitřním dozorem (§ 122d) a omezeními dle § 122e.
+- Slabé místo: rozlišení „rozhodovací" a „administrativní" agendy bývá v praxi obtížné; při pochybnosti směřovat podnět na orgán § 122d.
+
+##### H. Praktický závěr
+
+DPO nepůsobí ve vztahu k trestní agendě a rozhodovací činnosti soudů (tam funguje vnitřní dozor dle § 122d); ve vedlejší administrativní agendě DPO působí a lze jej sdílet dohodou s jiným soudem nebo MSp.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se zpracování rozhodovací/trestní agendy (pak DPO nepříslušný)?
+- [ ] Jde o vedlejší administrativní agendu (pak DPO příslušný)?
+- [ ] Existuje dohoda o sdíleném/centrálním pověřenci podle odst. 2?
+- [ ] Nebylo by „opatření" DPO zásahem do nezávislosti soudce?
+
+**Typicky rozhodné důkazy / podklady:** podnět/stížnost subjektu, sdělení DPO, písemná dohoda o sdíleném/centrálním pověřenci, vymezení agendy (rozhodovací vs. administrativní).
 
 ---
 
@@ -421,6 +745,42 @@ Subjekty údajů (typicky účastníci řízení) mohou podávat **podněty**, k
 
 Tato klauzule umožňuje **odpovědnou výjimku** z práv subjektu údajů (typicky práva na informace, na výmaz) v rozsahu nezbytném pro účinnou činnost justice a bezpečnostního aparátu — viz § 122e.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Subjekt údajů podá okresnímu soudu podnět ke zpracování osobních údajů v trestní agendě a žádá informace o tom, kdo k jeho údajům přistupoval. Vyřízení podnětu připadá podle § 122d odst. 2 krajskému soudu jako dozorovému orgánu. Krajský soud zjistí pochybení v zabezpečení, ale poskytnutí všech informací by mohlo ohrozit probíhající pátrání po spolupachateli. Důkazy: podnět, záznam o přístupech, stav trestního řízení.
+
+**2. Právní otázka.** Který orgán vykonává vnitřní dozor nad zpracováním osobních údajů okresního soudu, jakou má povahu jeho pravomoc a jak vyřídit podnět, hrozí-li ohrožení trestního řízení podle § 122d?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122d — určení dozorového orgánu hierarchicky vzhůru (odst. 1, 2), zjišťovací povaha dozoru, zvláštní režim u NS/NSS (odst. 3), vyřizování podnětů s limity (odst. 4).
+- *Související ustanovení téhož zákona:* § 122c (vyloučení DPO), § 122b (zpracování), § 122e (omezení práv subjektu).
+- *Související předpisy:* GDPR čl. 55 odst. 3 (vyloučení dozoru ÚOOÚ nad soudy při výkonu soudní funkce); směrnice (EU) 2016/680; § 118 odst. 2 (nezávislost).
+- *Judikatura:* obecný princip, že dozor nad soudy v této oblasti je kooperativní (zjišťovací), nikoli sankční.
+
+**4. Subsumpce.** Dozorovým orgánem nad OS je krajský soud, do jehož obvodu OS spadá (odst. 2). Pravomoc je monitorovací a doporučovací: zjistí-li nedostatky, vyrozumí správce a uvede způsob nápravy — nesmí ukládat pokuty ani závazná opatření. Vyřízení podnětu musí předejít ohrožení trestního řízení (odst. 4 písm. a).
+
+**5. Řešení.** KS zjištěné pochybení sdělí OS jako správci s návrhem nápravy; informace subjektu poskytne jen v rozsahu, který neohrozí pátrání (odst. 4) — zbytek omezí, přičemž omezení práv subjektu se opírá o § 122e. ÚOOÚ není příslušný (čl. 55 odst. 3 GDPR).
+
+**6. Varianty.** (a) U vrchního soudu by dozor vykonával NS; u NS/NSS zaměstnanec určený předsedou (odst. 3). (b) Nehrozilo-li by ohrožení trestního řízení, informace by se poskytly v plném rozsahu.
+
+##### G. Protiargumenty a rizika
+
+- *„Dozor bez sankcí je neúčinný."* Neutralizace: kooperativní model chrání nezávislost soudů; vynutitelnost je nepřímá (vyrozumění, hierarchický tlak, kárná rovina).
+- *„Příslušný má být ÚOOÚ."* Neutralizace: čl. 55 odst. 3 GDPR působnost ÚOOÚ nad soudy při výkonu soudní funkce vylučuje; nastupuje § 122d.
+- Slabé místo: orgán dozoru nemá donucovací nástroj — řešením je eskalace hierarchií a případně kárný návrh proti funkcionáři (§ 128).
+
+##### H. Praktický závěr
+
+Vnitřní dozor nad ochranou osobních údajů vykonává soud vyššího článku (OS→KS→VS→NS), u NS/NSS určený zaměstnanec; dozor je zjišťovací a doporučovací, vyřizování podnětů je limitováno ochranou trestního řízení, utajovaných informací a práv třetích.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Který soud je dozorovým orgánem (dle hierarchie odst. 2, 3)?
+- [ ] Má dozor jen zjišťovací/doporučovací povahu (žádné sankce)?
+- [ ] Neohrozí vyřízení podnětu cíle podle odst. 4 (trestní řízení, utajení, práva třetích)?
+- [ ] Je vyloučena působnost ÚOOÚ (čl. 55 odst. 3 GDPR)?
+
+**Typicky rozhodné důkazy / podklady:** podnět subjektu, záznamy o přístupech a zabezpečení, vyrozumění správce o nedostatcích a návrhu nápravy, stav souvisejícího trestního řízení.
+
 ---
 
 #### § 122e — Omezení některých práv a povinností
@@ -469,6 +829,42 @@ Důvod *„ochrana nezávislosti soudů a soudců"* [písm. b)] je **specifickou
 #### Informační povinnost při uplatnění výjimky (odst. 2)
 
 Pokud soud uplatní výjimku, musí o tom subjekt údajů **bez zbytečného odkladu vyrozumět**. Tato povinnost zajišťuje, že subjekt zná, proč nedostal požadované informace, a může se případně bránit (např. žalobou ve správním soudnictví, je-li otázka procesní, nebo skrze stížnost dle § 164 ZSS, jde-li o jednání orgánu státní správy soudu).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Strana sporu podá soudu žádost podle GDPR o přístup k údajům a o informaci, kteří soudci a asistenti k jejím údajům přistupovali, s cílem zpochybnit nestrannost a vyvinout tlak. Soud žádost v části odmítne s odkazem na ochranu nezávislosti soudců a práv třetích osob. Žadatel namítá porušení práva na přístup (čl. 15 GDPR). Důkazy: žádost, rozsah požadovaných údajů, vyrozumění o omezení.
+
+**2. Právní otázka.** Může soud omezit práva subjektu údajů podle čl. 12–22 GDPR z důvodu ochrany nezávislosti soudů a soudců, a jaké jsou podmínky a procesní povinnosti při uplatnění výjimky podle § 122e?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 122e — neaplikace čl. 12–22 a odpovídajícího rozsahu čl. 5 GDPR při zpracování v rámci rozhodovací činnosti, je-li to nezbytné pro chráněné zájmy (odst. 1, zejm. písm. b — nezávislost; písm. c — práva třetích; písm. d — vymáhání nároků); vyrozumění subjektu o uplatnění výjimky (odst. 2).
+- *Související ustanovení téhož zákona:* § 122b (zpracování), § 122c, § 122d (dozor), § 118 odst. 2 (nezávislost), § 164 a násl. (stížnost).
+- *Související předpisy:* čl. 23 GDPR (omezení), čl. 12–22, čl. 5 GDPR; čl. 82 odst. 1 Ústavy.
+- *Judikatura:* test nezbytnosti a proporcionality omezení práv subjektu údajů; obecný princip, že omezení musí být odůvodněné a oznámené.
+
+**4. Subsumpce.** Údaje jsou zpracovávány v souvislosti s rozhodovací činností. Cílem žádosti je nátlak na soudce — naplněn důvod „ochrany nezávislosti soudů a soudců" (odst. 1 písm. b), případně ochrany práv třetích (písm. c). Omezení je nezbytné a přiměřené; soud o jeho uplatnění musí subjekt vyrozumět (odst. 2).
+
+**5. Řešení.** Soud část žádosti odmítne (omezí čl. 15) v rozsahu nezbytném pro ochranu nezávislosti a práv třetích, ostatní (např. jeho vlastní procesní údaje) poskytne. O uplatnění výjimky bez zbytečného odkladu subjekt vyrozumí; ten se může bránit stížností (§ 164) nebo ve správním soudnictví, jde-li o postup orgánu státní správy.
+
+**6. Varianty.** (a) Bez nátlakového kontextu a bez dotčení třetích by se právo na přístup uplatnilo v plném rozsahu. (b) Šlo-li by o údaje v trestní agendě, uplatnilo by se i písm. a (ochrana trestního řízení).
+
+##### G. Protiargumenty a rizika
+
+- *„Čl. 15 GDPR je nárokové právo bez výjimek."* Neutralizace: čl. 23 GDPR výslovně umožňuje zákonné omezení, jež § 122e provádí pro taxativní důvody.
+- *„Omezení je svévolné."* Neutralizace: omezení podléhá testu nezbytnosti a musí být subjektu oznámeno (odst. 2), je tedy přezkoumatelné.
+- Slabé místo: hranice mezi legitimní žádostí a nátlakem je skutková; nutno doložit konkrétní riziko zásahu do nezávislosti či práv třetích, jinak omezení neobstojí.
+
+##### H. Praktický závěr
+
+§ 122e umožňuje soudu omezit práva subjektu údajů (čl. 12–22 GDPR) při zpracování v rámci rozhodovací činnosti ze čtyř taxativních důvodů, vždy při testu nezbytnosti a s povinností subjekt o uplatnění výjimky vyrozumět.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o zpracování v souvislosti s rozhodovací činností soudu?
+- [ ] Je dán některý z důvodů odst. 1 (a–d) a je omezení nezbytné a přiměřené?
+- [ ] Bylo omezeno jen v nezbytném rozsahu (zbytek poskytnut)?
+- [ ] Byl subjekt o uplatnění výjimky bez zbytečného odkladu vyrozuměn (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** žádost subjektu a rozsah požadavku, odůvodnění nezbytnosti omezení, vyrozumění o uplatnění výjimky, podklady k riziku zásahu do nezávislosti nebo práv třetích.
 
 ---
 
@@ -588,6 +984,42 @@ Odst. 3 stanoví zvláštní typ dozoru — **sledování tvorby a změn rozvrhu
 
 Odst. 4 zavádí specifickou pravomoc MSp: zjistí-li nejednotnost rozhodování, může dát **Nejvyššímu soudu podnět k zaujetí stanoviska** podle § 14 odst. 3 ZSS. Stanoviska kolegií NS a pléna NS jsou autoritativním nástrojem sjednocování judikatury (§ 14 odst. 3 ZSS). MSp tak hraje roli „**iniciátora**" sjednocování — sám rozhodovat o sjednocení nemůže (to je výhradní pravomoc NS), ale může na nejednotnost upozornit. Tato pravomoc je z hlediska principu dělby moci přípustná: jde o **podnět**, nikoli pokyn; Nejvyšší soud o jeho přijetí rozhoduje autonomně.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** MSp v rámci prověrky soudních spisů u krajského soudu zpracuje stanovisko, v němž hodnotí, že soudce „nesprávně vyložil hmotné právo" a měl rozhodnout jinak; toto stanovisko zašle předsedovi KS s podnětem k „nápravě" a zároveň zahájí přípravu kárného návrhu pro „chybné rozhodování". Soudce se brání. Důkazy: stanovisko MSp, protokol o prověrce, statistické výkazy průtahů, rozvrh práce.
+
+**2. Právní otázka.** Smí MSp v rámci dozoru podle § 123 odst. 2 hodnotit věcnou správnost rozhodnutí soudu a opírat o ni kárnou iniciativu, nebo je jeho dozor omezen pouze na důstojnost jednání, soudcovskou etiku a průtahy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 123 — katalog kompetencí MSp (odst. 1), striktní omezení hodnocení postupu soudů „pouze" na důstojnost, etiku a průtahy (odst. 2), sledování rozvrhu práce (odst. 3), podnět NS ke stanovisku (odst. 4).
+- *Související ustanovení téhož zákona:* § 118 (servisní funkce, zákaz zásahu do nezávislosti), § 14 odst. 3 (sjednocování judikatury NS), § 128 (kárná iniciativa).
+- *Související předpisy:* čl. 82 odst. 1 Ústavy; čl. 38 odst. 1 Listiny (rozvrh práce); zákon č. 218/2000 Sb. (kapitola 336).
+- *Judikatura:* ÚS IV.ÚS 1610/08 (opatření MSp nad rámec § 118 ve spojení s § 123 je nepřípustné); Pl. ÚS 39/08 (restriktivní hranice dozoru, ochrana institucionální i funkční nezávislosti).
+
+**4. Subsumpce.** Slovo „pouze" v § 123 odst. 2 vylučuje hodnocení věcné správnosti rozhodnutí. Stanovisko hodnotící výklad hmotného práva překračuje zákonnou mez dozoru a zasahuje do nezávislosti (§ 118 odst. 2). Nesprávný právní názor sám o sobě není kárným proviněním (§ 128 odst. 1) — chybí znak zaviněného porušení povinností.
+
+**5. Řešení.** Stanovisko MSp je v části hodnotící merita nepřípustné a nezávazné; podnět k „nápravě rozhodnutí" je protiústavní. Nejednotnost výkladu může MSp řešit jen podnětem NS ke stanovisku (odst. 4), nikoli tlakem na soudce. Kárný návrh opřený výlučně o „chybné rozhodování" by neobstál.
+
+**6. Varianty.** (a) Zjistilo-li by MSp prověrkou nedůvodné průtahy, dozor (odst. 2) i případná kárná iniciativa by byly namístě. (b) Zjištěná nejednotnost judikatury → legitimní podnět NS ke stanovisku (odst. 4).
+
+##### G. Protiargumenty a rizika
+
+- *„Katalog odst. 1 dává MSp širokou kontrolní roli."* Neutralizace: odst. 1 je organizačně-zajišťovací; hodnocení postupu soudů je samostatně a restriktivně upraveno v odst. 2 slovem „pouze".
+- *„Opakovaně chybný výklad je porušením povinností soudce."* Neutralizace: věcná správnost je vyhrazena instanční soustavě a sjednocování NS (§ 14); kárně postižitelná je až libovůle/odepření práva, nikoli odlišný právní názor.
+- Slabé místo: odlišení „průtahů a etiky" od „kvality rozhodování" je v praxi citlivé — MSp musí dozor držet striktně procedurálně a doložitelně.
+
+##### H. Praktický závěr
+
+MSp je ústředním orgánem správy s rozsáhlou organizační a rozpočtovou působností (odst. 1), avšak jeho dozor nad postupem soudů je omezen výhradně na důstojnost, etiku a průtahy; věcnou správnost rozhodnutí hodnotit nesmí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Drží se dozor MSp jen v mezích odst. 2 (důstojnost, etika, průtahy)?
+- [ ] Nehodnotí MSp věcnou správnost rozhodnutí soudce?
+- [ ] Řeší se nejednotnost judikatury podnětem NS ke stanovisku (odst. 4), nikoli tlakem?
+- [ ] Je rozpočtová alokace v souladu s mechanismem kapitoly 336 (písm. c, d)?
+
+**Typicky rozhodné důkazy / podklady:** stanovisko/opatření MSp, protokol o prověrce spisů, statistické výkazy a justiční statistika, rozvrh práce a jeho změny, případný kárný návrh a jeho odůvodnění.
+
 ---
 
 #### § 124 — Předseda Nejvyššího soudu
@@ -671,6 +1103,42 @@ Předseda NS sám vydává rozvrh práce NS (§ 41) a sám kontroluje jeho dodr�
 
 Odst. 5 specifikuje působnost ředitele správy NS — odpovídá obecné úpravě § 122a, ale s explicitním výčtem činností. Klíčová výhradní klauzule „**s výjimkou úkonů, ke kterým je podle tohoto zákona nebo zvláštních právních předpisů oprávněn pouze předseda soudu**" — chrání monopolní pravomoci předsedy NS (rozvrh práce, jmenování asistentů soudců, kárná iniciativa atd.).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** MSp chce z rozpočtových důvodů snížit počet soudců Nejvyššího soudu a stanovit nové počty asistentů jednostranně, bez dohody s předsedou NS. Současně se MSp pokusí přímo (mimo předsedu NS) provést personální opatření vůči soudci NS. Předseda NS namítá, že u NS se počty stanovují „po dohodě" a správa se vykonává jen jeho prostřednictvím. Důkazy: návrh počtů, korespondence MSp–předseda NS, personální akt.
+
+**2. Právní otázka.** Může MSp jednostranně (bez dohody s předsedou NS) stanovit počty soudců a zaměstnanců NS a provádět personální opatření přímo, nebo je u Nejvyššího soudu vyžadována kvalifikovaná účast jeho předsedy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 124 — působnost předsedy NS (odst. 1), dozor nad důstojností a průtahy v řízeních u NS (odst. 2), kontrola rozdělování věcí (odst. 3), podněty ke SPZ (odst. 4), ředitel správy NS (odst. 5).
+- *Související ustanovení téhož zákona:* § 123 odst. 1 písm. a (počty u NS „po dohodě" s předsedou), § 120 odst. 2 (správa NS jen prostřednictvím předsedy), § 14 (sjednocování), § 102 odst. 1 (funkční období 10 let).
+- *Související předpisy:* čl. 62 písm. f Ústavy (jmenování předsedy NS prezidentem), čl. 92 Ústavy; § 266 a násl. tr. ř. (stížnost pro porušení zákona).
+- *Judikatura:* Pl. ÚS 18/06 (kauza Brožová — silné, ústavně chráněné postavení předsedy NS; ochrana před odvoláním mocí výkonnou).
+
+**4. Subsumpce.** U NS se počty zaměstnanců stanovují podle § 123 odst. 1 písm. a „po dohodě" s předsedou NS — jednostranné rozhodnutí MSp je vyloučeno. Správa NS se vykonává jen prostřednictvím předsedy (§ 120 odst. 2), takže přímé personální opatření MSp vůči soudci NS je nepřípustné.
+
+**5. Řešení.** MSp musí počty u NS sjednat dohodou s předsedou NS; bez dohody nelze počty soudců NS snížit. Personalia soudců NS jdou výhradně přes předsedu NS. Předseda NS může nezákonné přímé úkony MSp odmítnout a dovolat se § 120 odst. 2 a § 123 odst. 1 písm. a.
+
+**6. Varianty.** (a) U vrchního/krajského soudu se počty stanovují jen „po vyjádření" předsedy (slabší účast) — viz § 123 a § 125. (b) Podnět ke stížnosti pro porušení zákona (odst. 4) předseda NS nepodává sám, jen jej dává MSp.
+
+##### G. Protiargumenty a rizika
+
+- *„MSp jako správce kapitoly může počty určit sám."* Neutralizace: u NS zákon vyžaduje dohodu (§ 123 odst. 1 písm. a) jako institucionální záruku nezávislosti vrcholného soudu.
+- *„Předseda NS je funkcionář jmenovaný do správy, lze jej snadno usměrnit."* Neutralizace: postavení předsedy NS je ústavně chráněné (čl. 62 písm. f, Pl. ÚS 18/06); nelze jej odvolat pouhým rozhodnutím MSp.
+- Slabé místo: chybí-li dohoda, hrozí patová situace v rozpočtu NS — řešením je jednání, nikoli jednostranný akt MSp.
+
+##### H. Praktický závěr
+
+Předseda NS je silný funkcionář s ústavně chráněnou pozicí; státní správa NS se vykonává jen jeho prostřednictvím a počty soudců a zaměstnanců se stanovují po dohodě s ním. Dozor nad důstojností a průtahy a kontrolu rozvrhu vykonává v rámci NS sám.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla u NS počty stanovena po dohodě s předsedou NS (§ 123 odst. 1 písm. a)?
+- [ ] Vykonává se správa NS jen prostřednictvím předsedy (§ 120 odst. 2)?
+- [ ] Drží se dozor předsedy NS jen v mezích odst. 2 (důstojnost, etika, průtahy)?
+- [ ] Je respektována výhradní pravomoc předsedy vůči řediteli správy (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** návrh a dohoda o počtech, korespondence MSp–předseda NS, personální akty soudců NS, rozvrh práce NS, podněty ke stížnostem pro porušení zákona.
+
 ---
 
 #### § 125 — Předseda vrchního soudu
@@ -734,6 +1202,42 @@ Klíčový rozdíl oproti § 124: u VS chybí kategorie „**asistenti soudců**
 Také je u VS výslovně zmíněna povinnost **zveřejňovat soudní rozhodnutí** (písm. f) — VS plní tuto povinnost ve své jurisdikční kompetenci ve smyslu § 118a a souvisejících předpisů.
 
 Ve zbytku platí mutatis mutandis výklad k § 124 — totéž rozdělení na zajišťovací a dozorovou činnost, totožná pravomoc dávat podněty ke stížnostem pro porušení zákona, paralelní postavení ředitele správy.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Účastník řízení u vrchního soudu v Praze si stěžuje na nedůstojné vystupování předsedy senátu při jednání a na průtahy v odvolacím řízení; současně namítá, že rozhodnutí VS nebylo zveřejněno. Předseda VS prověří spis, posoudí stížnost a zvažuje, zda dát MSp podnět ke stížnosti pro porušení zákona v související trestní věci. Důkazy: protokol o jednání, stížnostní spis, evidence délky řízení, výstup z Databáze.
+
+**2. Právní otázka.** Jakou působnost má předseda vrchního soudu v dozoru nad důstojností jednání a průtahy, ve zveřejňování rozhodnutí a v podávání podnětů ke stížnostem pro porušení zákona podle § 125?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 125 — zajišťovací působnost (odst. 1, vč. zveřejňování rozhodnutí písm. f), dozor nad důstojností, etikou, průtahy (odst. 2), kontrola rozdělování věcí (odst. 3), podněty ke SPZ (odst. 4), ředitel správy VS (odst. 5).
+- *Související ustanovení téhož zákona:* § 124 (mutatis mutandis), § 118a (Databáze), § 41 (rozvrh), § 168/§ 170 (stížnosti), § 36a (vyšší soudní úředníci).
+- *Související předpisy:* § 266 a násl. tr. ř. (SPZ); zákon č. 121/2008 Sb. (VSÚ); příloha č. 1 ZSS (VS Praha, VS Olomouc).
+- *Judikatura:* NSS 1 As 130/2019 (do rozhodovací činnosti zasahuje jen nadřízený soud opravným prostředkem, o pochybení soudce rozhoduje kárný senát) — vymezuje hranici dozoru funkcionáře.
+
+**4. Subsumpce.** Dozor předsedy VS je omezen stejně jako u NS na důstojnost, etiku a průtahy (odst. 2); věcnou správnost rozhodnutí hodnotit nesmí. Zveřejnění rozhodnutí zajišťuje (odst. 1 písm. f). Podnět ke SPZ předseda VS sám nepodává — dává jej MSp (odst. 4).
+
+**5. Řešení.** Stížnost na důstojnost a průtahy předseda VS vyřídí v rámci odst. 2 (prověrka spisu, dohled nad jednáním); shledá-li podmínky tr. řádu, dá MSp podnět ke SPZ. Nezveřejněné rozhodnutí spadající do kategorie dle vyhlášky zajistí zveřejnit. Hodnocení správnosti právního názoru soudce je vyloučeno.
+
+**6. Varianty.** (a) Šlo-li by o soudce krajského soudu (předseda/místopředseda KS), kárná příslušnost by náležela předsedovi VS (§ 128 ve spojení s § 8 odst. 2 zák. č. 7/2002 Sb.). (b) U NS by chyběla kategorie „asistenti" jako u § 124 — terminologický rozdíl.
+
+##### G. Protiargumenty a rizika
+
+- *„Předseda VS jako odvolací funkcionář může korigovat i obsah rozhodnutí KS."* Neutralizace: korekce obsahu náleží VS jako odvolacímu soudu v řízení, nikoli předsedovi v rámci státní správy; dozor je omezen odst. 2.
+- *„Podnět ke SPZ může předseda VS podat sám."* Neutralizace: oprávněn je ministr spravedlnosti; předseda VS dává jen podnět MSp.
+- Slabé místo: u VS chybí samostatná kategorie asistentů (oproti NS) — personální nástroje se opírají o VSÚ a soudní tajemníky.
+
+##### H. Praktický závěr
+
+Předseda VS má v rámci vrchního soudu obdobnou působnost jako předseda NS: zajišťuje provoz a zveřejňování rozhodnutí, dozoruje důstojnost a průtahy, kontroluje rozvrh a dává MSp podněty ke SPZ; věcnou správnost rozhodnutí neposuzuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Drží se dozor předsedy VS v mezích odst. 2 (důstojnost, etika, průtahy)?
+- [ ] Zajišťuje VS včasné zveřejňování rozhodnutí (odst. 1 písm. f, § 118a)?
+- [ ] Je podnět ke SPZ směřován MSp, nikoli vyřízen samotným předsedou VS?
+- [ ] Je respektována výhradní pravomoc předsedy vůči řediteli správy (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** protokol o jednání, stížnostní spis, evidence a statistika délky řízení, výstup z Databáze rozhodnutí, podnět ke stížnosti pro porušení zákona.
 
 ---
 
@@ -843,6 +1347,42 @@ Předseda KS je zákonem pověřen vyřizováním nejširšího spektra stížno
 
 § 126 odst. 4 druhá věta zavádí specifický **dvoustupňový filtr**: dostane-li předseda KS od předsedy OS podnět ke stížnosti pro porušení zákona (postoupený mu podle § 127 odst. 4), který podle něj nesplňuje podmínky trestního řádu, **postoupí ho ministerstvu se svým stanoviskem**. Předseda KS tedy podnět nezamítá ani neukončuje sám — pouze přidá své vyjádření a postoupí MSp, které rozhoduje finálně.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Předseda okresního soudu v obvodu krajského soudu opakovaně závažně porušuje povinnosti při výkonu státní správy (neprovádí prověrky, nevyřizuje stížnosti, hospodaří mimo stanovené limity). Předseda KS chce zjednat nápravu: dát mu pokyny, prošetřit jeho postup, rozepsat OS přísnější rozpočtové limity a zvážit kárný návrh. Důkazy: stížnostní spisy, kontrolní zjištění, rozpočtová dokumentace, korespondence.
+
+**2. Právní otázka.** V jakém rozsahu vykonává předseda krajského soudu státní správu okresních soudů ve svém obvodu, zejména řízení a kontrolu výkonu správy jejich předsedů, rozpočtovou alokaci a kárnou iniciativu podle § 126?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 126 — dvojí působnost (vlastní KS i OS v obvodu), rozpočtová role „dílčího správce kapitoly" (odst. 1 písm. b, c), výběr justičních kandidátů (písm. f, g), řízení a kontrola výkonu správy předsedů OS (písm. h), dozor (odst. 2), filtr podnětů ke SPZ (odst. 4 druhá věta).
+- *Související ustanovení téhož zákona:* § 121 odst. 3 (působnost místopředsedů KS i vůči OS), § 122d odst. 2 (dozor nad OÚ u OS), § 127 (předseda OS), § 128 (kárná iniciativa), § 170 (stížnosti).
+- *Související předpisy:* zákon č. 218/2000 Sb. (rozpočtová pravidla, kapitola 336); zákon č. 7/2002 Sb. (kárné řízení); § 266 a násl. tr. ř.
+- *Judikatura:* NSS 11 Kss 2/2017 (předseda soudu jako kárný navrhovatel vykonává státní správu — veřejnou moc).
+
+**4. Subsumpce.** Předseda KS je bezprostředně nadřízeným orgánem státní správy vůči předsedům OS (písm. h): může ukládat pokyny ve věcech správy, prověřovat jejich postup, vyřizovat stížnosti na ně (§ 170) a iniciovat kárný návrh (§ 128). Jako dílčí správce kapitoly rozepisuje a limituje rozpočet OS (písm. b, c). Závažné porušení povinností předsedy OS při výkonu správy je důvodem kárného návrhu (§ 128 odst. 2).
+
+**5. Řešení.** Předseda KS vydá pokyny a provede kontrolu výkonu správy předsedy OS, vyřídí stížnosti a — trvá-li závažné porušení — podá kárný návrh proti předsedovi OS (§ 128 odst. 2). Rozpočtové limity rozepisuje v rámci alokace od MSp; nesmí jich však zneužít jako nátlaku do rozhodovací činnosti soudců OS (§ 118 odst. 2).
+
+**6. Varianty.** (a) Postoupí-li předseda OS podnět ke SPZ, který nesplňuje podmínky tr. řádu, předseda KS jej se stanoviskem postoupí MSp (odst. 4 druhá věta). (b) Vůči soudcům KS i OS v obvodu je předseda KS kárným žalobcem (§ 8 odst. 2 zák. č. 7/2002 Sb.).
+
+##### G. Protiargumenty a rizika
+
+- *„Rozpočtové limity vůči OS lze využít k usměrnění rozhodování."* Neutralizace: rozpočtová role je servisní; využití limitů jako nátlaku na soudce je zásahem do nezávislosti (§ 118 odst. 2).
+- *„Dozor nad předsedy OS zahrnuje i kvalitu rozhodování OS."* Neutralizace: dozor je omezen na důstojnost, etiku a průtahy (odst. 2); kvalitu řeší odvolací soustava.
+- Slabé místo: dvojí role KS (odvolací soud i správní nadřízený) vyžaduje oddělení rozhodovací a správní linie, aby nevznikl střet.
+
+##### H. Praktický závěr
+
+Předseda KS je pivotní střední úrovní: spravuje vlastní soud i OS v obvodu, působí jako dílčí správce kapitoly, vybírá justiční kandidáty, řídí a kontroluje předsedy OS, vyřizuje široké spektrum stížností a je kárným žalobcem vůči soudcům KS i OS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o věc vlastního KS, nebo o správu OS v obvodu (písm. h)?
+- [ ] Je rozpočtová alokace OS provedena v rámci závazných ukazatelů (písm. b, c)?
+- [ ] Drží se dozor v mezích odst. 2 a nezneužívá rozpočet jako nátlak?
+- [ ] Je u podnětu ke SPZ od OS aplikován filtr odst. 4 druhá věta (postoupení MSp se stanoviskem)?
+
+**Typicky rozhodné důkazy / podklady:** rozpočtová dokumentace a rozpisy limitů, kontrolní zjištění o výkonu správy předsedy OS, stížnostní spisy, kárný návrh, podněty ke SPZ a stanoviska k nim.
+
 ---
 
 #### § 127 — Předseda okresního soudu
@@ -919,6 +1459,42 @@ Postavení předsedy OS je odvozeno od § 102 (jmenován ministrem spravedlnosti
 
 Tato třístupňová cesta zajišťuje **odbornou filtraci** a brání zahlcení MSp neopodstatněnými podněty.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Soudce okresního soudu při studiu trestního spisu nabude přesvědčení, že v jiné věci došlo k závažnému porušení zákona v neprospěch obviněného. Dá předsedovi OS podnět ke stížnosti pro porušení zákona. Předseda OS jej posoudí jako nesplňující podmínky trestního řádu. Důkazy: podnět soudce, spis dotčené věci, stanovisko předsedy OS.
+
+**2. Právní otázka.** Jakým procesním postupem se vyřizují podněty ke stížnosti pro porušení zákona uvnitř soustavy obecných soudů a kdo o podání stížnosti nakonec rozhoduje podle § 127?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 127 — působnost předsedy OS (odst. 1), dozor nad důstojností, etikou, průtahy (odst. 2), kontrola rozdělování věcí (odst. 3), třístupňový filtr podnětů ke SPZ (odst. 4), ředitel správy OS (odst. 5).
+- *Související ustanovení téhož zákona:* § 126 odst. 4 (postoupení podnětu předsedou KS MSp), § 123 (finální rozhodnutí MSp), § 9 OSŘ / § 16 tr. ř. (OS jako první stupeň), § 36 odst. 2 (soudní vykonavatelé).
+- *Související předpisy:* § 266 a násl. tr. ř. (stížnost pro porušení zákona jako výhradní iniciativa ministra spravedlnosti); § 10 odst. 2 ZSS (obvodní/městský soud).
+- *Judikatura:* obecný princip, že SPZ je mimořádný opravný prostředek, jejž podává výlučně ministr spravedlnosti.
+
+**4. Subsumpce.** Podnět soudce směřuje předsedovi OS (odst. 4). Ten jej posoudí: shledá-li podmínky splněnými, postoupí předsedovi KS (který předá MSp dle § 126 odst. 4); shledá-li je nesplněnými, postoupí jej předsedovi KS se svým stanoviskem (odst. 4 druhá věta). Předseda OS tedy podnět sám nezamítá s konečnou platností.
+
+**5. Řešení.** Předseda OS i při negativním posouzení postoupí podnět se stanoviskem předsedovi KS; ten jej se svým stanoviskem postoupí MSp; o podání SPZ rozhodne MSp (ministr spravedlnosti). Tato třístupňová cesta zajišťuje odbornou filtraci a brání zahlcení MSp.
+
+**6. Varianty.** (a) Posoudil-li by předseda OS podnět jako důvodný, postup je týž (postoupení vzhůru), jen s kladným stanoviskem. (b) Šlo-li by o věc dozoru nad důstojností/průtahy u OS, vyřizuje ji předseda OS sám (odst. 2).
+
+##### G. Protiargumenty a rizika
+
+- *„Předseda OS může podnět rovnou odložit."* Neutralizace: § 127 odst. 4 mu ukládá postoupení předsedovi KS i při negativním posouzení; konečné slovo má MSp.
+- *„Předseda OS sám podá stížnost pro porušení zákona."* Neutralizace: SPZ podává výlučně ministr spravedlnosti (§ 266 tr. ř.); předseda OS dává jen podnět cestou KS.
+- Slabé místo: vícestupňový filtr může vést k průtahům u podnětu — nutno respektovat běh lhůt mimořádného opravného prostředku.
+
+##### H. Praktický závěr
+
+Předseda OS spravuje základní článek soustavy; dozoruje důstojnost a průtahy, kontroluje rozvrh a působí jako první stupeň třístupňového filtru podnětů ke SPZ (OS → KS → MSp), o jejichž podání rozhoduje ministr spravedlnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl podnět soudce posouzen a postoupen předsedovi KS (i při negativním stanovisku)?
+- [ ] Je zachována cesta OS → KS → MSp a finální rozhodnutí MSp?
+- [ ] Drží se dozor předsedy OS v mezích odst. 2?
+- [ ] Jsou respektovány lhůty mimořádného opravného prostředku?
+
+**Typicky rozhodné důkazy / podklady:** podnět soudce, spis dotčené věci, stanoviska předsedy OS a předsedy KS, doklad o postoupení MSp.
+
 ---
 
 #### § 128 — Kárná iniciativa orgánů státní správy soudů
@@ -976,6 +1552,42 @@ Protokol o hlasování v senátu je za běžných okolností **přísně utajov�
 
 § 128 odst. 3 zavádí výjimku: orgán státní správy soudů může navrhnout **zpřístupnění protokolu**, pokud by to mohlo přispět ke zjištění skutečností pro kárný návrh. Procesně rozhoduje kárný soud (§ 128b ZSS detailizuje další procesní postup po vydání rozhodnutí o zpřístupnění).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Předseda krajského soudu zjistí, že soudce OS v jeho obvodu zaviněně a opakovaně způsobuje neodůvodněné průtahy a při jednání se chová nedůstojně k účastníkům. Zvažuje podání kárného návrhu, ale není si jist, zda je „příslušným orgánem" a v jaké lhůtě musí jednat. Současně se objeví indicie, že rozhodné skutečnosti vyplynou až z protokolu o hlasování senátu. Důkazy: stížnostní spisy, protokoly o jednání, statistika průtahů, podnět ke zpřístupnění protokolu.
+
+**2. Právní otázka.** Kdo je „příslušným orgánem státní správy soudů" oprávněným podat kárný návrh proti soudci OS a za jakých podmínek lze navrhnout zpřístupnění protokolu o hlasování podle § 128?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 128 — povinnost podat kárný návrh při zaviněném porušení povinností či ohrožení důvěry v soudnictví (odst. 1), návrh při nezpůsobilosti či porušení povinností funkcionáře (odst. 2), návrh na zpřístupnění protokolu o hlasování (odst. 3).
+- *Související ustanovení téhož zákona:* § 87, § 88 (kárné provinění a opatření), § 91 (nezpůsobilost), § 58 (tajnost porady), § 128a (výzva), § 128b (nahlížení do protokolu).
+- *Související předpisy:* zákon č. 7/2002 Sb. — § 3, 4 (kárný senát při NSS), § 8 odst. 2 (okruh kárných žalobců), § 9 (lhůty); § 127 OSŘ; zákon č. 349/1999 Sb. (ombudsman).
+- *Judikatura:* NSS 11 Kss 2/2017 (podání kárného návrhu předsedou soudu je výkonem státní správy — veřejné moci).
+
+**4. Subsumpce.** Předseda KS je vůči soudcům OS v obvodu kárným žalobcem (§ 8 odst. 2 zák. č. 7/2002 Sb.). Opakované zaviněné průtahy a nedůstojné chování naplňují kárné provinění (§ 87). Mají-li rozhodné skutečnosti vyplynout z protokolu o hlasování, lze navrhnout jeho zpřístupnění (odst. 3), o němž rozhoduje kárný soud; následný postup upravuje § 128b.
+
+**5. Řešení.** Předseda KS podá kárný návrh ke kárnému senátu NSS v 6-měsíční subjektivní (a 3leté objektivní) prekluzivní lhůtě (§ 9 zák. č. 7/2002 Sb.); je-li to nezbytné, podá též návrh na zpřístupnění protokolu (odst. 3). Při formulaci se opře o důstojnost jednání a průtahy, nikoli o věcnou správnost rozhodnutí.
+
+**6. Varianty.** (a) Jde-li o předsedu/místopředsedu OS porušujícího povinnosti ve státní správě, návrh se opírá o odst. 2 druhou alternativu. (b) Je-li soudce nezpůsobilý dle § 91, podá se návrh dle odst. 2 první alternativy. (c) Souběžně může jednat i jiný kárný žalobce (ministr, ombudsman) — koordinace dle § 128a.
+
+##### G. Protiargumenty a rizika
+
+- *„Kárný návrh je fakultativní, lze jej nepodat."* Neutralizace: § 128 odst. 1 formuluje povinnost („podá návrh") při splnění podmínek; nečinnost může být sama pochybením funkcionáře.
+- *„Tajnost porady brání použití protokolu."* Neutralizace: § 128 odst. 3 a § 128b zakládají zákonnou výjimku po rozhodnutí kárného soudu o zpřístupnění.
+- Slabé místo: krátká subjektivní prekluzivní lhůta (6 měsíců) a nutnost prokázat zavinění — opožděný nebo nedostatečně podložený návrh kárný senát zamítne.
+
+##### H. Praktický závěr
+
+§ 128 je vstupní branou do kárné jurisdikce: příslušný orgán státní správy soudů (dle § 8 odst. 2 zák. č. 7/2002 Sb.) musí při zaviněném porušení povinností soudce podat kárný návrh; v odůvodněných případech navrhne i zpřístupnění protokolu o hlasování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je navrhovatel příslušným kárným žalobcem vůči danému soudci (§ 8 odst. 2 zák. č. 7/2002 Sb.)?
+- [ ] Jsou splněny znaky kárného provinění (§ 87) a zachována lhůta (§ 9)?
+- [ ] Jde o nezpůsobilost (§ 91) nebo porušení povinností funkcionáře (odst. 2)?
+- [ ] Je k prokázání nezbytný a navržen návrh na zpřístupnění protokolu (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** stížnostní spisy, protokoly o jednání, statistika a evidence délky řízení, lékařské podklady (u nezpůsobilosti), návrh na zpřístupnění protokolu o hlasování.
+
 ---
 
 #### § 128a — Výzva k podání kárného návrhu
@@ -1001,6 +1613,42 @@ Protokol o hlasování v senátu je za běžných okolností **přísně utajov�
 - *Odst. 3* — lhůta odpovědi: 15 pracovních dnů, ve složitých věcech 25 pracovních dnů. Lhůta je důležitá pro běh **6-měsíční subjektivní prekluzivní lhůty** k podání kárného návrhu (§ 9 zákona č. 7/2002 Sb.) — koordinační dotaz nesmí lhůtu „nadhodit" nepřiměřeně.
 
 > **Praktický význam:** § 128a slouží jako prevence „shozu odpovědnosti": brání tomu, aby jednotliví funkcionáři předpokládali, že kárný návrh podá někdo jiný a věc zůstala neřešená. MSp jako ultimum refugium tak může dohlédnout, že proti soudci, který závažně porušil své povinnosti, bude zahájeno kárné řízení.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo má indicie, že soudce OS závažně pochybil, ale neví, zda předseda OS (oprávněný kárný žalobce) hodlá podat kárný návrh. Hrozí marné uplynutí prekluzivní lhůty. MSp proto vyzve předsedu OS ke sdělení, zda návrh podá; předseda otálí s odpovědí. Souběžně předseda KS chce totéž zjistit od předsedy OS. Důkazy: výzva, doklad o doručení, lhůta odpovědi, spis věci.
+
+**2. Právní otázka.** Může MSp (a předseda vyššího soudu) vyzvat oprávněný orgán ke sdělení, zda podá kárný návrh, v jaké lhůtě je adresát povinen odpovědět a jak se to projeví ve vztahu k prekluzivní lhůtě k podání návrhu podle § 128a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 128a — výzva MSp (odst. 1), výzva předsedy vyššího soudu (odst. 2), povinnost odpovědět do 15, resp. 25 pracovních dnů (odst. 3).
+- *Související ustanovení téhož zákona:* § 128 (kárná iniciativa), pluralita kárných žalobců.
+- *Související předpisy:* zákon č. 7/2002 Sb. — § 8 odst. 2 (okruh žalobců), § 9 (6-měsíční subjektivní a 3letá objektivní prekluzivní lhůta).
+- *Judikatura:* obecný princip prekluze v kárném řízení a požadavek, aby koordinační mechanismy lhůtu nemařily.
+
+**4. Subsumpce.** MSp je oprávněno vyzvat kteréhokoli oprávněného předsedu soudu (odst. 1); výzva může jít i hierarchií shora dolů (odst. 2). Adresát je povinen odpovědět bez zbytečného odkladu, nejpozději do 15, ve složitých věcech do 25 pracovních dnů (odst. 3). Mechanismus slouží koordinaci plurality žalobců a prevenci „shozu odpovědnosti".
+
+**5. Řešení.** Předseda OS musí na výzvu odpovědět ve lhůtě dle odst. 3. Pokud návrh podat nehodlá nebo neodpoví, může jej podat samo MSp (jako ultimum refugium), aby věc nezůstala neřešená a nedošlo k prekluzi. Koordinační dotaz nesmí běh prekluzivní lhůty nepřiměřeně „nadhodit".
+
+**6. Varianty.** (a) Výzvu může podle odst. 2 učinit i předseda KS vůči předsedovi OS. (b) Odpoví-li předseda OS kladně a podá návrh sám, MSp nezasahuje.
+
+##### G. Protiargumenty a rizika
+
+- *„Výzva odkládá běh prekluzivní lhůty."* Neutralizace: lhůty dle § 9 zák. č. 7/2002 Sb. běží dál; koordinace nesmí vést k jejich obcházení — proto MSp může podat návrh samo.
+- *„Adresát nemusí na výzvu reagovat."* Neutralizace: odst. 3 stanoví výslovnou povinnost odpovědět ve lhůtě 15/25 pracovních dnů.
+- Slabé místo: zákon nestanoví přímou sankci za nedodržení lhůty odpovědi — vynutitelnost je nepřímá (možnost MSp jednat samo, případně kárná rovina vůči nečinnému funkcionáři).
+
+##### H. Praktický závěr
+
+§ 128a koordinuje pluralitu kárných žalobců: MSp (a předseda vyššího soudu) může vyzvat oprávněný orgán ke sdělení záměru podat kárný návrh; adresát musí odpovědět do 15, resp. 25 pracovních dnů. Mechanismus brání tomu, aby věc zůstala neřešená.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výzva učiněna oprávněným subjektem (MSp dle odst. 1, předseda vyššího soudu dle odst. 2)?
+- [ ] Byla dodržena lhůta odpovědi (15, resp. 25 pracovních dnů od doručení)?
+- [ ] Nehrozí prekluze dle § 9 zák. č. 7/2002 Sb. (může pak jednat MSp)?
+- [ ] Je výzva i odpověď řádně doložena (doručení, obsah)?
+
+**Typicky rozhodné důkazy / podklady:** výzva a doklad o jejím doručení, odpověď adresáta, spis dotčené věci, evidence běhu prekluzivních lhůt.
 
 ---
 
@@ -1032,6 +1680,42 @@ Protokol musí být po nahlédnutí znovu **zalepen** a otevření potvrzeno pod
 #### Prolomení mlčenlivosti (odst. 4)
 
 Vůči vyjmenovaným osobám (orgán státní správy, dotčený soudce, jeho zmocněnec) **neplatí povinnost mlčenlivosti** o obsahu porady. Tyto osoby tedy mohou v kárném řízení s obsahem protokolu pracovat a citovat jej. Mlčenlivost vůči třetím osobám (jiným soudcům, médiím, veřejnosti) však zůstává.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Kárný soud rozhodl o zpřístupnění protokolu o hlasování senátu k prokázání skutečností v kárném řízení proti jednomu z členů senátu. Předseda KS jako kárný žalobce protokol otevře a pořídí výpisy; dotčený soudce žádá, aby do protokolu mohl nahlédnout též jeho zmocněnec — advokát. Po nahlédnutí vznikne otázka, jak naložit s tajností porady a s opětovným zapečetěním. Důkazy: rozhodnutí kárného soudu, protokol o hlasování, záznam o otevření a zalepení.
+
+**2. Právní otázka.** Kdo smí po rozhodnutí kárného soudu nahlížet do zpřístupněného protokolu o hlasování, v jakém rozsahu je prolomena mlčenlivost o poradě a jak se zachází s protokolem po nahlédnutí podle § 128b?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 128b — oprávnění orgánu státní správy nahlížet a činit výpisy (odst. 1), oprávnění dotčeného soudce a jeho zmocněnce z řad soudců/advokátů (odst. 2), opětovné zalepení a potvrzení podpisem (odst. 3), prolomení mlčenlivosti vůči vyjmenovaným osobám (odst. 4).
+- *Související ustanovení téhož zákona:* § 128 odst. 3 (návrh na zpřístupnění), § 58 (tajnost porady a hlasování).
+- *Související předpisy:* zákon č. 7/2002 Sb. (kárné řízení); § 127 OSŘ (tajnost porady); čl. 6 EÚLP (rovnost zbraní).
+- *Judikatura:* obecný princip rovnosti zbraní v kárném řízení a striktní ochrany tajnosti porady mimo zákonné výjimky.
+
+**4. Subsumpce.** Po rozhodnutí kárného soudu (§ 128 odst. 3) smí protokol otevřít a činit výpisy orgán státní správy (odst. 1) a rovněž dotčený soudce a jeho zmocněnec z řad soudců nebo advokátů (odst. 2). Vůči těmto osobám neplatí mlčenlivost o obsahu porady (odst. 4); po nahlédnutí se protokol opět zalepí a otevření potvrdí podpisem (odst. 3).
+
+**5. Řešení.** Předseda KS i zmocněnec-advokát dotčeného soudce smějí do protokolu nahlédnout a pořídit výpisy; obsah lze v kárném řízení použít. Po nahlédnutí kdokoli protokol otevřel jej znovu zalepí a podepíše. Mlčenlivost vůči třetím osobám (jiným soudcům, médiím, veřejnosti) zůstává zachována.
+
+**6. Varianty.** (a) Bez rozhodnutí kárného soudu o zpřístupnění by nahlížení nebylo přípustné (tajnost porady, § 58). (b) Zmocněncem může být jen osoba z řad soudců nebo advokátů, nikoli kdokoli jiný.
+
+##### G. Protiargumenty a rizika
+
+- *„Zpřístupnění protokolu narušuje tajnost porady absolutně."* Neutralizace: prolomení je omezené (odst. 4) — týká se jen vyjmenovaných osob a účelu kárného řízení; vůči třetím tajnost trvá.
+- *„Advokát soudce nemá k protokolu přístup."* Neutralizace: odst. 2 výslovně přiznává oprávnění zmocněnci z řad soudců nebo advokátů (rovnost zbraní).
+- Slabé místo: po nahlédnutí je nutné protokol řádně zapečetit a podepsat (odst. 3); opomenutí ohrožuje další ochranu tajnosti a může být procesní vadou.
+
+##### H. Praktický závěr
+
+§ 128b nastavuje přesnou mechaniku nahlížení do zpřístupněného protokolu o hlasování: oprávněn je orgán státní správy soudů i dotčený soudce a jeho zmocněnec (soudce/advokát); mlčenlivost je vůči nim prolomena, protokol se po nahlédnutí opět zapečetí a podepíše.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje rozhodnutí kárného soudu o zpřístupnění (§ 128 odst. 3)?
+- [ ] Nahlíží oprávněná osoba (orgán správy, dotčený soudce, zmocněnec z řad soudců/advokátů)?
+- [ ] Byl protokol po nahlédnutí opět zalepen a otevření potvrzeno podpisem (odst. 3)?
+- [ ] Je zachována mlčenlivost vůči třetím osobám?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí kárného soudu o zpřístupnění, protokol o hlasování, záznam o otevření, výpisy/opisy, doklad o opětovném zapečetění a podpisu.
 
 ---
 
@@ -1067,6 +1751,42 @@ JA poskytuje vzdělávání pěti kategoriím:
 5. **Další osoby** — soudní úředníci, exekutoři, notáři, jakož i externí spolupracovníci justice (policisté, sociálně-právní ochrana dětí).
 
 JA tedy plní funkci **národní justiční univerzity**, podobně jako École nationale de la magistrature ve Francii nebo Studierhinweise při OLG v Německu.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Justiční akademie uzavře vlastním jménem nájemní smlouvu a chce samostatně žalovat dodavatele o náhradu škody; protistrana namítá, že JA nemá právní subjektivitu a jednat má stát. Současně MSp v rámci dohledu nad činností JA požaduje úpravu vzdělávacího programu a zařazení vzdělávacích akcí i pro policejní orgány a OSPOD. Důkazy: zřizovací rámec JA, smlouva, statut JA, korespondence s MSp.
+
+**2. Právní otázka.** Jaká je právní povaha Justiční akademie, kdo za ni právně jedná a v jakém rozsahu může MSp vykonávat dohled nad její činností podle § 129?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 129 — zřízení JA se sídlem v Kroměříži, povaha organizační složky státu a účetní jednotky, dohled MSp (odst. 1), vzdělávací mise pro pětivrstvou cílovou skupinu a akce pro spolupracující osoby (odst. 2).
+- *Související ustanovení téhož zákona:* § 123 odst. 1 písm. h (MSp schvaluje statut JA a dohlíží na činnost), §§ 130–133 (orgány, statut, činnost, lektoři JA), § 109 a násl. (justiční kandidáti), § 82a (vzdělávání soudců).
+- *Související předpisy:* zákon č. 219/2000 Sb. (§ 3 — organizační složka státu, jedná stát); zákon č. 563/1991 Sb. o účetnictví (účetní jednotka).
+- *Judikatura:* obecný princip, že organizační složka státu nemá vlastní právní osobnost a v právních vztazích vystupuje stát.
+
+**4. Subsumpce.** JA je podle § 129 odst. 1 organizační složkou státu — nemá vlastní právní subjektivitu; v právních vztazích jedná stát (zák. č. 219/2000 Sb.). Je účetní jednotkou (samostatné účetnictví). MSp vykonává dohled nad činností JA (odst. 1) a schvaluje její statut (§ 123 odst. 1 písm. h). Vzdělávání pro policejní orgány a OSPOD je v rámci mise dle odst. 2 přípustné.
+
+**5. Řešení.** Nájemní smlouvu i žalobu nečiní JA „sama za sebe", nýbrž stát prostřednictvím JA jako své organizační složky; označení účastníka musí znít na ČR. Požadavky MSp na úpravu programu se pohybují v mezích dohledu (odst. 1) a schvalování statutu; nesmějí však zasáhnout do odborné nezávislosti vzdělávání soudců nad rámec zákona.
+
+**6. Varianty.** (a) Šlo-li by o vzdělávání soudců, je třeba respektovat součinnost se soudy a soustavné vzdělávání (§ 82a). (b) Vzdělávání externích osob (policie, OSPOD) je fakultativní doplněk mise, vázaný na potřeby justice.
+
+##### G. Protiargumenty a rizika
+
+- *„JA má vlastní subjektivitu, vystupuje sama."* Neutralizace: § 129 odst. 1 ji výslovně označuje za organizační složku státu — jedná stát, nikoli JA samostatně.
+- *„Dohled MSp znamená podřízení obsahu vzdělávání ministerstvu."* Neutralizace: dohled a schvalování statutu (§ 123 odst. 1 písm. h) nesmí potlačit odbornou nezávislost vzdělávání a součinnost se soudy (odst. 2).
+- Slabé místo: dvojí povaha (organizační složka pod dohledem MSp vs. vzdělávání nezávislých soudců) vyžaduje vyvážení; chybné označení účastníka řízení působí procesní vadu.
+
+##### H. Praktický závěr
+
+Justiční akademie je centrální vzdělávací institucí justice se sídlem v Kroměříži, právně organizační složkou státu a účetní jednotkou pod dohledem MSp; v právních vztazích za ni jedná stát. Poskytuje vzdělávání pěti kategoriím a doplňkově i osobám spolupracujícím s justicí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je v právních úkonech a řízeních správně označen stát (nikoli JA jako samostatný subjekt)?
+- [ ] Je činnost JA v souladu se schváleným statutem a dohledem MSp (§ 123 odst. 1 písm. h)?
+- [ ] Spadá vzdělávací akce do mise dle § 129 odst. 2 (vč. součinnosti se soudy)?
+- [ ] Není dohledem MSp dotčena odborná nezávislost vzdělávání soudců?
+
+**Typicky rozhodné důkazy / podklady:** zřizovací a organizační rámec JA, statut JA a jeho schválení MSp, účetní doklady (JA jako účetní jednotka), smlouvy a procesní podání s označením účastníka, vzdělávací program a doklad o součinnosti se soudy.
 
 ---
 
@@ -1138,6 +1858,42 @@ Tato kompetence zahrnuje strategické rozhodování o tématech, formátech (sem
 
 Mechanismus „vázání na plat soudce KS" zajišťuje, že odměna Rady reflektuje **systémovou hladinu** justičních platů a není politicky stanovována ad hoc.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Ministr spravedlnosti chce jmenovat do nově obsazované patnáctičlenné Rady Justiční akademie kromě dosavadních zástupců NS, NSS a NSZ ještě předsedu, místopředsedu a sedm dalších členů. Z devíti jím obsazovaných míst navrhuje jmenovat předsedu (akademik), místopředsedu (advokát) a pět dalších odborníků z řad advokátů, notářů a vysokoškolských pedagogů, dva soudce a žádného státního zástupce. Soudcovská unie namítá, že výsledné složení Rady poruší zákonný požadavek soudcovské a žalobní většiny. Důkazy: jmenovací akty, profesní zařazení jednotlivých kandidátů, zápis o projednání odvolání ředitele s Radou.
+
+**2. Právní otázka.** Splňuje navržené složení Rady požadavek § 130 odst. 2 věty druhé, podle něhož většinu Rady musí tvořit soudci a státní zástupci, a jaké jsou důsledky jeho porušení pro platnost jmenování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 130 odst. 2 — třináctičlenné (po novele i jiné) složení Rady s pojistkou soudcovsko-žalobní většiny a působnost odborného řízení vzdělávání.
+- *Související ustanovení téhož zákona:* § 129 (postavení JA), § 131 (statut), § 132 a § 133 (činnost a lektoři), § 82a (individuální plány vzdělávání).
+- *Související předpisy:* zákon č. 7/2002 Sb., o řízení ve věcech soudců a SZ; zákon č. 283/1993 Sb., o státním zastupitelství; cestovní náhrady dle zákoníku práce.
+- *Judikatura:* obecná zásada, že zákonem stanovený kvalifikační požadavek na složení kolektivního orgánu je podmínkou zákonnosti jeho ustavení; jmenovací akt porušující kogentní pravidlo složení je stižen vadou.
+
+**4. Subsumpce.** Rada je orgánem JA (odst. 1). Soudcovsko-žalobní většina (alespoň 7 z 13) je kogentním znakem — k zástupcům NS, NSS, NSZ (6 osob, z toho 2 soudci NS, 2 soudci NSS, 2 státní zástupci NSZ) je třeba připočíst osoby jmenované ministrem. Při dvou soudcích a žádném státním zástupci z devíti ministrových nominací činí počet soudců a SZ celkem 4 (NS) + soudci NSS jsou soudci → 4 zástupci vrcholných soudů jsou soudci, 2 jsou SZ, plus 2 ministrovi soudci = celkem 8 soudců a SZ ze 13. Sporné je, zda konkrétní akademici nejsou zároveň soudci ve výslužbě — to většinu neovlivní.
+
+**5. Řešení.** Je-li soudců a SZ alespoň 7 z 13, požadavek je splněn a jmenování je zákonné. Ministr však nemá volnost klesnout pod tuto hranici; pokud by navrhl složení s méně než polovinou soudců a SZ, jmenovací akty by byly v rozporu s § 130 odst. 2 a Rada by nebyla řádně ustavena (riziko zpochybnění jejích usnesení o studijních programech). Procesně: před jmenováním ověřit profesní status každého kandidáta ke dni jmenování.
+
+**6. Varianty.** (a) Ministr jmenuje předsedu, místopředsedu a sedm členů samé advokáty/notáře → soudců a SZ jen 6 ze 13, požadavek porušen, ustavení vadné. (b) Jeden z „akademiků" je činný soudce → posiluje většinu a jmenování je v pořádku.
+
+##### G. Protiargumenty a rizika
+
+- Lze namítnout, že zákon nestanoví sankci za porušení většinového pravidla, takže jmenování platí i tak. Neutralizace: kogentní podmínka složení je podmínkou zákonnosti ustavení orgánu; usnesení vadně složené Rady jsou napadnutelná a ministr je povinen vadu odstranit změnou jmenování.
+- Argument, že „projednání s Radou" před odvoláním ředitele je jen formalita. Neutralizace: jde o obligatorní procesní podmínku — bez doloženého projednání je odvolání ředitele procesně vadné, byť stanovisko Rady není závazné.
+- Slabé místo: počty členů se novelizacemi mění; je nutné vždy pracovat s aktuálním zněním odst. 2 a nepřebírat mechanicky tabulku 13 členů.
+
+##### H. Praktický závěr
+
+Rada je odborný kolektivní orgán JA s kogentně chráněnou soudcovsko-žalobní většinou; ředitel je monokratický exekutivní orgán jmenovaný a odvolávaný ministrem po projednání s Radou.
+
+**Checklist (ministr spravedlnosti / Rada / kontrolní orgán):**
+- [ ] Ověřit ke dni jmenování profesní status každého člena (soudce / SZ / jiný odborník).
+- [ ] Spočítat, zda soudci a SZ tvoří většinu celkového počtu členů Rady.
+- [ ] U odvolání/jmenování ředitele doložit předchozí projednání s Radou.
+- [ ] U nesoudcovských členů správně stanovit odměnu (násobek platu soudce KS) a náhradu výdajů.
+
+**Typicky rozhodné důkazy / podklady:** jmenovací a odvolací akty, doklady o profesním zařazení členů, zápis o projednání s Radou, výpočet odměn dle platu soudce KS.
+
 ---
 
 #### § 131 — Statut Justiční akademie
@@ -1155,6 +1911,42 @@ Vnitřní normou JA je **statut** vydávaný ministrem spravedlnosti **po projed
 - mechanismy ekonomického chodu.
 
 Projednání s Radou je obligatorní procesní podmínkou platnosti statutu, byť stanovisko Rady není závazné.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Ředitel JA připraví návrh statutu, který nově zřizuje samostatné e-learningové oddělení a mění pravidla zařazování justičních kandidátů do adaptačních kurzů. Statut má vydat ministr spravedlnosti. Ředitel jej však předloží ministrovi k podpisu, aniž by ho nechal projednat Radou, s odůvodněním, že jde o ryze organizační otázku. Soudce, jemuž byl odepřen vstup do kurzu podle nových pravidel statutu, namítá, že statut nebyl řádně vydán. Důkazy: znění statutu, podpisová doložka ministra, zápisy ze zasedání Rady (resp. jejich absence).
+
+**2. Právní otázka.** Je statut JA vydaný ministrem spravedlnosti platný, nebyl-li předtím projednán s Radou ve smyslu § 131?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 131 — statut upravuje vnitřní organizaci a podrobnosti činnosti JA; vydává jej ministr po projednání s Radou.
+- *Související ustanovení téhož zákona:* § 130 odst. 2 (působnost Rady odborně řídit vzdělávání), § 132 (činnost JA), § 133 (lektoři).
+- *Související předpisy:* obecná pravidla pro vydávání vnitřních (statutárních) předpisů státních organizačních složek/příspěvkových organizací.
+- *Judikatura:* zásada, že obligatorní procesní podmínka (projednání) je podmínkou řádného vydání aktu, byť výsledné stanovisko konzultovaného orgánu není závazné.
+
+**4. Subsumpce.** Statut spadá pod § 131 — upravuje vnitřní organizaci (e-learningové oddělení) i podrobnosti činnosti (zařazování kandidátů). „Projednání s Radou" je zákonným znakem postupu vydání. Tento znak nebyl naplněn — projednání se nekonalo. Skutečnost, že Rada má kompetenci k odbornému řízení vzdělávání (§ 130 odst. 2), naléhavost projednání zesiluje.
+
+**5. Řešení.** Statut vydaný bez projednání s Radou trpí vadou procesu vydání; ministr je povinen projednání doplnit a statut vydat znovu, jinak jsou jeho ustanovení (zejména pravidla zařazování) napadnutelná. Stanovisko Rady přitom ministra nezavazuje — postačí prokazatelné projednání. Procesně: dotčený soudce může vadu namítnout, JA má statut zpětně zhojit projednáním a novým vydáním.
+
+**6. Varianty.** (a) Statut byl projednán s Radou, která vyjádřila nesouhlas, ministr jej přesto vydal → platný, neboť stanovisko není závazné. (b) Změna se týká pouhého interního pracovního postupu sekretariátu nezasahujícího do „podrobností činnosti" → patrně nejde o statut ve smyslu § 131 a projednání není nutné.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že projednání je jen doporučující, a tedy jeho absence nemá vliv. Neutralizace: doporučující povaha se týká obsahu stanoviska, nikoli existence procesního kroku — projednání samo je obligatorní.
+- Námitka, že drobné organizační změny nemusí být ve statutu vůbec. Neutralizace: rozhodující je, zda věc patří do „vnitřní organizace a podrobností činnosti"; je-li ano, patří do statutu a podléhá projednání.
+- Slabé místo: zákon neurčuje formu projednání ani lhůtu; doporučuje se pořizovat zápis, aby bylo projednání prokazatelné.
+
+##### H. Praktický závěr
+
+Statut je základní vnitřní normou JA; jeho platné vydání předpokládá prokazatelné (byť nezávazné) projednání s Radou.
+
+**Checklist (ministr / Rada / ředitel):**
+- [ ] Posoudit, zda změna patří do „vnitřní organizace a podrobností činnosti" (a tedy do statutu).
+- [ ] Před vydáním statut projednat s Radou a pořídit zápis.
+- [ ] Stanovisko Rady vyhodnotit, není však pro ministra závazné.
+- [ ] Vydat statut formálně aktem ministra.
+
+**Typicky rozhodné důkazy / podklady:** znění statutu, podpisová doložka ministra, zápis ze zasedání Rady o projednání, stanovisko Rady.
 
 ---
 
@@ -1180,6 +1972,42 @@ Projednání s Radou je obligatorní procesní podmínkou platnosti statutu, by�
 2. **Soustavné vzdělávání** (písm. b) — celoživotní vzdělávání aktivních soudců a SZ; metodická podpora individuálních plánů vzdělávání dle § 82a (každý soudce má povinnost se vzdělávat);
 3. **Doplňkové vzdělávání jiných osob** (písm. c) — soudní úředníci, asistenti, vyšší soudní úředníci, exekutoři, notáři, policisté, OSPOD apod.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Krajský soud žádá JA o uspořádání specializovaného semináře pro vyšší soudní úředníky a soudní tajemníky ke změnám v insolvenčním právu. JA odpoví, že kapacity má vyhrazené pro adaptační kurzy justičních kandidátů a soustavné vzdělávání soudců, a požadavek odmítne s tím, že vzdělávání „dalších osob" provádí jen výjimečně. Předsedkyně KS namítá, že JA má povinnost takové vzdělávání zajišťovat. Důkazy: žádost soudu, korespondence s JA, statut a roční plán vzdělávací činnosti JA, případné pokyny ministerstva.
+
+**2. Právní otázka.** Vyplývá ze § 132 písm. c) JA povinnost zajistit odborné vzdělávání vyšších soudních úředníků, nebo jde o činnost fakultativní podmíněnou zvláštním předpisem či pokynem ministerstva?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 132 — tři pilíře činnosti JA: adaptační vzdělávání (a), soustavné vzdělávání soudců a SZ s metodickou podporou plánů dle § 82a (b), vzdělávání dalších osob a další úkoly, stanoví-li tak zvláštní předpis nebo ministerstvo (c).
+- *Související ustanovení téhož zákona:* § 82a (individuální plány vzdělávání), § 130 odst. 2 (Rada určuje obsahovou náplň a zásady zařazování), § 131 (statut), § 133 (lektoři).
+- *Související předpisy:* předpisy o postavení vyšších soudních úředníků (zákon č. 121/2008 Sb.); pokyny ministerstva spravedlnosti.
+- *Judikatura:* výklad, že obrat „stanoví-li tak zvláštní právní předpis nebo ministerstvo" činí danou činnost podmíněnou, nikoli bezvýhradně nárokovou.
+
+**4. Subsumpce.** Vzdělávání vyšších soudních úředníků spadá pod „další osoby" dle písm. c). Na rozdíl od písm. a) a b), které jsou jádrovou (povinnou) misí JA, je činnost dle písm. c) vázána na podmínku — musí ji stanovit zvláštní předpis nebo ministerstvo. Pokud takový předpis ani pokyn neexistuje, nemá KS vůči JA přímý nárok.
+
+**5. Řešení.** JA je primárně povinna zajišťovat adaptační (a) a soustavné (b) vzdělávání; vzdělávání dalších osob (c) provádí, je-li to uloženo zvláštním předpisem nebo ministerstvem. KS proto nemá samostatně vynutitelný nárok; cestou je obrátit se na ministerstvo, aby vzdělávání VSÚ JA uložilo, nebo zařazení projednat s Radou (zásady zařazování dle § 130 odst. 2). Procesně: žádost adresovat ministerstvu, nikoli pouze JA.
+
+**6. Varianty.** (a) Ministerstvo vydá pokyn k zajištění vzdělávání VSÚ → činnost dle písm. c) se stává úkolem JA. (b) Žádost se týká soustavného vzdělávání soudce KS → spadá pod písm. b), JA je povinna ji zohlednit v rámci plánů dle § 82a.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že písm. c) zakládá obecnou povinnost vzdělávat „další osoby". Neutralizace: jazyk normy je podmíněný („stanoví-li tak…"), takže bez předpisu/pokynu nejde o nárokovou povinnost.
+- Námitka, že vzdělávání VSÚ je fakticky vždy v zájmu justice. Neutralizace: zájem nezakládá právní nárok; cesta vede přes pokyn ministerstva nebo zásady zařazování schválené Radou.
+- Slabé místo: rozlišení, zda konkrétní osoba spadá pod „soudce/SZ" (b) nebo „další osoby" (c), může být sporné; rozhoduje status osoby a předmět akce.
+
+##### H. Praktický závěr
+
+Jádrem činnosti JA je adaptační a soustavné vzdělávání soudců a SZ; vzdělávání dalších osob je vázáno na zvláštní předpis nebo pokyn ministerstva.
+
+**Checklist (soud / JA / ministerstvo):**
+- [ ] Zařadit požadavek pod správný pilíř (a/b/c) podle statusu adresátů.
+- [ ] U „dalších osob" ověřit existenci zvláštního předpisu nebo pokynu ministerstva.
+- [ ] Soustavné vzdělávání soudců promítnout do plánů dle § 82a.
+- [ ] Zásady zařazování respektovat ve vazbě na § 130 odst. 2.
+
+**Typicky rozhodné důkazy / podklady:** žádost soudu, statut a roční plán vzdělávání JA, zvláštní předpis nebo pokyn ministerstva, zásady zařazování schválené Radou.
+
 ---
 
 #### § 132a — Hospodářská činnost
@@ -1193,6 +2021,42 @@ Projednání s Radou je obligatorní procesní podmínkou platnosti statutu, by�
 **Výklad:**
 
 § 132a umožňuje JA provozovat **doplňkovou hospodářskou činnost** — typicky komerční vzdělávání pro firmy (semináře pro podnikové právníky), pronájem prostor, vydavatelská činnost (publikace odborných textů). Klauzule „**nesmí ohrozit kvalitu, rozsah a dostupnost hlavní činnosti**" je zákonnou pojistkou proti „zkomercializování" akademie: hlavní vzdělávací mise pro justici má vždy přednost.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** JA uzavře smlouvu na komerční vzdělávací cyklus pro podnikové právníky velké korporace; akce je natolik lukrativní a kapacitně náročná, že lektoři i prostory jsou jí přednostně vyhrazeni a adaptační kurzy justičních kandidátů se musí o tři měsíce odložit. Justiční kandidát namítá, že kvůli hospodářské činnosti JA neplní svou hlavní misi. Důkazy: smlouva o komerční akci, rozvrh lektorů a místností, plán adaptačních kurzů a doklad o jejich odložení.
+
+**2. Právní otázka.** Překračuje JA mez § 132a, ohrozila-li komerční (hospodářská) činnost rozsah a dostupnost hlavní vzdělávací činnosti pro justici?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 132a — JA může provozovat hospodářskou činnost mimo hlavní činnost (§ 129 odst. 2), avšak tato činnost nesmí ohrozit kvalitu, rozsah a dostupnost hlavní činnosti.
+- *Související ustanovení téhož zákona:* § 129 odst. 2 (hlavní účel JA), § 132 (hlavní vzdělávací činnost), § 130 odst. 2 (Rada odborně řídí), § 131 (statut).
+- *Související předpisy:* rozpočtová pravidla pro hospodaření příspěvkové organizace/organizační složky státu.
+- *Judikatura:* zásada, že doplňková (vedlejší) hospodářská činnost veřejné instituce nesmí jít na úkor jejího zákonného hlavního poslání.
+
+**4. Subsumpce.** Komerční cyklus pro firmu je hospodářskou činností „mimo hlavní činnost". Zákonný limit je porušen, ohrozí-li tato činnost „kvalitu, rozsah a dostupnost hlavní činnosti". Odložení adaptačních kurzů o tři měsíce je přímým zásahem do rozsahu a dostupnosti hlavní činnosti — limit § 132a je tedy překročen.
+
+**5. Řešení.** Hospodářská činnost je přípustná jen potud, pokud neomezuje hlavní misi. Pokud komerční akce vytlačila adaptační kurzy, JA jednala v rozporu s § 132a; náprava spočívá v přednostním zajištění hlavní činnosti (kurzy nelze odsouvat ve prospěch komerce) a v případném omezení komerčního závazku. Procesně: dohled vykonává ministerstvo a Rada v rámci odborného řízení; kandidát může věc namítnout cestou stížnosti na chod JA.
+
+**6. Varianty.** (a) Komerční akce proběhne v období mimo plánované kurzy a bez dopadu na lektorské kapacity pro justici → § 132a dodržen. (b) Hospodářská činnost generuje zdroje, jež JA použije k rozšíření adaptačních kurzů → naopak posiluje hlavní činnost, limit není dotčen.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že příjmy z komerce posilují rozpočet JA, a tedy slouží hlavní misi. Neutralizace: § 132a chrání nejen kvalitu, ale i rozsah a dostupnost; konkrétní vytlačení kurzů je porušením bez ohledu na příjem.
+- Námitka, že odložení kurzů je dočasné a nezpůsobí škodu. Neutralizace: i dočasné omezení dostupnosti hlavní činnosti je zásahem do zákonného limitu.
+- Slabé místo: „ohrožení" je neurčitý pojem; v praxi je třeba doložit konkrétní dopad na hlavní činnost (kapacita, termíny, lektoři).
+
+##### H. Praktický závěr
+
+Hospodářská činnost JA je přípustná jen jako doplněk; hlavní vzdělávací mise pro justici má vždy přednost a nesmí být komerční činností omezena.
+
+**Checklist (JA / Rada / ministerstvo):**
+- [ ] Před přijetím komerční zakázky ověřit dopad na termíny, kapacity a lektory hlavní činnosti.
+- [ ] Zajistit, že adaptační a soustavné vzdělávání nebude odsunuto.
+- [ ] Hospodaření vést odděleně a transparentně.
+- [ ] V případě kolize dát přednost hlavní činnosti.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o hospodářské činnosti, rozvrh lektorů a prostor, plán hlavní vzdělávací činnosti, doklady o případném odložení kurzů.
 
 ---
 
@@ -1217,6 +2081,42 @@ Specifická úprava platí pro **soudce a SZ**, kteří chtějí kombinovat výk
 #### Plat (odst. 3)
 
 Pro lektory v pracovním poměru k JA platí systémové vázání na **plat akademického pracovníka státní vysoké školy** (zákon č. 111/1998 Sb., o vysokých školách, § 70). Toto vázání zajišťuje rovnost s univerzitním pedagogickým prostředím a brání ad hoc politickému stanovení odměn.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Zkušený soudce krajského soudu chce vedle výkonu funkce přednášet na JA jako lektor procesního práva. Rada ho má ustanovit lektorem. Před jmenováním si nevyžádá vyjádření předsedy KS, u něhož soudce působí. Po jmenování předseda KS upozorní, že lektorská zátěž koliduje s vyřizováním nápadu a prohlubuje průtahy v soudcových věcech. Soudce zároveň požaduje za lektorskou činnost vykonávanou v pracovním poměru k JA plat akademického pracovníka. Důkazy: akt o ustanovení lektorem, doklad o (ne)vyžádání vyjádření předsedy KS, evidence nápadu a délky řízení, pracovní smlouva s JA.
+
+**2. Právní otázka.** Je ustanovení soudce lektorem JA řádné, nevyžádala-li si Rada předem vyjádření příslušného předsedy soudu, a podle jakého platového základu se odměňuje pedagogická činnost v pracovním poměru k JA?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 133 — lektory ustanovuje a odvolává Rada; u soudců a SZ vykonávajících pedagogickou činnost při výkonu funkce si Rada před jmenováním vyžádá vyjádření příslušného předsedy soudu / vedoucího SZ (odst. 2); za pedagogickou činnost v pracovním poměru k JA náleží plat akademického pracovníka státní vysoké školy (odst. 3).
+- *Související ustanovení téhož zákona:* § 130 odst. 2 (Rada jako orgán), § 124–127 (dohled předsedy soudu nad výkonem funkce a průtahy), § 174a (návrh na určení lhůty při průtazích).
+- *Související předpisy:* zákon č. 111/1998 Sb., o vysokých školách, § 70 (plat akademického pracovníka); zákon č. 283/1993 Sb. (SZ).
+- *Judikatura:* zásada, že vyžádání vyjádření je obligatorní procesní podmínkou ustanovení, byť vyjádření samo není závazné.
+
+**4. Subsumpce.** Soudce KS spadá pod zvláštní režim odst. 2 (pedagogická činnost při výkonu funkce). Znakem řádného postupu je předchozí vyžádání vyjádření předsedy KS — ten naplněn nebyl. Ustanovení tedy trpí procesní vadou. Pro odměnu v pracovním poměru k JA platí platový základ akademického pracovníka (odst. 3).
+
+**5. Řešení.** Rada měla před ustanovením vyžádat vyjádření předsedy KS; jeho opomenutí je vadou, kterou je třeba zhojit dodatečným vyžádáním a posouzením slučitelnosti. Vyjádření Radu nezavazuje, ale musí být vyžádáno a vyhodnoceno (zejména riziko průtahů). Pokud lektorská zátěž ohrožuje výkon funkce, předseda KS řeší věc nástroji dohledu (§ 124–127) a případně iniciuje omezení lektorské činnosti. Odměna za činnost v pracovním poměru k JA = plat akademického pracovníka VŠ.
+
+**6. Varianty.** (a) Lektorem je advokát či akademik (nikoli činný soudce/SZ) → vyjádření předsedy soudu se nevyžaduje, ustanovuje pouze Rada. (b) Vyjádření předsedy KS bylo vyžádáno a bylo nesouhlasné, Rada přesto jmenovala → ustanovení je platné, neboť vyjádření není závazné, Rada je však musí zohlednit.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že vyjádření předsedy soudu je nezávazné, a tedy jeho absence nevadí. Neutralizace: nezávaznost se týká obsahu, nikoli povinnosti vyjádření vyžádat — vyžádání je obligatorní.
+- Námitka, že lektora ustanovuje výlučně Rada, takže předseda soudu do věci nemá co mluvit. Neutralizace: u činných soudců/SZ zákon výslovně vkládá konzultaci předsedy soudu kvůli slučitelnosti s hlavní funkcí.
+- Slabé místo: odst. 3 dopadá jen na pedagogickou činnost v pracovním poměru k JA; externí lektoři mimo pracovní poměr jsou odměňováni jinak (smluvně), což je třeba odlišit.
+
+##### H. Praktický závěr
+
+Lektory JA ustanovuje Rada; u činných soudců a SZ je obligatorní předchozí (nezávazné) vyjádření příslušného předsedy soudu, a pedagogická činnost v pracovním poměru k JA se odměňuje platem akademického pracovníka VŠ.
+
+**Checklist (Rada / předseda soudu / JA):**
+- [ ] U kandidáta zjistit, zda jde o činného soudce/SZ (režim odst. 2).
+- [ ] Před ustanovením vyžádat vyjádření příslušného předsedy soudu / vedoucího SZ a vyhodnotit je.
+- [ ] Posoudit slučitelnost lektorské zátěže s výkonem funkce (riziko průtahů).
+- [ ] U pracovního poměru k JA aplikovat platový základ akademického pracovníka VŠ.
+
+**Typicky rozhodné důkazy / podklady:** akt o ustanovení lektorem, doklad o vyžádání a obsahu vyjádření předsedy soudu, pracovní smlouva s JA, evidence nápadu a délky řízení dotčeného soudce.
 
 ---
 
@@ -1287,6 +2187,42 @@ Anonymní podání se **nevyřizují**. Tato klauzule sleduje dvojí účel:
 
 Anonymní podání se však může stát **podnětem k vlastnímu šetření** orgánu státní správy: pokud obsahuje konkrétní indicie, může orgán z vlastní iniciativy zahájit prověrku.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Účastník civilního sporu zašle předsedovi okresního soudu podání nadepsané „Stížnost", v němž namítá, že rozsudek je věcně nesprávný, soudce nesprávně vyhodnotil důkazy a navíc se k němu při jednání choval arogantně a posměšně. Předseda OS musí podání vyřídit. Důkazy: text podání, protokol z jednání, soudní spis, případně zvukový záznam jednání.
+
+**2. Právní otázka.** V jakém rozsahu je takové podání přípustnou stížností podle § 164 a jak má orgán státní správy soudu naložit s tou částí, která směřuje proti věcné správnosti rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 164 — stížnost je přípustná jen pro průtahy, nevhodné chování soudních osob nebo narušování důstojnosti řízení (odst. 1); nelze jí přezkoumávat nezávislou rozhodovací činnost (odst. 2); anonymní podání se nevyřizují (odst. 3); posuzuje se podle obsahu (odst. 1 věta druhá).
+- *Související ustanovení téhož zákona:* § 118 odst. 2 (nezasahování do nezávislosti), § 166 (forma a místo), § 171 (příslušnost předsedy OS), § 172–173 (prošetření a vyřízení), § 174a (návrh na určení lhůty u průtahů).
+- *Související předpisy:* čl. 82 odst. 1 Ústavy (nezávislost soudce); čl. 6 odst. 1 EÚLP (přiměřená lhůta); zákon č. 106/1999 Sb. (žádost o informace); zákon č. 89/2012 Sb. a tr. zákoník (možná odpovědnost stěžovatele).
+- *Judikatura:* ÚS IV.ÚS 180/04 (stížnost na průtahy jako dříve vyžadovaný prostředek před ústavní stížností); ÚS IV.ÚS 1572/11 a věc Vokurka proti ČR (hierarchická stížnost na průtahy sama o sobě nebyla účinným prostředkem nápravy).
+
+**4. Subsumpce.** Podání je třeba posoudit podle obsahu (odst. 1 věta druhá). Část namítající arogantní chování soudce spadá pod „nevhodné chování" — přípustná stížnost. Část napadající hodnocení důkazů a věcnou správnost rozsudku spadá pod odst. 2 (rozhodovací činnost) — nepřípustná, nelze ji vyřídit jako stížnost. Označení podání („Stížnost") není rozhodné.
+
+**5. Řešení.** Předseda OS rozdělí podání: jako stížnost prošetří tvrzené nevhodné chování (§ 172–173); část týkající se věcné správnosti rozhodnutí odmítne s poučením, že přezkum rozhodnutí náleží opravným prostředkům, nikoli státní správě soudů. Jde-li současně o průtahy, poučí o návrhu na určení lhůty (§ 174a). Procesně: o vyřízení vyrozumí stěžovatele ve lhůtách dle § 173.
+
+**6. Varianty.** (a) Podání je anonymní → nevyřizuje se (odst. 3), avšak konkrétní indicie mohou být podnětem k vlastní prověrce. (b) Podání směřuje výhradně proti hodnocení důkazů → celé je nepřípustné jako stížnost a vyřídí se poučením o opravných prostředcích.
+
+##### G. Protiargumenty a rizika
+
+- Námitka stěžovatele, že nevhodné chování a nesprávné hodnocení důkazů spolu souvisí, takže nelze odmítnout část podání. Neutralizace: odst. 2 kogentně vylučuje přezkum rozhodovací činnosti; obě roviny se posuzují odděleně podle obsahu.
+- Námitka, že vyřízení stížnosti na chování fakticky hodnotí i rozhodování soudce. Neutralizace: dohled se omezuje na způsob výkonu funkce a chování, nikoli na věcnou správnost závěrů.
+- Slabé místo: hranice mezi „nevhodným chováním" a výkonem rozhodovací činnosti (např. ostře formulované odůvodnění) může být sporná; rozhoduje, zda jde o exces v komunikaci, nebo o obsah rozhodnutí.
+
+##### H. Praktický závěr
+
+Stížnost podle § 164 je nástroj dohledu, nikoli opravný prostředek; je přípustná jen pro průtahy, nevhodné chování a narušování důstojnosti řízení, posuzuje se podle obsahu a nesmí sloužit k přezkumu nezávislého rozhodování.
+
+**Checklist (orgán státní správy soudu / stěžovatel):**
+- [ ] Posoudit podání podle obsahu, ne podle označení.
+- [ ] Oddělit přípustné předměty (průtahy / chování / důstojnost) od nepřípustného přezkumu rozhodnutí.
+- [ ] Nepřípustnou část vyřídit poučením o opravných prostředcích, u průtahů o § 174a.
+- [ ] Anonymní podání nevyřizovat, zvážit však vlastní prověrku.
+
+**Typicky rozhodné důkazy / podklady:** text podání, protokol a záznam z jednání, soudní spis, evidence délky řízení, doklad o vyrozumění stěžovatele.
+
 ---
 
 #### § 165 — Ochrana stěžovatele
@@ -1308,6 +2244,42 @@ Anonymní podání se však může stát **podnětem k vlastnímu šetření** o
 #### Výjimka — trestný čin nebo přestupek (věta druhá)
 
 Pokud stěžovatel **obsahem podání** spáchá trestný čin (typicky pomluvu — § 184 tr. zákoníku, křivé obvinění — § 345 tr. zákoníku, urážku úřední osoby — § 326 tr. zákoníku) nebo přestupek (zejména podle zákona č. 251/2016 Sb.), pak ochrana podle § 165 neplatí — stěžovatel může být stíhán nebo postižen za své jednání. Stěžovatel tedy musí v podání zachovat věcnost a vyvarovat se urážek či nepravdivých tvrzení.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Účastník řízení podá k předsedovi krajského soudu stížnost na nevhodné chování soudce. V textu soudce označí za „zkorumpovaného úplatkáře, který za peníze žalovaného zmařil spravedlnost", aniž má jakýkoli podklad. Po prošetření je stížnost shledána nedůvodnou. Soudce zvažuje obranu a předseda KS posuzuje, zda stěžovateli může vzniknout újma. Důkazy: text stížnosti, výsledek prošetření, doklad o nepravdivosti tvrzení.
+
+**2. Právní otázka.** Vztahuje se ochrana podle § 165 i na stěžovatele, který v podání vznese nepodložené obvinění z trestného činu, a kde leží hranice mezi chráněnou kritikou a vyloučenou ochranou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 165 — podání stížnosti nesmí být stěžovateli na újmu; to neplatí, dopustí-li se obsahem podání trestného činu nebo přestupku.
+- *Související ustanovení téhož zákona:* § 164 (předmět a meze stížnosti), § 172–173 (prošetření a vyřízení).
+- *Související předpisy:* trestní zákoník — § 184 (pomluva), § 345 (křivé obvinění), § 326 (urážka úřední osoby — historicky); zákon č. 251/2016 Sb. (přestupky); zákon č. 89/2012 Sb. (ochrana osobnosti).
+- *Judikatura:* zásada, že beztrestnost stěžovatele se nevztahuje na exces v podobě nepravdivých difamujících tvrzení naplňujících skutkovou podstatu trestného činu či přestupku.
+
+**4. Subsumpce.** Samotné podání stížnosti (i nedůvodné) je chráněno — nesmí být stěžovateli na újmu. Tvrzení o „zkorumpovaném úplatkáři" však překračuje věcnou kritiku a může naplnit pomluvu (§ 184 tr. z.), případně křivé obvinění. Tím se aktivuje výjimka věty druhé § 165 — ochrana neplatí.
+
+**5. Řešení.** Pouhá nedůvodnost stížnosti nezakládá odpovědnost stěžovatele a nesmí mu být na újmu (soudce nesmí postupovat odvetně, orgány nesmí stěžovatele „značkovat"). Pokud však obsah podání naplní trestný čin nebo přestupek, výjimka § 165 odpovědnost umožňuje — soudce může podat trestní oznámení/žalobu na ochranu osobnosti. Procesně: orgán státní správy stížnost prošetří věcně bez ohledu na difamující tón; otázka odpovědnosti stěžovatele se řeší samostatně.
+
+**6. Varianty.** (a) Stěžovatel jen věcně a bez urážek tvrdí, že se k němu soudce choval povýšeně → plná ochrana § 165, i když je stížnost nedůvodná. (b) Stěžovatel opakovaně a vědomě lživě obviňuje soudce z konkrétního úplatku → naplnění výjimky, možné trestní stíhání.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že jakékoli postižení stěžovatele odrazuje od podávání stížností (chilling effect). Neutralizace: § 165 chrání samotné podání; výjimka dopadá jen na exces naplňující trestný čin/přestupek, nikoli na ostrou kritiku.
+- Námitka soudce, že nedůvodná stížnost je sama o sobě újmou na pověsti. Neutralizace: nedůvodnost bez difamačního excesu nezakládá odpovědnost; ochrana stěžovatele převažuje.
+- Slabé místo: hranice mezi přípustně ostrou kritikou a pomluvou je skutkově citlivá; rozhoduje pravdivost, podloženost a forma tvrzení.
+
+##### H. Praktický závěr
+
+Podání stížnosti je chráněno a nesmí být stěžovateli na újmu; ochrana však končí tam, kde obsah podání naplní trestný čin nebo přestupek (zejména nepravdivá difamující obvinění).
+
+**Checklist (stěžovatel / soudce / orgán státní správy):**
+- [ ] Stížnost prošetřit věcně bez ohledu na to, zda je důvodná.
+- [ ] Zajistit, aby stěžovateli nevznikla z podání odvetná újma.
+- [ ] Posoudit, zda obsah nepřekročil mez (pomluva, křivé obvinění, přestupek).
+- [ ] Případnou odpovědnost stěžovatele řešit samostatně, ne odepřením vyřízení stížnosti.
+
+**Typicky rozhodné důkazy / podklady:** text stížnosti, výsledek prošetření, doklady o (ne)pravdivosti tvrzení, případné trestní oznámení nebo žaloba na ochranu osobnosti.
 
 ---
 
@@ -1332,6 +2304,42 @@ Bezformálnost je projevem **přístupnosti** institutu pro občany — neformá
 #### Postoupení nepříslušnému orgánu (odst. 2) — princip materiální pravdy
 
 Pokud je stížnost podána u nepříslušného orgánu (např. stížnost na soudce KS podaná u MSp), orgán je povinen ji **neprodleně postoupit** orgánu příslušnému. Stěžovatel se tedy nemůže „pokazit" omylem v adresování — věc projde systémem automaticky. Princip postoupení odpovídá obecnému pravidlu z § 12 SŘ.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel ústně u podatelny krajského soudu sdělí, že soudce krajského soudu opakovaně odročuje jednání a věc se táhne tři roky. Stížnost ale fakticky směřuje proti soudci okresního soudu, jehož věc byla ke KS jen postoupena k jinému úkonu. Pracovník KS nedokáže stížnost ihned vyřídit. Stěžovatel později namítá, že o jeho ústní stížnosti nic nesvědčí a že ji nikdo neřešil. Důkazy: záznam o ústním podání (nebo jeho absence), evidence stížností, doklad o postoupení příslušnému orgánu.
+
+**2. Právní otázka.** Jaké povinnosti má orgán státní správy soudu, je-li stížnost podána ústně a u orgánu, který není k jejímu vyřízení příslušný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 166 — stížnost lze podat písemně i ústně; nelze-li ústní stížnost ihned vyřídit, sepíše se písemný záznam (odst. 1); podává se u příslušného orgánu, jinak ji orgán neprodleně postoupí příslušnému (odst. 2).
+- *Související ustanovení téhož zákona:* § 167–171 (pravidla příslušnosti), § 164 (předmět), § 173 (lhůty běží od doručení příslušnému orgánu).
+- *Související předpisy:* zákon č. 300/2008 Sb. (datové schránky); § 12 správního řádu (analogie postoupení nepříslušným orgánem).
+- *Judikatura:* zásada materiální dostupnosti institutu — chyba v adresování či forma podání nesmí jít k tíži stěžovatele.
+
+**4. Subsumpce.** Ústní podání spadá pod odst. 1 — protože je nelze ihned vyřídit, vzniká povinnost sepsat písemný záznam. Podání u KS, ač příslušným je předseda OS (případně KS dle souběhu), spadá pod odst. 2 — orgán je povinen je neprodleně postoupit. Absence záznamu o ústní stížnosti je porušením odst. 1.
+
+**5. Řešení.** Pracovník KS měl o ústní stížnosti, kterou nelze ihned vyřídit, sepsat písemný záznam a stížnost neprodleně postoupit příslušnému orgánu (předsedovi OS, resp. KS při souběhu dle § 170). Lhůta k vyřízení (§ 173) běží až od doručení příslušnému orgánu. Procesně: zhojení spočívá v dodatečném sepsání záznamu a postoupení; stěžovatel nesmí být poškozen omylem v adresování.
+
+**6. Varianty.** (a) Ústní stížnost lze vyřídit ihned (např. okamžité poučení) → záznam není nutné pořizovat. (b) Stížnost je podána datovou schránkou nepříslušnému orgánu → stejný režim postoupení dle odst. 2.
+
+##### G. Protiargumenty a rizika
+
+- Námitka orgánu, že o ústní stížnosti není třeba činit záznam, není-li podána písemně. Neutralizace: odst. 1 ukládá záznam vždy, nelze-li ústní stížnost ihned vyřídit.
+- Námitka, že podání u nepříslušného orgánu je neúčinné. Neutralizace: odst. 2 ukládá neprodlené postoupení; podání zůstává účinné, jen lhůta běží od doručení příslušnému orgánu.
+- Slabé místo: pojem „neprodleně" není číselně určen; v praxi je třeba postoupit bez zbytečného odkladu a postup zdokumentovat.
+
+##### H. Praktický závěr
+
+Stížnost je neformální a dostupná: lze ji podat písemně i ústně, ústní se při nemožnosti okamžitého vyřízení zaznamenává, a nepříslušný orgán ji musí neprodleně postoupit příslušnému.
+
+**Checklist (orgán státní správy soudu / stěžovatel):**
+- [ ] U ústní stížnosti, kterou nelze ihned vyřídit, sepsat písemný záznam.
+- [ ] Ověřit příslušnost dle § 167–171; není-li dána, neprodleně postoupit.
+- [ ] Postoupení i záznam zdokumentovat.
+- [ ] Lhůtu dle § 173 počítat od doručení příslušnému orgánu.
+
+**Typicky rozhodné důkazy / podklady:** písemný záznam o ústní stížnosti, evidence stížností, doklad o postoupení a jeho datu, potvrzení o doručení příslušnému orgánu.
 
 ---
 
@@ -1359,6 +2367,42 @@ MSp vyřizuje stížnosti ve **třech typech situací**:
 2. **Přezkum stížností vyřízených předsedou NS/VS/KS** (písm. b) — MSp působí jako odvolací orgán, ovšem **pouze ve věcech nevhodného chování nebo narušení důstojnosti** (NE ve věcech průtahů — průtahy jsou doménou § 174a, návrh na určení lhůty);
 3. **Atrakce** (písm. c) — MSp si může jakoukoli stížnost „vyhradit", i kdyby spadala primárně do kompetence jiného orgánu. Tato atrakční pravomoc je výrazem ústředního postavení MSp v hierarchii státní správy soudů.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel podá stížnost na nevhodné chování předsedy krajského soudu při řízení. Předseda KS sám stížnost na vlastní osobu odmítne jako nedůvodnou. Stěžovatel s vyřízením nesouhlasí a žádá přezkum. Současně ministerstvo zvažuje, zda si vyřízení jiné stížnosti (na předsedu vrchního soudu) nevyhradí. Důkazy: text stížnosti, způsob jejího vyřízení, žádost o přezkum, případné rozhodnutí ministerstva o atrakci.
+
+**2. Právní otázka.** Který orgán je příslušný vyřídit stížnost na předsedu krajského soudu a přezkoumat způsob jejího vyřízení, a za jakých podmínek si ministerstvo může vyřízení stížnosti vyhradit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 167 — ministerstvo vyřizuje stížnosti na postup VS a KS, jde-li o chování/důstojnost předsedy soudu (a); přezkoumává nesouhlas s vyřízením stížnosti předsedou NS/VS/KS, nejde-li o průtahy (b); může si vyhradit i stížnost příslušející jinému orgánu (c).
+- *Související ustanovení téhož zákona:* § 168–171 (příslušnost předsedů soudů), § 174 (přezkum vyřízení), § 174a (průtahy), § 164 (předmět stížnosti).
+- *Související předpisy:* zákon č. 7/2002 Sb. (kárná iniciativa vůči funkcionářům).
+- *Judikatura:* zásada, že o stížnosti na funkcionáře zpravidla nerozhoduje tentýž funkcionář; přezkum náleží nadřízenému orgánu státní správy.
+
+**4. Subsumpce.** Stížnost na chování předsedy KS spadá pod § 167 písm. a) — příslušné je ministerstvo, nikoli sám předseda KS. Nesouhlas s vyřízením stížnosti (nejde-li o průtahy) spadá pod písm. b) — přezkum provádí ministerstvo. Vyhrazení stížnosti jinak příslušející jinému orgánu je možné dle písm. c) (atrakce).
+
+**5. Řešení.** Stížnost na předsedu KaS neměl vyřizovat sám předseda KS, nýbrž ministerstvo (§ 167 písm. a). Přezkum vyřízení (mimo průtahy) provede ministerstvo dle písm. b) ve spojení s § 174. Stížnost na předsedu VS si může ministerstvo vyhradit dle písm. c). Jde-li ve věci o průtahy, přezkumná cesta dle písm. b) je vyloučena — nastupuje § 174a. Procesně: nesprávně vyřízenou stížnost ministerstvo převezme/přezkoumá.
+
+**6. Varianty.** (a) Stížnost směřuje na průtahy v řízení vedeném u KS → přezkum dle písm. b) vyloučen, využije se návrh na určení lhůty (§ 174a). (b) Ministerstvo si stížnost na předsedu OS vyhradí dle písm. c) → vyřizuje ji místo předsedy KS.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že předseda KS může stížnost na sebe vyřídit sám. Neutralizace: § 167 písm. a) svěřuje stížnosti na předsedu KS ministerstvu; vyřízení vlastní osobou by odporovalo zásadě nemo iudex in causa sua.
+- Námitka, že atrakce dle písm. c) je svévolná. Neutralizace: jde o zákonem výslovně přiznanou pravomoc ústředního orgánu, vázanou na rozhodnutí o vyhrazení.
+- Slabé místo: přezkum dle písm. b) je vyloučen u průtahů — je nutné průtahy odlišit a směrovat je na § 174a, jinak hrozí nesprávné vyřízení.
+
+##### H. Praktický závěr
+
+Ministerstvo vyřizuje stížnosti na předsedy VS a KS, přezkoumává nesouhlas s vyřízením stížnosti předsedy NS/VS/KS (mimo průtahy) a může si vyřízení kterékoli stížnosti vyhradit.
+
+**Checklist (ministerstvo / stěžovatel / předseda soudu):**
+- [ ] Určit, zda stížnost směřuje na předsedu VS/KS (pak ministerstvo).
+- [ ] Odlišit chování/důstojnost (přezkum dle písm. b) od průtahů (§ 174a).
+- [ ] U atrakce vydat rozhodnutí o vyhrazení dle písm. c).
+- [ ] Nepřipustit vyřízení stížnosti osobou, proti níž směřuje.
+
+**Typicky rozhodné důkazy / podklady:** text stížnosti, doklad o dosavadním vyřízení, žádost o přezkum, rozhodnutí ministerstva o vyhrazení.
+
 ---
 
 #### § 168 — Příslušnost předsedy Nejvyššího soudu
@@ -1380,6 +2424,42 @@ Předseda NS vyřizuje stížnosti na:
 
 Specifikum: stížnost na **samotného předsedu NS** § 167 ani § 168 explicitně neřeší. V doktríně se dovozuje, že je vyřizována ministerstvem (per analogiam § 167 písm. a; resp. v rámci kárné iniciativy — § 8 zák. č. 7/2002 Sb.).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel podá stížnost na nevhodné chování soudce Nejvyššího soudu při ústním jednání a současně na předsedu vrchního soudu, který se k němu při kontaktu choval povýšeně. Podání směřuje k předsedovi NS. Vedle toho stěžovatel namítá i chování samotného předsedy NS. Důkazy: text stížnosti, protokoly z jednání, evidence stížností NS.
+
+**2. Právní otázka.** Které stížnosti vyřizuje předseda Nejvyššího soudu podle § 168 a jak se naloží se stížností směřující proti samotnému předsedovi NS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 168 — předseda NS vyřizuje stížnosti na průtahy, nevhodné chování nebo narušování důstojnosti místopředsedy NS, předsedy senátu, soudců, asistentů a dalších zaměstnanců NS, jakož i na předsedu vrchního soudu.
+- *Související ustanovení téhož zákona:* § 167 (příslušnost ministerstva, atrakce), § 169 (předseda VS), § 174 (přezkum), § 164 (předmět).
+- *Související předpisy:* zákon č. 7/2002 Sb. (kárná iniciativa vůči funkcionářům, § 8).
+- *Judikatura:* zásada, že stížnost na funkcionáře vyřizuje nadřízený orgán; o stížnosti na předsedu NS nerozhoduje sám předseda NS.
+
+**4. Subsumpce.** Stížnost na soudce NS i na předsedu VS spadá pod výčet § 168 — příslušný je předseda NS. Stížnost na chování samotného předsedy NS výčet § 168 nepokrývá; dovozuje se příslušnost ministerstva (per analogiam § 167 písm. a), případně cesta kárné iniciativy.
+
+**5. Řešení.** Část stížnosti na soudce NS a na předsedu VS vyřídí předseda NS dle § 168. Část směřující proti předsedovi NS předseda NS nevyřizuje sám — postoupí ji ministerstvu (analogicky § 167) a v případě podezření z kárného provinění lze využít kárnou iniciativu dle zákona č. 7/2002 Sb. Procesně: podání se podle obsahu rozdělí a každá část se směruje příslušnému orgánu.
+
+**6. Varianty.** (a) Stížnost směřuje pouze na asistenta soudce NS → plně v kompetenci předsedy NS. (b) Stížnost na předsedu VS obsahuje průtahy → vyřizuje předseda NS, avšak průtahy v konkrétním řízení se řeší návrhem na určení lhůty (§ 174a).
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že § 168 výslovně neřeší stížnost na předsedu NS, takže ji nelze nikam směrovat. Neutralizace: mezera se doplňuje per analogiam (ministerstvo, § 167 písm. a) a kárnou iniciativou.
+- Námitka, že předseda NS nemůže vyřizovat stížnost na předsedu VS. Neutralizace: § 168 mu tuto pravomoc výslovně přiznává v rámci vrcholné struktury.
+- Slabé místo: rozhraní mezi stížností na chování a přezkumem rozhodovací činnosti soudce NS (§ 164 odst. 2) je třeba hlídat.
+
+##### H. Praktický závěr
+
+Předseda NS vyřizuje stížnosti na soudce a zaměstnance NS a na předsedy vrchních soudů; stížnost na samotného předsedu NS směřuje analogicky k ministerstvu, případně cestou kárné iniciativy.
+
+**Checklist (předseda NS / ministerstvo / stěžovatel):**
+- [ ] Zařadit osobu, proti níž stížnost směřuje, do výčtu § 168.
+- [ ] Stížnost na předsedu NS nevyřizovat vlastní osobou, postoupit ministerstvu.
+- [ ] Zvážit kárnou iniciativu u podezření z kárného provinění funkcionáře.
+- [ ] Konkrétní průtahy směrovat na § 174a.
+
+**Typicky rozhodné důkazy / podklady:** text stížnosti, protokoly z jednání, evidence stížností, doklad o postoupení části stížnosti ministerstvu.
+
 ---
 
 #### § 169 — Příslušnost předsedy vrchního soudu
@@ -1391,6 +2471,42 @@ Specifikum: stížnost na **samotného předsedu NS** § 167 ani § 168 explicit
 **Výklad:**
 
 Předseda VS vyřizuje stížnosti na všechny soudce a zaměstnance VS a navíc na **předsedy KS** v obvodu VS. Stejně jako u § 168 — předseda VS funkčně dohlíží i na nižší článek hierarchie.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel podá stížnost na nevhodné chování soudce vrchního soudu a v témže podání i na předsedu krajského soudu, který spadá do obvodu tohoto vrchního soudu. Podání adresuje předsedovi vrchního soudu. Vzniká otázka, zda předseda VS vyřídí celé podání. Důkazy: text stížnosti, doklad o příslušnosti KS do obvodu VS, evidence stížností VS.
+
+**2. Právní otázka.** Vyřizuje předseda vrchního soudu i stížnost na předsedu krajského soudu ve svém obvodu, a v jakém rozsahu pokrývá jeho příslušnost zaměstnance VS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 169 — předseda VS vyřizuje stížnosti na průtahy, nevhodné chování nebo narušování důstojnosti místopředsedy VS, předsedy senátu, soudců, vyšších soudních úředníků, soudních tajemníků a jiných zaměstnanců VS a na předsedu krajského soudu v obvodu tohoto soudu.
+- *Související ustanovení téhož zákona:* § 167 (ministerstvo), § 168 (předseda NS), § 170 (předseda KS), § 174a (průtahy).
+- *Související předpisy:* zákon č. 7/2002 Sb. (kárná iniciativa).
+- *Judikatura:* zásada hierarchického dohledu — vyšší článek soudní soustavy vyřizuje stížnosti i na předsedu nižšího soudu ve svém obvodu.
+
+**4. Subsumpce.** Stížnost na soudce VS spadá pod výčet § 169 — příslušný předseda VS. Stížnost na předsedu KS spadá rovněž pod § 169, neboť KS leží v obvodu daného VS. Obě části tedy vyřizuje týž orgán — předseda VS.
+
+**5. Řešení.** Předseda VS vyřídí celé podání: stížnost na soudce VS i stížnost na předsedu KS v obvodu VS (§ 169). Pokud by podání obsahovalo i přezkum dřívějšího vyřízení stížnosti, posoudí se příslušnost dle § 167/174. Jde-li o konkrétní průtahy v řízení, nastupuje § 174a. Procesně: o vyřízení se rozhodne ve lhůtách § 173.
+
+**6. Varianty.** (a) Stížnost směřuje na předsedu KS mimo obvod daného VS → nepříslušnost, postoupení příslušnému VS. (b) Podání směřuje na soudního tajemníka VS → plně v kompetenci předsedy VS dle § 169.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že stížnost na předsedu KS musí řešit ministerstvo. Neutralizace: § 169 výslovně svěřuje stížnost na předsedu KS v obvodu VS předsedovi VS; ministerstvo nastupuje až při přezkumu (§ 167 písm. b, § 174).
+- Námitka, že předseda VS nemůže dohlížet na jiný soud. Neutralizace: funkční hierarchický dohled nad předsedou KS v obvodu je zákonem výslovně zakotven.
+- Slabé místo: určení, zda KS spadá do obvodu daného VS, je rozhodné pro příslušnost; chybné určení vede k nutnosti postoupení.
+
+##### H. Praktický závěr
+
+Předseda vrchního soudu vyřizuje stížnosti na soudce a zaměstnance VS a na předsedu krajského soudu ve svém obvodu.
+
+**Checklist (předseda VS / stěžovatel):**
+- [ ] Ověřit, zda dotčený KS leží v obvodu daného VS.
+- [ ] Zařadit osobu, proti níž stížnost směřuje, do výčtu § 169.
+- [ ] Odlišit vyřízení stížnosti od jejího přezkumu (§ 167 písm. b, § 174).
+- [ ] Konkrétní průtahy směrovat na § 174a.
+
+**Typicky rozhodné důkazy / podklady:** text stížnosti, doklad o příslušnosti KS do obvodu VS, evidence stížností, protokoly z jednání.
 
 ---
 
@@ -1423,6 +2539,42 @@ Předseda KS je v praxi **nejzatíženějším** orgánem vyřizování stížno
 
 § 170 písm. a) je jediným ustanovením, které explicitně zmiňuje **stížnosti na přísedící** (laické soudce — §§ 60–66, 93, 96–98 ZSS). Přísedící jsou voleni zastupitelstvy obcí a okresů a působí převážně u OS, výjimečně u KS. Pokud přísedící podle stížnosti nevhodně vystupuje nebo narušuje důstojnost, věc řeší předseda KS (resp. obdobně předseda OS — § 171).
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel podá jediné podání k předsedovi krajského soudu, v němž namítá: (i) nevhodné chování předsedy okresního soudu a (ii) nevhodné chování soudního tajemníka téhož OS. Druhá z těchto stížností by jinak příslušela předsedovi OS (§ 171), ovšem směřovat ji k předsedovi OS, na jehož chování si stěžovatel též stěžuje, by bylo problematické. Důkazy: text podání, evidence stížností KS, doklad o souběhu obou stížností.
+
+**2. Právní otázka.** Vyřídí předseda krajského soudu celé podání včetně té části, která by jinak příslušela předsedovi okresního soudu, je-li podána současně se stížností na předsedu OS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 170 — předseda KS vyřizuje stížnosti na zaměstnance/soudce KS, přísedící (a), přezkum stížností vyřízených předsedou OS mimo průtahy (b), stížnosti na předsedu OS (c) a při souběhu i stížnosti jinak příslušející předsedovi OS dle § 171, je-li v témže podání i stížnost dle písm. a) nebo c) (d).
+- *Související ustanovení téhož zákona:* § 171 (předseda OS), § 174 (přezkum), § 174a (průtahy), §§ 60–66, 93, 96–98 (přísedící).
+- *Související předpisy:* zákon č. 7/2002 Sb. (kárná iniciativa).
+- *Judikatura:* zásada procesní ekonomie — souběžné stížnosti vyřizuje jeden orgán; zásada, že o stížnosti na funkcionáře nerozhoduje tentýž funkcionář.
+
+**4. Subsumpce.** Stížnost na předsedu OS spadá pod § 170 písm. c). Stížnost na soudního tajemníka OS by jinak příslušela předsedovi OS (§ 171), avšak je podána v témže podání spolu se stížností dle písm. c) — naplňuje se atrakční pravidlo písm. d). Celé podání tak vyřizuje předseda KS.
+
+**5. Řešení.** Předseda KS vyřídí obě části: stížnost na předsedu OS (písm. c) i stížnost na soudního tajemníka OS (atrakce dle písm. d). Tím se zároveň předejde tomu, aby o stížnosti na zaměstnance OS rozhodoval předseda OS, na jehož chování si stěžovatel rovněž stěžuje. Jde-li o průtahy, řeší se § 174a. Procesně: vyřízení ve lhůtách § 173, vyrozumění stěžovatele.
+
+**6. Varianty.** (a) Stížnost na soudního tajemníka OS je podána samostatně bez stížnosti dle písm. a) nebo c) → atrakce dle písm. d) se neuplatní, věc vyřídí předseda OS (§ 171). (b) Podání směřuje na přísedícího → § 170 písm. a) výslovně dopadá na přísedící.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že stížnost na soudního tajemníka OS musí vždy vyřídit předseda OS. Neutralizace: při souběhu se stížností dle písm. a) nebo c) nastupuje atrakce dle písm. d) ve prospěch předsedy KS.
+- Námitka, že atrakce je nadbytečná. Neutralizace: zajišťuje procesní ekonomii a brání tomu, aby o stížnosti rozhodoval funkcionář, jehož se podání též týká.
+- Slabé místo: atrakce dle písm. d) je vázána na to, že stížnosti jsou v „téže" stížnosti (témže podání); samostatná podání se posuzují odděleně.
+
+##### H. Praktický závěr
+
+Předseda KS má nejširší stížnostní kompetenci: vyřizuje stížnosti na vlastní soud a přísedící, na předsedu OS, přezkoumává vyřízení stížností předsedou OS (mimo průtahy) a při souběhu atrahuje i stížnosti jinak příslušející předsedovi OS.
+
+**Checklist (předseda KS / stěžovatel):**
+- [ ] Rozčlenit podání podle adresátů a předmětů.
+- [ ] Posoudit, zda nastává souběh aktivující atrakci dle písm. d).
+- [ ] Odlišit přezkum vyřízení (písm. b) od průtahů (§ 174a).
+- [ ] Zajistit, aby o stížnosti nerozhodoval funkcionář, jehož se týká.
+
+**Typicky rozhodné důkazy / podklady:** text podání, evidence stížností, doklad o souběhu, protokoly a soudní spis.
+
 ---
 
 #### § 171 — Příslušnost předsedy okresního soudu
@@ -1434,6 +2586,42 @@ Předseda KS je v praxi **nejzatíženějším** orgánem vyřizování stížno
 **Výklad:**
 
 Předseda OS vyřizuje stížnosti na všechny soudce a zaměstnance OS. OS je „spodním článkem" — předseda OS nemá pod sebou další soud, takže jeho stížnostní jurisdikce se týká **pouze interních** osob.
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel podá stížnost na nevhodné chování vyššího soudního úředníka okresního soudu, který s ním na přepážce jednal hrubě. Současně namítá průtahy v řízení vedeném u téhož OS. Předseda OS posuzuje, co všechno spadá do jeho stížnostní příslušnosti. Důkazy: text stížnosti, evidence přepážkové komunikace, soudní spis, evidence délky řízení.
+
+**2. Právní otázka.** Vyřizuje předseda okresního soudu stížnost na vyššího soudního úředníka OS a jak se naloží s tou částí podání, která se týká průtahů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 171 — předseda OS vyřizuje stížnosti na průtahy, nevhodné chování nebo narušování důstojnosti místopředsedy OS, soudců, vyšších soudních úředníků, soudních tajemníků, soudních vykonavatelů a jiných zaměstnanců OS.
+- *Související ustanovení téhož zákona:* § 170 (předseda KS, přezkum a atrakce), § 172–173 (prošetření a vyřízení), § 174a (návrh na určení lhůty), § 164 (předmět).
+- *Související předpisy:* zákon č. 121/2008 Sb. (vyšší soudní úředníci); čl. 6 odst. 1 EÚLP (přiměřená lhůta).
+- *Judikatura:* zásada, že předseda OS jako nejnižší článek vyřizuje stížnosti pouze na interní osoby svého soudu.
+
+**4. Subsumpce.** Vyšší soudní úředník OS je výslovně uveden ve výčtu § 171 — stížnost na jeho chování vyřizuje předseda OS. Část týkající se průtahů sice § 171 zmiňuje, avšak vlastní vynucení úkonu při průtazích se řeší samostatným prostředkem dle § 174a; samotná stížnost vede jen k administrativní nápravě a případnému kárnému postupu.
+
+**5. Řešení.** Předseda OS prošetří stížnost na chování VSÚ (§ 172) a vyřídí ji ve lhůtách § 173. Část o průtazích posoudí v rámci dohledu, avšak stěžovatele zároveň poučí o návrhu na určení lhůty (§ 174a) jako účinném prostředku. OS je „spodním článkem" — nemá pod sebou další soud, takže jeho stížnostní jurisdikce se týká jen interních osob. Procesně: vyrozumění stěžovatele, u důvodné stížnosti i opatření dle § 173 odst. 3.
+
+**6. Varianty.** (a) Stížnost směřuje proti předsedovi OS → není v jeho kompetenci, vyřídí předseda KS (§ 170 písm. c). (b) Stížnost na chování VSÚ je nedůvodná → vyrozumění stěžovatele bez opatření, bez újmy stěžovateli (§ 165).
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že stížnost na VSÚ má řešit krajský soud. Neutralizace: § 171 výslovně svěřuje stížnosti na zaměstnance OS předsedovi OS; KS nastupuje jen při přezkumu nebo souběhu (§ 170).
+- Námitka, že vyřízením stížnosti na průtahy jsou průtahy odstraněny. Neutralizace: stížnost má jen administrativní účinek; vynutitelná lhůta plyne až z § 174a.
+- Slabé místo: hranice mezi „nevhodným chováním" zaměstnance a běžným úředním postupem je skutkově citlivá.
+
+##### H. Praktický závěr
+
+Předseda OS vyřizuje stížnosti pouze na soudce a zaměstnance vlastního soudu; u průtahů je vedle stížnosti namístě poučit o návrhu na určení lhůty.
+
+**Checklist (předseda OS / stěžovatel):**
+- [ ] Ověřit, že osoba, proti níž stížnost směřuje, je z řad OS (výčet § 171).
+- [ ] Stížnost na předsedu OS nevyřizovat sám, postoupit předsedovi KS.
+- [ ] Prošetřit a vyřídit ve lhůtách § 173; u důvodné stížnosti přijmout opatření.
+- [ ] U průtahů poučit o § 174a.
+
+**Typicky rozhodné důkazy / podklady:** text stížnosti, soudní spis, evidence délky řízení a přepážkové komunikace, doklad o vyrozumění stěžovatele.
 
 ---
 
@@ -1454,6 +2642,42 @@ Předseda OS vyřizuje stížnosti na všechny soudce a zaměstnance OS. OS je �
 - vyslechnout **další osoby** (svědky, kolegy, účastníky řízení).
 
 Slyšení je **fakultativní** — orgán je provede, „považuje-li to za vhodné". V mnoha věcech postačí studium soudního spisu (zejména u stížností na průtahy).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel namítá, že se k němu soudkyně OS při jednání chovala posměšně a urážlivě. Předseda OS bez jakéhokoli šetření odpoví, že „neshledal pochybení", aniž si vyžádal protokol z jednání, vyslechl stěžovatele či soudkyni nebo zjistil, zda existuje zvukový záznam. Stěžovatel namítá, že stížnost nebyla řádně prošetřena. Důkazy: text stížnosti, vyřizovací přípis, protokol a záznam z jednání, absence jakéhokoli šetření ve spise.
+
+**2. Právní otázka.** Splnil předseda OS povinnost prošetřit skutečnosti uvedené ve stížnosti podle § 172, vyřídil-li ji bez obstarání podkladů a bez výslechů, a kdy je výslech obligatorní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 172 — orgán je povinen prošetřit skutečnosti ve stížnosti uvedené; považuje-li to za vhodné, vyslechne stěžovatele, osoby, proti nimž stížnost směřuje, popř. další osoby.
+- *Související ustanovení téhož zákona:* § 173 (lhůty, opatření, § 128 při porušení povinnosti soudcem), § 164 (předmět), § 165 (ochrana stěžovatele).
+- *Související předpisy:* zásada materiální pravdy a řádného zjištění skutkového stavu; čl. 6 EÚLP (důstojnost řízení).
+- *Judikatura:* zásada, že povinnost prošetřit stížnost nelze splnit pouhým formálním odbytím bez obstarání dostupných podkladů.
+
+**4. Subsumpce.** Povinnost „prošetřit skutečnosti" je obligatorní (orgán nemůže stížnost odložit bez prošetření). Výslechy jsou fakultativní („považuje-li to za vhodné"), avšak u stížnosti na chování při jednání jsou dostupné objektivní podklady (protokol, zvukový záznam) — jejich neobstarání znamená, že povinnost prošetření nebyla naplněna.
+
+**5. Řešení.** Předseda OS měl alespoň obstarat protokol a zvukový záznam z jednání a zvážit výslech stěžovatele i soudkyně (audiatur et altera pars). Vyřízení bez jakéhokoli šetření je porušením § 172 a důvodem k přezkumu vyřízení (§ 174) nadřízeným orgánem. U stížnosti na průtahy by zpravidla postačilo studium spisu, zde však chování doložené záznamem vyžaduje obstarání podkladů. Procesně: nadřízený orgán může věc vrátit k řádnému prošetření.
+
+**6. Varianty.** (a) Stížnost na průtahy → zpravidla postačí prostudovat spis, výslechy nejsou nutné a § 172 je splněn. (b) Existuje pouze tvrzení proti tvrzení bez objektivního záznamu → výslech stěžovatele a soudce se stává prakticky nezbytným pro řádné prošetření.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že výslechy jsou jen fakultativní, takže jejich neprovedení nevadí. Neutralizace: fakultativní je volba výslechu, nikoli povinnost prošetřit — tu nelze splnit bez obstarání dostupných podkladů.
+- Námitka, že studium tvrzení stěžovatele postačí. Neutralizace: u sporných skutečností je nutné obstarat objektivní důkazy (protokol, záznam), jinak je prošetření neúplné.
+- Slabé místo: rozsah „přiměřeného" šetření není zákonem určen; vodítkem je dostupnost a relevance podkladů ke konkrétnímu předmětu stížnosti.
+
+##### H. Praktický závěr
+
+Orgán státní správy soudu má povinnost stížnost skutečně prošetřit; výslechy jsou na uvážení, ale u sporných skutečností je nutné obstarat dostupné objektivní podklady.
+
+**Checklist (orgán státní správy soudu):**
+- [ ] Stížnost neodbýt bez prošetření.
+- [ ] Obstarat dostupné podklady (spis, protokol, zvukový záznam).
+- [ ] Zvážit výslech stěžovatele i osoby, proti níž stížnost směřuje (audiatur et altera pars).
+- [ ] Zjištění promítnout do vyřízení dle § 173.
+
+**Typicky rozhodné důkazy / podklady:** text stížnosti, soudní spis, protokol a zvukový záznam z jednání, případné výslechové záznamy.
 
 ---
 
@@ -1488,6 +2712,42 @@ Byla-li stížnost **důvodná nebo částečně důvodná**, orgán informuje s
 
 Věta druhá odst. 3 je proceduralním propojením stížnostního a kárného řízení — orgán nemůže ignorovat zjištění porušení povinnosti, musí postupovat dle § 128.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel podá k předsedovi KS stížnost na průtahy v řízení. Předseda KS po šetření zjistí, že soudce nechal věc ležet, stížnost shledá důvodnou, avšak stěžovatele vyrozumí až po čtyřech měsících a bez jakéhokoli sdělení o přijatých opatřeních. Současně neučiní žádný krok dle § 128. Stěžovatel namítá překročení lhůty a nedostatek opatření. Důkazy: datum doručení stížnosti, datum vyrozumění, obsah vyrozumění, soudní spis prokazující nečinnost.
+
+**2. Právní otázka.** V jaké lhůtě měla být stížnost na průtahy vyřízena, jaké náležitosti má mít vyrozumění o důvodné stížnosti a jaký je následek překročení lhůty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 173 — lhůta 2 měsíce, u průtahů 1 měsíc od doručení příslušnému orgánu (odst. 1); překročení jen při nemožnosti zajistit podklady s písemným vyrozuměním (odst. 2); u důvodné stížnosti vyrozumění o opatřeních, při porušení povinnosti soudcem § 128 odst. 1 (odst. 3); doručování (odst. 4).
+- *Související ustanovení téhož zákona:* § 128 odst. 1 (kárná iniciativa), § 172 (prošetření), § 174 (přezkum), § 174a (návrh na určení lhůty).
+- *Související předpisy:* zákon č. 7/2002 Sb. (kárné řízení); zákon č. 82/1998 Sb. (náhrada újmy za nepřiměřenou délku řízení).
+- *Judikatura:* zásada, že lhůty mají pořádkovou povahu, jejich nedodržení však může být důvodem kárného postupu vůči orgánu.
+
+**4. Subsumpce.** Stížnost na průtahy měla být vyřízena do 1 měsíce od doručení (odst. 1) — lhůta čtyř měsíců je překročena, aniž byly splněny podmínky odst. 2 (nemožnost zajistit podklady + písemné vyrozumění). Stížnost byla důvodná → vyrozumění muselo obsahovat informaci o přijatých opatřeních (odst. 3). Porušení povinnosti soudcem aktivuje § 128 odst. 1.
+
+**5. Řešení.** Předseda KS pochybil: lhůtu nedodržel bez zákonného důvodu a vyrozumění postrádá informaci o opatřeních. Náprava: doplnit sdělení o opatřeních a u zjištěného porušení povinnosti soudcem postupovat dle § 128 odst. 1 (zvážit kárný návrh). Lhůty jsou pořádkové — jejich uplynutí nemění věcné posouzení, ale je důvodem k přezkumu (§ 174) a případně ke kárné odpovědnosti orgánu. Procesně: stěžovatel může požádat o přezkum vyřízení (§ 174).
+
+**6. Varianty.** (a) Podklady nelze objektivně zajistit ve lhůtě a orgán o tom stěžovatele písemně vyrozumí → překročení lhůty je přípustné (odst. 2). (b) Stížnost je nedůvodná → postačí vyrozumění o výsledku bez opatření, postup dle § 128 nenastupuje.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že lhůty jsou jen pořádkové, takže jejich překročení nemá následky. Neutralizace: pořádková povaha nevylučuje kárnou odpovědnost orgánu a přezkum vyřízení; navíc průtah může zakládat nárok dle zák. č. 82/1998 Sb.
+- Námitka, že u důvodné stížnosti postačí sdělit výsledek. Neutralizace: odst. 3 výslovně vyžaduje informaci o přijatých opatřeních.
+- Slabé místo: rozhodnutí o kárném návrhu dle § 128 závisí na intenzitě porušení povinnosti soudcem; ne každý průtah dosahuje kárné roviny.
+
+##### H. Praktický závěr
+
+Stížnost se vyřizuje do 2 měsíců, u průtahů do 1 měsíce; lhůtu lze překročit jen výjimečně s písemným vyrozuměním, u důvodné stížnosti musí vyrozumění obsahovat přijatá opatření a při porušení povinnosti soudcem nastupuje § 128.
+
+**Checklist (orgán státní správy soudu / stěžovatel):**
+- [ ] Hlídat lhůtu (2 měsíce / 1 měsíc u průtahů) od doručení příslušnému orgánu.
+- [ ] Při nemožnosti dodržení lhůty stěžovatele písemně vyrozumět.
+- [ ] U důvodné stížnosti vyrozumět o přijatých opatřeních.
+- [ ] Při porušení povinnosti soudcem postupovat dle § 128 odst. 1.
+
+**Typicky rozhodné důkazy / podklady:** datum doručení stížnosti a vyrozumění, obsah vyrozumění, soudní spis, doklady o přijatých opatřeních a o případném kárném postupu.
+
 ---
 
 #### § 174 — Přezkum vyřízení stížnosti
@@ -1516,6 +2776,42 @@ Specifikum: přezkum je možný **pouze ve věcech nevhodného chování nebo na
 #### Vyloučení opakovaných stížností (odst. 2)
 
 Pokud stěžovatel podá v téže věci opakovanou stížnost **bez nových skutečností**, není třeba ji prošetřovat. Cílem klauzule je ochrana před šikanózními opakovanými podáními ve smyslu **abusus iuris** (zneužití procesního práva).
+
+##### F. Kazuistika
+
+**1. Modelová situace.** Stěžovatel podá k předsedovi okresního soudu stížnost na nevhodné chování soudce. Předseda OS ji vyřídí jako nedůvodnou. Stěžovatel je přesvědčen, že stížnost nebyla řádně vyřízena, a žádá přezkum. Krátce nato podá v téže věci druhou stížnost se stejným obsahem a bez nových skutečností. Vzniká otázka, kam přezkum směřuje a zda je nutné opakovanou stížnost prošetřovat. Důkazy: text první stížnosti a jejího vyřízení, žádost o přezkum, text opakované stížnosti.
+
+**2. Právní otázka.** Který orgán přezkoumá způsob vyřízení stížnosti na chování vyřízené předsedou OS a je třeba prošetřovat opakovanou stížnost bez nových skutečností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 174 — přezkum vyřízení stížnosti na chování / důstojnost: MSp u stížnosti vyřízené předsedou NS/VS/KS (odst. 1 písm. a), předseda KS u stížnosti vyřízené předsedou OS (odst. 1 písm. b); opakovanou stížnost bez nových skutečností není třeba prošetřovat (odst. 2).
+- *Související ustanovení téhož zákona:* § 167–171 (příslušnost), § 173 (lhůty a opatření), § 174a (průtahy — samostatný režim), § 164 (předmět).
+- *Související předpisy:* obecná zásada zákazu zneužití práva (abusus iuris).
+- *Judikatura:* zásada, že přezkum se týká pouze chování/důstojnosti, nikoli průtahů, pro něž je dán samostatný účinný prostředek.
+
+**4. Subsumpce.** Stížnost byla vyřízena předsedou OS → přezkum náleží předsedovi KS (odst. 1 písm. b). Přezkum je přípustný jen ve věci chování/důstojnosti (zde splněno). Opakovaná stížnost bez nových skutečností spadá pod odst. 2 — není třeba ji prošetřovat (ochrana před šikanózním opakováním).
+
+**5. Řešení.** Žádost o přezkum vyřídí předseda KS (§ 174 odst. 1 písm. b), který posoudí, zda předseda OS stížnost vyřídil řádně. Opakovanou stížnost se stejným obsahem a bez nových skutečností není třeba prošetřovat (odst. 2); orgán o tom stěžovatele zpraví. Pozor: kdyby šlo o průtahy, přezkum dle § 174 by se neuplatnil — nastupuje návrh na určení lhůty (§ 174a). Procesně: přezkum je dvoustupňový (OS → KS, resp. NS/VS/KS → MSp).
+
+**6. Varianty.** (a) Stížnost vyřídil předseda KS → přezkum náleží ministerstvu (odst. 1 písm. a). (b) Opakovaná stížnost přináší nové skutečnosti → odst. 2 se neuplatní, je třeba ji prošetřit.
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že přezkum lze využít i u průtahů. Neutralizace: § 174 se vztahuje jen na chování a důstojnost; pro průtahy je dán samostatný a účinnější prostředek (§ 174a).
+- Námitka, že každou opakovanou stížnost je nutné prošetřit. Neutralizace: odst. 2 výslovně zbavuje povinnosti prošetřovat opakování bez nových skutečností (ochrana před zneužitím).
+- Slabé místo: posouzení, zda opakované podání obsahuje „nové skutečnosti", je hodnotící; v pochybnostech je vhodné podání prošetřit.
+
+##### H. Praktický závěr
+
+Vyřízení stížnosti na chování/důstojnost lze nechat přezkoumat (OS → předseda KS; NS/VS/KS → ministerstvo); opakovanou stížnost bez nových skutečností není třeba prošetřovat a pro průtahy slouží § 174a.
+
+**Checklist (stěžovatel / orgán státní správy soudu):**
+- [ ] Určit, kdo stížnost původně vyřídil, a podle toho přezkumný orgán (písm. a/b).
+- [ ] Ověřit, že jde o chování/důstojnost, nikoli o průtahy (pak § 174a).
+- [ ] U opakovaného podání posoudit existenci nových skutečností.
+- [ ] O nutnosti/nepotřebnosti prošetření stěžovatele vyrozumět.
+
+**Typicky rozhodné důkazy / podklady:** text původní stížnosti a jejího vyřízení, žádost o přezkum, text opakovaného podání, srovnání obsahu kvůli novým skutečnostem.
 
 ---
 
@@ -1616,6 +2912,42 @@ Proti usnesení o návrhu na určení lhůty **nejsou přípustné opravné pros
 
 > **Vazba na nárok na náhradu nemajetkové újmy:** Návrh na určení lhůty je administrativním (procesním) nástrojem. Samostatným hmotněprávním prostředkem je **nárok na náhradu nemajetkové újmy za nepřiměřenou délku řízení** podle § 13 odst. 1 a § 31a zákona č. 82/1998 Sb., o odpovědnosti státu. Tyto dva prostředky se **kombinují**: navrhovatel může v rámci jednoho řízení i podat návrh na lhůtu (procesní urgence) i následně žalobu na náhradu nemajetkové újmy (hmotněprávní satisfakce). Judikatura ESLP a Ústavního soudu (zejména nález **I. ÚS 1531/11**) potvrdila, že čerpání obou prostředků kumulativně je důvodné.
 
+##### F. Kazuistika
+
+**1. Modelová situace.** Žalobce v civilním sporu vedeném u okresního soudu má za to, že soudce bezdůvodně nenařizuje jednání; věc leží téměř rok bez úkonu. Žalobce podá u okresního soudu návrh na určení lhůty k nařízení jednání. Okresní soud do 30 dnů od doručení jednání nařídí; žalobce přesto trvá na návrhu. Příslušný krajský soud posuzuje důvodnost. Důkazy: soudní spis prokazující dosavadní postup, datum doručení návrhu, doklad o nařízení jednání, prohlášení navrhovatele o trvání na návrhu.
+
+**2. Právní otázka.** Lze návrhu na určení lhůty k nařízení jednání vyhovět, učinil-li soud namítaný úkon do 30 dnů od doručení návrhu, a podle jakých kritérií se posuzuje existence průtahů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 174a — návrh na určení lhůty není podmíněn stížností (odst. 1); postoupení do 5 dnů, nepřihlížení při provedení úkonů do 30 dnů, ledaže navrhovatel do 3 dnů prohlásí trvání na návrhu (odst. 3); příslušný soud a kritéria průtahů (odst. 4, 8); zamítnutí, byl-li úkon učiněn nebo k průtahům nedochází (odst. 7); vyloučení opravných prostředků (odst. 9).
+- *Související ustanovení téhož zákona:* § 164, § 173, § 174 (stížnostní režim jako odlišný prostředek).
+- *Související předpisy:* čl. 13 a čl. 6 odst. 1 EÚLP; zákon č. 82/1998 Sb., § 13 a § 31a (náhrada nemajetkové újmy); část první a třetí OSŘ (přiměřeně).
+- *Judikatura:* NS 21 Cul 3/2004 (lhůtu lze určit jen k úkonu, o němž již bylo rozhodnuto nebo jehož potřeba je nepochybná); NS 21 Cul 5/2012 (nelze určit lhůtu k nařízení jednání, není-li jeho potřeba nepochybná); ÚS IV.ÚS 392/05 (§ 174a jako nový procesní prostředek ochrany před průtahy).
+
+**4. Subsumpce.** Soud učinil namítaný úkon (nařídil jednání) do 30 dnů od doručení návrhu → uplatní se pravidlo odst. 3 o nepřihlížení k návrhu. Navrhovatel sice trvá na návrhu (odst. 3 in fine), avšak podle odst. 7 příslušný soud návrh zamítne, byl-li úkon učiněn. Kritéria odst. 8 (složitost, význam pro navrhovatele, postup stran, postup soudu) se posoudí jen, pokud by úkon učiněn nebyl.
+
+**5. Řešení.** Vzhledem k tomu, že soud jednání nařídil, příslušný KS návrh zamítne (odst. 7), případně se k němu vůbec nepřihlíží (odst. 3), pokud navrhovatel netrvá; trvá-li, soud rozhodne usnesením o zamítnutí. Proti rozhodnutí nejsou přípustné opravné prostředky (odst. 9). Souběžně může navrhovatel uplatnit nárok na náhradu nemajetkové újmy dle zák. č. 82/1998 Sb. (oba prostředky se kombinují). Procesně: návrh není podmíněn stížností.
+
+**6. Varianty.** (a) Soud úkon neučiní a průtahy jsou s ohledem na kritéria odst. 8 dány → KS určí závaznou lhůtu, náklady hradí stát. (b) Návrh směřuje proti NS/NSS → rozhoduje jiný senát téhož soudu dle rozvrhu práce (odst. 4).
+
+##### G. Protiargumenty a rizika
+
+- Námitka, že trvání na návrhu (odst. 3) vede vždy k meritornímu vyhovění. Neutralizace: i při trvání soud návrh zamítne, byl-li úkon učiněn (odst. 7); trvání jen brání automatickému nepřihlížení.
+- Námitka, že lhůtu lze určit k jakémukoli úkonu. Neutralizace: dle NS 21 Cul 3/2004 a 21 Cul 5/2012 jen k úkonu, o němž bylo rozhodnuto nebo jehož potřeba je nepochybná.
+- Slabé místo: § 174a řeší jen procesní urgenci, nikoli kompenzaci újmy — tu poskytuje samostatně zák. č. 82/1998 Sb.; oba prostředky je vhodné kombinovat.
+
+##### H. Praktický závěr
+
+Návrh na určení lhůty je účinný vnitrostátní prostředek proti průtahům (čl. 13 EÚLP): rozhoduje o něm vyšší soud usnesením bez opravných prostředků, lhůtu určí jen je-li úkon namístě a průtahy podle čtyř kritérií dány; pro kompenzaci újmy slouží samostatně zák. č. 82/1998 Sb.
+
+**Checklist (navrhovatel / dotčený soud / příslušný soud):**
+- [ ] Ověřit aktivní legitimaci (účastník/strana řízení) a náležitosti návrhu (odst. 2).
+- [ ] Dotčený soud: do 5 dnů postoupit, případně do 30 dnů úkon učinit.
+- [ ] Příslušný soud: posoudit, zda úkon byl učiněn a zda jsou dány průtahy dle kritérií odst. 8.
+- [ ] Zvážit souběžné uplatnění nároku na náhradu nemajetkové újmy dle zák. č. 82/1998 Sb.
+
+**Typicky rozhodné důkazy / podklady:** soudní spis dokládající dosavadní postup, datum doručení návrhu, doklad o provedení/neprovedení úkonu, prohlášení o trvání na návrhu, podklady ke kritériím průtahů.
+
 ---
 
 ## Hlava IV — Společná, přechodná a zrušovací ustanovení
@@ -1655,6 +2987,42 @@ Tyto organizace nejsou orgány státní správy ani soudcovskými samosprávným
 
 Součinnost má **konzultativní povahu** — zájmové organizace předkládají stanoviska, podávají připomínky, ale nemají právo veta. Tento mechanismus zajišťuje, že hlas profese je slyšen, byť konečné rozhodnutí náleží státu (vládě, parlamentu, MSp).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo spravedlnosti připraví návrh novely zákona o soudech a soudcích, který podstatně mění pravidla výkonu státní správy soudů a postavení soudců. Návrh předloží vládě, aniž jej projednalo se zájmovými organizacemi soudců. Soudcovská unie ČR namítá, že nedošlo k povinné součinnosti dle § 175. Vzniká otázka, zda opomenutí projednání zakládá vadu legislativního procesu. Důkazy: text návrhu novely, doklad o (ne)projednání se zájmovými organizacemi, stanovisko Soudcovské unie.
+
+**2. Právní otázka.** Zakládá § 175 vynutitelnou povinnost projednat návrh zákona dotýkající se postavení soudců se zájmovými organizacemi soudců a jaký je následek jejího nesplnění?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 175 — orgány státní správy soudů postupují v součinnosti se zájmovými organizacemi soudců a projednávají s nimi zejména návrhy zákonů dotýkajících se pravomoci soudů a způsobu jejího výkonu (a) a zásadní opatření o organizaci soudů, postavení soudců a výkonu státní správy (b).
+- *Související ustanovení téhož zákona:* § 46 a násl. (soudcovské rady jako samosprávné orgány — odlišení), § 118 a násl. (výkon státní správy soudů).
+- *Související předpisy:* zákon č. 89/2012 Sb. (spolky); legislativní pravidla vlády.
+- *Judikatura:* ÚS Pl.ÚS 5/24 — za dostačující pokládá projednání návrhu s předsedy vrcholných a krajských soudů a se zájmovými organizacemi soudců (srov. obdobně § 175 ZSS); konkrétní formu si určují organizace samy.
+
+**4. Subsumpce.** Návrh novely se podstatně dotýká postavení soudců a výkonu státní správy → spadá pod § 175 písm. a) i b). Vzniká povinnost součinnosti (projednání) se zájmovými organizacemi. Tato součinnost je konzultativní — organizace předkládají stanoviska, nemají právo veta. Opomenutí projednání je vadou postupu, byť nezávazné stanovisko organizací výsledek nepředurčuje.
+
+**5. Řešení.** Ministerstvo mělo návrh projednat se zájmovými organizacemi soudců; opomenutí je porušením § 175 a procesním deficitem, který je vhodné zhojit dodatečným projednáním. Podle Pl.ÚS 5/24 postačí projednání s předsedy vrcholných/krajských soudů a se zájmovými organizacemi; forma stanoviska je na vnitřních pravidlech organizací. Stanovisko organizací není závazné — konečné rozhodnutí náleží vládě a parlamentu. Procesně: doložit projednání pro účely legislativního procesu.
+
+**6. Varianty.** (a) Návrh se dotýká soudů jen okrajově (technická změna) → nemusí jít o „podstatné" dotčení a povinnost projednání nevzniká. (b) Projednání proběhlo, stanovisko bylo nesouhlasné, MSp návrh přesto předložilo → § 175 splněn, neboť součinnost je konzultativní.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že § 175 je jen proklamativní a jeho porušení nemá následky. Neutralizace: Pl.ÚS 5/24 dává § 175 obsah jako měřítku dostatečného projednání; jeho opomenutí oslabuje legitimitu i ústavní obhajitelnost úpravy.
+- Námitka, že zájmové organizace nejsou orgány státní správy ani soudcovské rady, takže s nimi netřeba jednat. Neutralizace: § 175 výslovně ukládá součinnost právě s dobrovolnými profesními sdruženími.
+- Slabé místo: pojem „podstatně se dotýká" je hodnotící; hranice mezi technickou a zásadní změnou může být sporná.
+
+#### H. Praktický závěr
+
+Orgány státní správy soudů mají povinnost konzultativní součinnosti se zájmovými organizacemi soudců u návrhů zákonů a zásadních opatření dotýkajících se soudů a postavení soudců; stanovisko organizací není závazné, projednání je však namístě doložit.
+
+**Checklist (ministerstvo / zájmová organizace soudců):**
+- [ ] Posoudit, zda se návrh/opatření podstatně dotýká pravomoci soudů nebo postavení soudců.
+- [ ] Návrh projednat se zájmovými organizacemi soudců a vyžádat stanovisko.
+- [ ] Projednání a stanoviska zdokumentovat pro legislativní proces.
+- [ ] Odlišit zájmové organizace od soudcovských rad (§ 46 a násl.).
+
+**Typicky rozhodné důkazy / podklady:** text návrhu/opatření, doklad o projednání se zájmovými organizacemi, jejich stanoviska, materiály legislativního procesu.
+
 ---
 
 ### § 175a — Využívání údajů z informačních systémů veřejné správy
@@ -1684,6 +3052,42 @@ A k dalším **agendovým informačním systémům** — typicky CEO (Centráln�
 
 Klíčová klauzule odst. 2: „**lze v konkrétním případě využít vždy jen takové údaje, které jsou nezbytné**". Tato klauzule odpovídá **zásadě minimalizace dat** dle čl. 5 odst. 1 písm. c) GDPR. Soud nesmí vytahovat z registrů více údajů, než kolik je nutné pro konkrétní úkon (např. doručení; vyřízení návrhu na výkon rozhodnutí).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soud při doručování v exekuční věci potřebuje zjistit aktuální adresu pobytu povinného. Pověřený zaměstnanec soudu z registru obyvatel (ROB) získá nejen adresu, ale jedním dotazem stáhne i údaje o rodinných příslušnících povinného a historii jeho předchozích pobytů, ačkoli pro daný úkon (doručení) potřeboval pouze aktuální adresu. Povinný později namítá nepřiměřený zásah do ochrany osobních údajů. Důkazy: logy přístupů do registru, rozsah stažených údajů, popis konkrétního úkonu, k němuž byly údaje použity.
+
+**2. Právní otázka.** Smí soud při využití základních registrů podle § 175a získat širší okruh údajů, než kolik je nezbytné pro konkrétní úkon, a jaké jsou meze tohoto využívání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 175a — soud pro výkon působnosti využívá údaje z informačních systémů veřejné správy, základních registrů a agendových systémů (odst. 1); v konkrétním případě lze využít jen údaje nezbytné ke splnění daného úkolu (odst. 2).
+- *Související ustanovení téhož zákona:* § 122b a násl. (zpracování osobních údajů soudy), § 118 a násl. (výkon státní správy soudů).
+- *Související předpisy:* zákon č. 111/2009 Sb., o základních registrech (ROB, ROS, RUIAN, RPP); GDPR, čl. 5 odst. 1 písm. c) (minimalizace údajů).
+- *Judikatura:* zásada minimalizace a účelového omezení zpracování osobních údajů; přístup veřejné moci k registrům je vázán na nezbytnost pro konkrétní úkol.
+
+**4. Subsumpce.** Doručení v exekuční věci je výkonem působnosti soudu (odst. 1) — přístup k registru je oprávněný. Klauzule odst. 2 však dovoluje využít jen údaje nezbytné pro daný úkol; nezbytná byla pouze aktuální adresa. Stažení údajů o rodinných příslušnících a historii pobytů přesahuje nezbytnost a porušuje zásadu minimalizace dle odst. 2 a čl. 5 odst. 1 písm. c) GDPR.
+
+**5. Řešení.** Soud měl získat pouze aktuální adresu povinného. Získání širšího okruhu údajů je v rozporu s § 175a odst. 2; jde o nadbytečné zpracování osobních údajů. Náprava: omezit dotaz na nezbytný rozsah, nadbytečně získané údaje dále nezpracovávat a v souladu s pravidly zpracování (§ 122b a násl.) je nepoužít. Procesně: nastavit přístupová oprávnění a logy tak, aby byl rozsah dotazu auditovatelný.
+
+**6. Varianty.** (a) Soud potřebuje zjistit i okruh dědiců v pozůstalostním řízení → širší okruh údajů z registru je pro daný úkol nezbytný a odst. 2 je dodržen. (b) Zaměstnanec získá údaje bez vazby na konkrétní úkol soudu → chybí účel dle odst. 1, jde o nepřípustný přístup.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že registr poskytuje údaje „v balíku" a soud je nemůže selektivně omezit. Neutralizace: odst. 2 ukládá využít jen nezbytné údaje; technické nastavení dotazů a interní pravidla musí minimalizaci umožnit.
+- Námitka, že širší údaje mohou být užitečné „do budoucna". Neutralizace: rozhodující je nezbytnost pro daný konkrétní úkol, nikoli potenciální budoucí užitečnost (zákaz zásoby dat).
+- Slabé místo: posouzení „nezbytnosti" je hodnotící; je třeba je vázat na konkrétní úkon a doložit auditní stopou.
+
+#### H. Praktický závěr
+
+Soud má přístup k základním registrům a agendovým systémům pro výkon své působnosti, avšak smí využít jen údaje nezbytné pro konkrétní úkol (zásada minimalizace).
+
+**Checklist (soud / pověřený zaměstnanec):**
+- [ ] Navázat přístup k registru na konkrétní úkon v rámci působnosti soudu.
+- [ ] Omezit rozsah dotazu na údaje nezbytné pro daný úkol (odst. 2).
+- [ ] Nadbytečně získané údaje dále nezpracovávat.
+- [ ] Zajistit auditní stopu (logy) a soulad s pravidly zpracování (§ 122b a násl.).
+
+**Typicky rozhodné důkazy / podklady:** logy přístupů do registru, popis konkrétního úkonu, rozsah získaných údajů, interní pravidla a oprávnění pro přístup k registrům.
+
 ---
 
 ### § 176 — Kolegia Nejvyššího soudu
@@ -1695,6 +3099,42 @@ Klíčová klauzule odst. 2: „**lze v konkrétním případě využít vždy j
 **Výklad:**
 
 Přechodné ustanovení k organizační struktuře NS: ke dni 1. 4. 2002 (účinnost ZSS) existovala u NS **trestní kolegium** a **občanskoprávní a obchodní kolegium** (§ 17 odst. 1 ZSS), do nichž byli automaticky zařazeni soudci NS působící ke dni účinnosti. Kolegia byla zformována podle dosavadní praxe, nový zákon je převzal.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soudce Nejvyššího soudu působící u NS ke dni 1. 4. 2002 (nabytí účinnosti ZSS) byl dosud zařazen do dosavadního kolegia NS. Po účinnosti nového zákona vznikne spor, do kterého kolegia podle § 17 odst. 1 ZSS je zařazen a zda jeho dosavadní zařazení automaticky přešlo, nebo zda muselo být nově konstituováno. Důkazy: doklad o působení soudce u NS k 1. 4. 2002, rozvrh práce NS, znění § 17 odst. 1 ZSS.
+
+**2. Právní otázka.** Působila u Nejvyššího soudu kolegia podle § 17 odst. 1 ZSS automaticky ode dne účinnosti zákona, nebo bylo nutné je nově ustavit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 176 — ke dni nabytí účinnosti zákona působí u NS kolegia uvedená v § 17 odst. 1 (přechodné ustanovení).
+- *Související ustanovení téhož zákona:* § 17 odst. 1 (kolegia NS — trestní a občanskoprávní a obchodní), § 42 (rozvrh práce), § 177 (přechodný režim rozvrhu práce 2002).
+- *Související předpisy:* obecná pravidla intertemporality (přechod organizační struktury při změně zákona).
+- *Judikatura:* zásada kontinuity organizační struktury — přechodné ustanovení přejímá existující stav bez nutnosti jeho nového zakládání.
+
+**4. Subsumpce.** § 176 je přechodné (intertemporální) ustanovení. Ke dni účinnosti zákona (1. 4. 2002) kolegia podle § 17 odst. 1 „působí" — tedy jsou zákonem převzata jako existující, nikoli nově konstituována. Soudce NS působící k tomuto dni byl do příslušného kolegia zařazen na základě dosavadní praxe, kterou nový zákon přejal.
+
+**5. Řešení.** Kolegia NS nemusela být po 1. 4. 2002 nově ustavována — § 176 je převzal ze stávajícího stavu (trestní a občanskoprávní a obchodní kolegium dle § 17 odst. 1). Zařazení soudce se řídí rozvrhem práce NS; pro rok 2002 platil přechodný režim rozvrhu (§ 177). Spor o zařazení se tedy řeší výkladem rozvrhu práce, nikoli zpochybněním samotné existence kolegií. Procesně: doložit působení soudce u NS k rozhodnému dni a obsah rozvrhu práce.
+
+**6. Varianty.** (a) Soudce nastoupil k NS až po účinnosti zákona → jeho zařazení do kolegia se řídí již plně novým zákonem a rozvrhem práce, nikoli přechodným § 176. (b) Pozdější novela mění strukturu kolegií NS → přechodné ustanovení § 176 se vyčerpalo a aplikuje se aktuální úprava.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že kolegia musela být po účinnosti zákona nově zřízena. Neutralizace: § 176 výslovně stanoví, že kolegia „působí" již ke dni účinnosti — jde o převzetí, nikoli nové zakládání.
+- Námitka, že § 176 zakládá konkrétní zařazení jednotlivých soudců. Neutralizace: zařazení soudců do kolegií plyne z rozvrhu práce (§ 42, pro 2002 § 177), nikoli přímo z § 176.
+- Slabé místo: § 176 je dnes z velké části obsoletní (jednorázové intertemporální ustanovení); praktický význam má jen pro posouzení stavu k roku 2002.
+
+#### H. Praktický závěr
+
+§ 176 je jednorázové přechodné ustanovení, které ke dni účinnosti zákona převzalo existující kolegia NS podle § 17 odst. 1; zařazení soudců se řídí rozvrhem práce, pro rok 2002 v přechodném režimu dle § 177.
+
+**Checklist (Nejvyšší soud / soudce):**
+- [ ] Ověřit, zda soudce působil u NS k rozhodnému dni účinnosti (1. 4. 2002).
+- [ ] Zařazení do kolegia odvozovat z rozvrhu práce, nikoli přímo z § 176.
+- [ ] Zohlednit přechodný režim rozvrhu práce 2002 (§ 177).
+- [ ] U pozdějších změn struktury kolegií aplikovat aktuální úpravu, nikoli § 176.
+
+**Typicky rozhodné důkazy / podklady:** doklad o působení soudce u NS k 1. 4. 2002, rozvrh práce NS, znění § 17 odst. 1 ZSS, případné pozdější novely struktury kolegií.
 
 ---
 
@@ -1708,6 +3148,41 @@ Přechodné ustanovení k organizační struktuře NS: ke dni 1. 4. 2002 (účin
 
 Přechodné ustanovení k zavedení nového režimu rozvrhu práce. § 42 odst. 4 ZSS stanoví (v současném znění): povinnost vydat rozvrh práce do konce předchozího kalendářního roku, projednání se soudcovskou radou apod. V přechodném období roku 2002 byl tento režim **vyloučen** — soudy mohly rozvrh práce vydat (a měnit) bez striktního dodržování formálních pravidel, neboť zákon nabyl účinnosti až 1. 4. 2002 a bylo nutné se rychle adaptovat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Předseda krajského soudu vydal v dubnu 2002 (po nabytí účinnosti ZSS) změnu rozvrhu práce na zbytek roku 2002, kterou přeřadil několik soudců mezi senáty a nově ustavil specializovaný senát. Změnu neprojednal se soudcovskou radou a nevydal ji do konce předchozího roku. Dotčený soudce, jemuž byla odňata agenda, namítá neplatnost změny pro porušení procedurálních pravidel § 42 odst. 4. Důkazy: znění rozvrhu práce z roku 2001 i jeho dubnové změny, datum nabytí účinnosti ZSS, případný zápis ze soudcovské rady.
+
+**2. Právní otázka.** Vztahuje se na změnu rozvrhu práce vydanou v roce 2002 procedurální režim § 42 odst. 4 ZSS, nebo se tento režim podle § 177 nepoužije?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 177 — pro rozvrh práce na rok 2002 a jeho změny se § 42 odst. 4 nepoužije.
+- *Související ustanovení téhož zákona:* § 42 odst. 4 (řádný procedurální režim rozvrhu — termín vydání, projednání); § 197 odst. 1 (účinnost k 1. 4. 2002 — důvod přechodné výjimky).
+- *Související předpisy:* čl. 38 odst. 1 Listiny (právo na zákonného soudce — materiální mez, kterou ani přechodný režim nesmí obcházet).
+- *Judikatura:* Ústavní soud opakovaně dovodil, že rozvrh práce je nástrojem zákonného soudce a libovolné přidělování věcí je ústavně vadné (nález ve věci zákonného soudce, sp. zn. III. ÚS — nosný závěr: přidělení věci musí být předem stanoveno transparentními pravidly).
+
+**4. Subsumpce.** § 177 vylučuje aplikaci § 42 odst. 4 výslovně a jen pro kalendářní rok 2002. Procedurální vady (chybějící projednání, opožděné vydání) tedy v roce 2002 nezakládají neplatnost. Sporné zůstává, zda změna neobešla materiální požadavek předvídatelnosti přidělení věcí — to § 177 nevylučuje.
+
+**5. Řešení.** Námitka procedurálního porušení § 42 odst. 4 je v roce 2002 nedůvodná — § 177 jeho aplikaci vyloučil. Změna rozvrhu je platná. Soudce může uspět pouze tehdy, prokáže-li, že přeřazení sloužilo k manipulaci s přidělením konkrétní věci (zásah do zákonného soudce), což je samostatný, materiální nárok.
+
+**6. Varianty.** (a) Kdyby šlo o změnu rozvrhu na rok 2003, § 177 by se neuplatnil a § 42 odst. 4 by platil plně. (b) Kdyby změna prokazatelně směřovala k odebrání jediné konkrétní věci konkrétnímu soudci, šlo by o porušení zákonného soudce bez ohledu na § 177.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „§ 177 legalizuje libovůli předsedy." Neutralizace: vylučuje pouze formální pravidla § 42 odst. 4, nikoli ústavní princip zákonného soudce — materiální ochrana trvá.
+- *Protiargument:* „Výjimka platí i pro pozdější roky." Neutralizace: § 177 je výslovně omezen na rok 2002; jde o jednorázové přechodné ustanovení, dnes prakticky obsolentní.
+- *Slabé místo:* ustanovení je dnes bez praktického dopadu (vyčerpané přechodné ustanovení); relevantní jen pro posouzení platnosti aktů z roku 2002.
+
+#### H. Praktický závěr
+
+§ 177 je jednorázová přechodná výjimka pro rok 2002, dnes obsoletní. Brání úspěchu čistě procedurálních námitek vůči rozvrhu práce z roku 2002, ale nezbavuje ochrany před zásahem do zákonného soudce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se napadený rozvrh práce roku 2002, nebo pozdějšího období?
+- [ ] Jde o čistě formální vadu (§ 42 odst. 4), nebo o materiální zásah do zákonného soudce?
+- [ ] Je k dispozici znění rozvrhu a datum jeho vydání/změny?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh práce 2002 a jeho změny, datum nabytí účinnosti ZSS, případný zápis soudcovské rady.
+
 ---
 
 ### § 178 — První soudcovské rady
@@ -1719,6 +3194,41 @@ Přechodné ustanovení k zavedení nového režimu rozvrhu práce. § 42 odst. 
 **Výklad:**
 
 ZSS poprvé zavádí institut soudcovských rad (§§ 46–59) jako poradních orgánů v rámci výkonu státní správy soudu. § 178 stanoví procedurální start — předseda každého soudu musí do **1. května 2002** (1 měsíc od účinnosti) svolat první shromáždění soudců k volbě soudcovské rady. Tím se nastartoval mechanismus, který od roku 2002 funguje souvisle.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Předseda okresního soudu nesvolal první shromáždění soudců k volbě soudcovské rady do 1. května 2002, ale až v červnu 2002. Soudce namítá, že akty soudcovské rady přijaté po opožděné volbě (např. stanovisko k rozvrhu práce) jsou neplatné, protože rada vznikla v rozporu se zákonnou lhůtou. Důkazy: datum svolání shromáždění, datum volby rady, datum jejích prvních úkonů.
+
+**2. Právní otázka.** Má nedodržení měsíční lhůty podle § 178 za následek neplatnost volby soudcovské rady a jejích následných aktů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 178 — povinnost předsedy soudu svolat první shromáždění do 1 měsíce od účinnosti zákona.
+- *Související ustanovení téhož zákona:* §§ 46–59 (soudcovské rady — ustavení, působnost, funkční období); § 197 odst. 1 (počátek běhu lhůty od 1. 4. 2002).
+- *Související předpisy:* obecné principy plynutí pořádkových lhůt ve veřejném právu.
+- *Judikatura:* obecný výkladový princip, že lhůty uložené orgánu (nikoli účastníkovi) k provedení organizačního úkonu mají zpravidla povahu lhůt pořádkových, jejichž zmeškání samo o sobě nezpůsobuje neplatnost úkonu provedeného opožděně.
+
+**4. Subsumpce.** Lhůta podle § 178 je adresována předsedovi soudu jako organizační povinnost. Jde o lhůtu pořádkovou — její zmeškání zakládá nanejvýš odpovědnost předsedy (případně kárnou), nikoli nicotnost opožděně ustavené rady.
+
+**5. Řešení.** Opožděná volba soudcovské rady nezpůsobuje neplatnost rady ani jejích aktů. Námitka soudce je nedůvodná. Předseda soudu však mohl porušit svou povinnost; náprava je v rovině dohledové, nikoli v rovině neplatnosti aktů rady.
+
+**6. Varianty.** (a) Kdyby rada nebyla zvolena vůbec, chyběl by obligatorní orgán a úkony vyžadující jeho součinnost (např. projednání rozvrhu) by mohly být vadné. (b) Kdyby šlo o volbu provedenou v rozporu s pravidly složení rady (§§ 46 a násl.), šlo by o vadu volby samé, nikoli jen o zmeškání lhůty.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zmeškání zákonné lhůty musí mít sankci neplatnosti." Neutralizace: lhůta je pořádková a adresovaná orgánu; její účel (rychlé ustavení rad) je naplněn i opožděnou volbou.
+- *Protiargument:* „Akty opožděně zvolené rady jsou zpochybnitelné." Neutralizace: rozhodující je řádné složení a volba rady, nikoli okamžik jejího ustavení vůči lhůtě § 178.
+- *Slabé místo:* ustanovení je dnes vyčerpané; relevantní jen pro posouzení legitimity rad ustavených v roce 2002.
+
+#### H. Praktický závěr
+
+§ 178 zavedl jednorázový start soudcovských rad. Měsíční lhůta je pořádková — její zmeškání nezpůsobuje neplatnost ustavené rady. Dnes obsolentní ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla soudcovská rada skutečně ustavena (byť opožděně)?
+- [ ] Bylo její složení a volba v souladu s §§ 46 a násl.?
+- [ ] Směřuje námitka jen ke zmeškání lhůty, nebo k vadě volby samé?
+
+**Typicky rozhodné důkazy / podklady:** datum svolání shromáždění, zápis o volbě rady, doklad o jejím složení.
 
 ---
 
@@ -1747,6 +3257,41 @@ ZSS nahradil tři předchozí zákony — zákon č. 335/1991 Sb., zákon č. 43
 
 Specifická úprava pro asistenty NS: dosavadní asistenti zaměstnaní **pracovní smlouvou** se ke dni 1. 4. 2002 automaticky stávají asistenty podle nového ZSS, **ale** jejich pracovní poměr se transformuje na **pracovní poměr na dobu neurčitou vzniklý jmenováním** (§ 33 odst. 3 ZP). Tato změna posiluje status asistenta NS (jmenování má vyšší ochranu než smluvní poměr) a unifikuje právní režim s nově zaváděnou kategorií asistentů VS, KS, OS (§ 36a ZSS).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Asistent soudce Nejvyššího soudu byl ke dni 1. 4. 2002 zaměstnán na základě pracovní smlouvy na dobu určitou (do konce roku 2002). Po účinnosti ZSS soud asistentovi sdělil, že jeho pracovní poměr skončí uplynutím sjednané doby. Asistent namítá, že podle § 179 odst. 3 se jeho poměr ke dni účinnosti zákona změnil na poměr na dobu neurčitou vzniklý jmenováním, a nelze jej proto ukončit uplynutím doby. Důkazy: pracovní smlouva asistenta, doklad o trvání poměru k 1. 4. 2002.
+
+**2. Právní otázka.** Změnil se ze zákona ke dni 1. 4. 2002 pracovní poměr asistenta NS sjednaný na dobu určitou na poměr na dobu neurčitou vzniklý jmenováním?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 179 odst. 3 — asistenti NS činní na základě pracovní smlouvy se stávají asistenty podle ZSS a jejich poměr se mění na poměr na dobu neurčitou vzniklý jmenováním.
+- *Související ustanovení téhož zákona:* § 36a (asistenti soudců); odst. 1 a 2 § 179 (princip kontinuity soudců a přísedících).
+- *Související předpisy:* § 33 odst. 3 zákoníku práce (pracovní poměr vzniklý jmenováním); ustanovení ZP o poměru na dobu neurčitou.
+- *Judikatura:* obecný princip, že zákonná konverze pracovního poměru ze zákona má přednost před dříve sjednaným ujednáním o době trvání.
+
+**4. Subsumpce.** Asistent byl k 1. 4. 2002 činný „na základě pracovní smlouvy" a jeho poměr „trval" — obě podmínky § 179 odst. 3 splněny. Norma poměr ze zákona transformuje na poměr na dobu neurčitou vzniklý jmenováním; dřívější ujednání o době určité tím pozbývá účinku.
+
+**5. Řešení.** Pracovní poměr asistenta se ke dni 1. 4. 2002 stal poměrem na dobu neurčitou vzniklým jmenováním. Nelze jej ukončit pouhým uplynutím původně sjednané doby; ukončení je možné jen způsoby přípustnými pro poměr na dobu neurčitou (např. odvolání z funkce, výpověď podle ZP). Asistent uspěje.
+
+**6. Varianty.** (a) Kdyby asistent k 1. 4. 2002 v poměru fakticky nebyl (poměr již skončil), konverze by se neuplatnila. (b) Kdyby šlo o asistenta jiného soudu než NS (VS/KS/OS), § 179 odst. 3 by se nepoužil — režim by určoval § 36a a obecná úprava.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Smlouva byla sjednána na dobu určitou, to platí." Neutralizace: § 179 odst. 3 představuje zákonnou konverzi, která má přednost před smluvním ujednáním.
+- *Protiargument:* „Konverze se týká jen některých asistentů." Neutralizace: norma dopadá na všechny asistenty NS činné ke dni účinnosti na základě pracovní smlouvy, jejíž poměr trvá — výjimky nestanoví.
+- *Slabé místo:* prokázání faktického trvání poměru přesně ke dni 1. 4. 2002 (nesmí být přerušen).
+
+#### H. Praktický závěr
+
+§ 179 zajišťuje kontinuitu soudců a přísedících (automatické „překlopení") a u asistentů NS navíc posiluje jejich status zákonnou konverzí poměru na dobu neurčitou vzniklý jmenováním.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Trval poměr asistenta NS prokazatelně ke dni 1. 4. 2002?
+- [ ] Šlo o asistenta NS (odst. 3), nebo o jinou kategorii?
+- [ ] U soudců/přísedících: postačí kontinuita ze zákona, nové jmenování netřeba.
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva asistenta, doklady o nepřetržitém trvání poměru, jmenovací/volební akty soudců a přísedících.
+
 ---
 
 ### § 180 — Vysokoškolské vzdělání
@@ -1771,6 +3316,41 @@ Zákon ekvivalencí staví na roveň:
 
 Tato úprava chrání **legitimní očekávání** absolventů starších systémů a slovenských právních fakult (z důvodu historických vazeb).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Uchazeč o funkci soudce vystudoval práva na Právnické fakultě Univerzity Komenského v Bratislavě a magisterský titul získal v roce 1992 (v době existence ČSFR). Ministerstvo spravedlnosti při ověřování předpokladů funkce (§ 60 ZSS) zpochybní, zda jde o „vysokoškolské vzdělání v oboru právo" podle § 60 odst. 3. Důkazy: vysokoškolský diplom, datum a místo studia, doklad o akreditaci/sídle fakulty.
+
+**2. Právní otázka.** Splňuje právnické vzdělání získané na fakultě se sídlem na území bývalé ČSFR předpoklad vzdělání podle § 60 odst. 3 ZSS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 180 — za vzdělání podle § 60 odst. 3 se považuje i vzdělání získané před 1. 1. 1999 na právnické fakultě v ČR, vzdělání získané na fakultě se sídlem na území ČSFR (a jejích předchůdců) a uznané zahraniční právnické vzdělání.
+- *Související ustanovení téhož zákona:* § 60 odst. 3 (předpoklad magisterského právnického vzdělání pro funkci soudce).
+- *Související předpisy:* zákon č. 111/1998 Sb., o vysokých školách (mezník 1. 1. 1999); zákon o uznávání zahraničních vzdělávacích kvalifikací; mezinárodní smlouvy o vzájemném uznávání vzdělání.
+- *Judikatura:* princip ochrany legitimního očekávání absolventů uznávaných vzdělávacích systémů.
+
+**4. Subsumpce.** Studium na fakultě se sídlem na území ČSFR je § 180 výslovně postaveno naroveň českému vzdělání pro účely § 60 odst. 3. Podmínka (sídlo fakulty na území ČSFR/předchůdců) je splněna; nepoužije-li mezinárodní smlouva jiný režim, vzdělání se uznává.
+
+**5. Řešení.** Vzdělání uchazeče splňuje předpoklad § 60 odst. 3 ve spojení s § 180. MSp nemůže předpoklad vzdělání zpochybnit jen pro získání titulu na slovenské fakultě v době ČSFR. Není třeba samostatné uznávací řízení (na rozdíl od zahraničního vzdělání mimo ČSFR).
+
+**6. Varianty.** (a) Kdyby šlo o zahraniční vzdělání mimo rámec ČSFR (např. vystudované v Rakousku), bylo by nutné uznání podle zvláštních předpisů. (b) Kdyby mezinárodní smlouva stanovila jiný (přísnější) režim, měla by přednost před § 180.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jde o zahraniční diplom, je nutné uznávací řízení." Neutralizace: § 180 vzdělání z fakult se sídlem na území ČSFR postavil naroveň českému přímo ze zákona.
+- *Protiargument:* „Mezinárodní smlouva vyžaduje nostrifikaci." Neutralizace: smlouva má sice přednost, ale musí existovat a stanovit jiný režim — jinak platí § 180.
+- *Slabé místo:* nutnost ověřit sídlo fakulty (na území ČSFR a jejích předchůdců) a datum studia ve vztahu k mezníku 1. 1. 1999.
+
+#### H. Praktický závěr
+
+§ 180 chrání legitimní očekávání absolventů starších českých a československých právnických fakult a uznaného zahraničního vzdělání. Pro absolventy fakult se sídlem v ČR/ČSFR netřeba zvláštního uznávacího řízení; výjimkou je odlišný režim podle mezinárodní smlouvy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo vzdělání získáno na fakultě se sídlem v ČR (před 1. 1. 1999) či na území ČSFR?
+- [ ] Nebo jde o zahraniční vzdělání vyžadující uznání podle zvláštních předpisů?
+- [ ] Neexistuje mezinárodní smlouva s odchylným režimem?
+
+**Typicky rozhodné důkazy / podklady:** vysokoškolský diplom, doklad o sídle fakulty a datu studia, případně rozhodnutí o uznání zahraničního vzdělání.
+
 ---
 
 ### § 181 — Zánik funkce starších soudců
@@ -1790,6 +3370,41 @@ Tato úprava chrání **legitimní očekávání** absolventů starších systé
 
 Toto opatření bylo politicky **kontroverzní**: Ústavní soud v nálezu **Pl. ÚS 18/06** dovodil, že odvolávání soudců jen pro dosažení věkové hranice nesmí být použito jako nástroj politické čistky. § 181 přesto přechodné ustanovení obsahuje, neboť věkový limit byl ústavně přípustný (čl. 82 odst. 2 Ústavy hovoří o **„zákonem stanovených důvodech"**).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soudce krajského soudu dovršil 70 let v roce 2005. S odkazem na § 181 ZSS mu byla funkce ukončena k 31. 12. 2007. Soudce namítá, že ukončení funkce jen pro dosažení věku zasahuje do jeho soudcovské nezávislosti a jde o zastřenou „čistku". Důkazy: datum narození soudce, akt o zániku funkce, znění § 181 a § 94 ZSS.
+
+**2. Právní otázka.** Je zánik funkce soudce ke stanovenému datu jen na základě dosažení věkové hranice podle § 181 ústavně přípustný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 181 — dvoustupňové ukončení funkce soudců, kteří dovršili 65 let do 31. 12. 1997 (zánik k 31. 12. 2002), resp. 70 let do 31. 12. 2006 (zánik k 31. 12. 2007).
+- *Související ustanovení téhož zákona:* § 94 odst. 1 písm. a) (zánik funkce dovršením stanoveného věku).
+- *Související předpisy:* čl. 82 odst. 2 Ústavy (soudce lze odvolat jen ze zákonem stanovených důvodů); čl. 1 a čl. 3 Listiny.
+- *Judikatura:* Pl. ÚS 18/06 (kauza Brožová) — odvolávání soudních funkcionářů/soudců nesmí sloužit jako nástroj politické čistky; věková hranice je však ústavně přípustným zákonným důvodem zániku funkce.
+
+**4. Subsumpce.** Soudce naplnil věkové kritérium § 181 (70 let do 31. 12. 2006). Důvod zániku — dosažení zákonem stanovené věkové hranice — je obecným, nediskriminačním a předem stanoveným důvodem podle čl. 82 odst. 2 Ústavy. Nejde o individuální odvolání pro výkon funkce.
+
+**5. Řešení.** Zánik funkce podle § 181 je ústavně přípustný — věková hranice je objektivním, plošně působícím zákonným důvodem, nikoli politickou čistkou. Námitka soudce je nedůvodná. Riziko by vzniklo jen tehdy, byl-li by mechanismus aplikován selektivně či zneužit k odstranění konkrétního soudce.
+
+**6. Varianty.** (a) Kdyby zákon umožňoval ministrovi vybírat, na koho věkový limit dopadne, šlo by o ústavně vadnou diskreci. (b) Kdyby šlo o odvolání soudce pro obsah jeho rozhodování pod záminkou věku, byl by akt protiústavní (princip Pl. ÚS 18/06).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ukončení funkce zasahuje do neodvolatelnosti soudce." Neutralizace: čl. 82 odst. 2 Ústavy připouští zánik funkce ze zákonem stanovených důvodů; věk je objektivním důvodem.
+- *Protiargument:* „Jde o skrytou čistku." Neutralizace: § 181 působí plošně a automaticky podle data narození, bez individuálního výběru — chybí znak selektivity, který ÚS sankcionoval.
+- *Slabé místo:* politická citlivost přechodných věkových limitů; nutnost odlišit plošné pravidlo od individuálního odvolání.
+
+#### H. Praktický závěr
+
+§ 181 stanoví ústavně přípustné plošné ukončení funkce starších soudců podle objektivní věkové hranice. Klíčem je nediskriminační, automatická povaha pravidla; selektivní aplikace by byla protiústavní. Dnes vyčerpané přechodné ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá soudce do některé z věkových kategorií § 181?
+- [ ] Působí pravidlo plošně a automaticky, bez individuálního výběru?
+- [ ] Nejde fakticky o odvolání pro obsah rozhodování (zákaz dle Pl. ÚS 18/06)?
+
+**Typicky rozhodné důkazy / podklady:** datum narození soudce, akt o zániku funkce, doklad o plošné (nikoli selektivní) aplikaci limitu.
+
 ---
 
 ### § 182 — Funkcionáři podle dosavadních předpisů
@@ -1806,6 +3421,41 @@ Princip kontinuity (analogicky k § 179) pro funkcionáře. Stávající předse
 - nová pravidla zániku funkce (§§ 106–108 ZSS);
 - nová pravidla kárné odpovědnosti za výkon funkce funkcionáře (§ 128 odst. 2).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Předseda okresního soudu byl jmenován do funkce podle zákona č. 335/1991 Sb. v roce 1998 na dobu neurčitou (staré předpisy délku období neomezovaly). Po účinnosti ZSS a zavedení 7letého funkčního období (§ 105 odst. 1) MSp v roce 2002 sdělí, že funkční období počíná běžet od 1. 4. 2002. Předseda namítá, že období se má počítat od původního jmenování (1998). Důkazy: jmenovací dekret z roku 1998, znění § 182 a § 105 ZSS.
+
+**2. Právní otázka.** Od kterého okamžiku se počítá 7leté funkční období předsedy soudu, který byl jmenován podle dosavadních předpisů a podle § 182 se považuje za funkcionáře jmenovaného podle ZSS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 182 — soudci jmenovaní do funkcí předsedů, místopředsedů a předsedů senátů se považují za funkcionáře jmenované podle ZSS.
+- *Související ustanovení téhož zákona:* § 105 odst. 1 (7leté funkční období funkcionářů); §§ 106–108 (zánik funkce); § 128 odst. 2 (kárná odpovědnost funkcionáře).
+- *Související předpisy:* zákon č. 335/1991 Sb. (zrušený dosavadní zákon); princip zákazu pravé retroaktivity a ochrany nabytých práv.
+- *Judikatura:* obecný princip, že přechodná klauzule o kontinuitě nesmí zhoršit postavení dotčené osoby zpětně (zákaz retroaktivity v neprospěch).
+
+**4. Subsumpce.** § 182 zakládá kontinuitu funkce. Aplikace nového 7letého období na stávajícího funkcionáře je přípustná jen tak, aby nešlo o pravou retroaktivitu — období se proto počítá od původního jmenování (1998), nikoli od účinnosti zákona. Opačný výklad by funkci uměle prodloužil/zkrátil v rozporu s legitimním očekáváním.
+
+**5. Řešení.** 7leté funkční období se počítá od původního jmenování v roce 1998. Výklad MSp (počátek od 1. 4. 2002) je nesprávný, neboť zhoršuje/mění postavení funkcionáře zpětně. Předseda v námitce uspěje.
+
+**6. Varianty.** (a) Kdyby předseda byl jmenován až po 1. 4. 2002, běželo by období standardně od jeho jmenování podle ZSS. (b) Kdyby šlo o nově zaváděné povinnosti (kárná odpovědnost, důvody zániku) působící do budoucna, vztahovaly by se na funkcionáře od účinnosti zákona bez retroaktivního dopadu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Funkcionář je nově jmenován podle ZSS, tedy období běží od účinnosti." Neutralizace: § 182 jen kvalifikuje stávajícího funkcionáře jako funkcionáře podle ZSS, nezakládá nové jmenování — počátek běhu zůstává u původního aktu.
+- *Protiargument:* „Nová pravidla platí na vše bez výjimky." Neutralizace: pravidla působící do budoucna ano, ale výpočet funkčního období nesmí být retroaktivně zhoršující.
+- *Slabé místo:* nejasnost dobových přechodných pravidel k § 105; nutnost argumentovat zákazem retroaktivity, nikoli výslovným textem § 182.
+
+#### H. Praktický závěr
+
+§ 182 zajišťuje kontinuitu soudních funkcionářů. Nová pravidla ZSS (zánik funkce, kárná odpovědnost) se uplatní do budoucna, ale 7leté funkční období se počítá od původního jmenování — přechodná klauzule nesmí zhoršit postavení zpětně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl funkcionář jmenován podle dosavadních předpisů před 1. 4. 2002?
+- [ ] Počítá se funkční období od původního jmenování (zákaz retroaktivity)?
+- [ ] Vztahují se nová pravidla (zánik, kárná odpovědnost) jen do budoucna?
+
+**Typicky rozhodné důkazy / podklady:** jmenovací dekret funkcionáře, znění dosavadních předpisů, doklad o datu původního jmenování.
+
 ---
 
 ### § 183 — Justiční čekatelé
@@ -1819,6 +3469,41 @@ Princip kontinuity (analogicky k § 179) pro funkcionáře. Stávající předse
 **Výklad:**
 
 Analogická úprava jako § 179 pro **justiční čekatele** (kteří se v zákoně z r. 2008 přejmenovali na **justiční kandidáty** — § 109 ZSS). Stávající čekatelé pokračují v přípravné službě bez přerušení a doba dosud absolvovaná se započítává.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Justiční čekatel byl přijat do přípravné služby v roce 2000 podle dosavadních předpisů a ke dni 1. 4. 2002 jeho přípravná služba trvala (absolvoval z ní dosud 18 měsíců). Po účinnosti ZSS namítá, že by měl absolvovat přípravnou službu znovu od počátku podle nového zákona, jiný ředitel justiční správy naopak tvrdí, že dosavadní doba se nezapočítává. Důkazy: doklad o přijetí do přípravné služby, potvrzení o trvání služby k 1. 4. 2002, evidence absolvované doby.
+
+**2. Právní otázka.** Považuje se justiční čekatel přijatý před účinností ZSS za čekatele podle ZSS a započítává se mu dosud absolvovaná přípravná služba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 183 — čekatelé přijatí přede dnem účinnosti, jejichž služba trvá, se považují za čekatele podle ZSS (odst. 1); dosud vykonaná doba se započítává (odst. 2).
+- *Související ustanovení téhož zákona:* § 109 a násl. (justiční čekatelé / později justiční kandidáti, přípravná služba, odborná justiční zkouška).
+- *Související předpisy:* dosavadní předpisy o přípravné službě čekatelů (před 1. 4. 2002).
+- *Judikatura:* obecný princip kontinuity přípravné služby a ochrany dosud nabytých kvalifikačních dob.
+
+**4. Subsumpce.** Čekatel byl přijat před účinností a jeho služba k 1. 4. 2002 trvala — podmínky odst. 1 splněny; považuje se za čekatele podle ZSS. Podle odst. 2 se 18 měsíců dosud absolvované služby započítává jako doba podle ZSS.
+
+**5. Řešení.** Čekatel nemusí absolvovat přípravnou službu znovu; pokračuje v ní a dosavadní doba se mu plně započítává. Námitka o opakování služby i tvrzení o nezapočítání jsou nesprávné. Čekatel uspěje.
+
+**6. Varianty.** (a) Kdyby přípravná služba čekatele k 1. 4. 2002 již skončila (nebyla trvající), kontinuita podle § 183 by se neuplatnila. (b) Kdyby čekatel byl přijat až po účinnosti ZSS, řídil by se jeho status výhradně novou úpravou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nový zákon vyžaduje absolvování služby podle svých pravidel od počátku." Neutralizace: § 183 odst. 2 výslovně započítává dosud vykonanou dobu — opakování není namístě.
+- *Protiargument:* „Kontinuita se týká jen formálního statusu, ne doby." Neutralizace: odst. 1 řeší status, odst. 2 samostatně řeší započtení doby — obojí je výslovné.
+- *Slabé místo:* prokázání trvání přípravné služby přesně ke dni účinnosti a přesný rozsah dosud absolvované doby.
+
+#### H. Praktický závěr
+
+§ 183 zajišťuje plynulou kontinuitu justičních čekatelů (později justičních kandidátů): stávající čekatelé pokračují bez přerušení a dosud vykonaná přípravná služba se započítává.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl čekatel přijat do přípravné služby přede dnem účinnosti ZSS?
+- [ ] Trvala jeho přípravná služba ke dni 1. 4. 2002?
+- [ ] Je doložen rozsah dosud absolvované doby k započtení?
+
+**Typicky rozhodné důkazy / podklady:** doklad o přijetí do přípravné služby, potvrzení o trvání služby k 1. 4. 2002, evidence absolvované doby.
 
 ---
 
@@ -1846,6 +3531,41 @@ Analogická úprava jako § 179 pro **justiční čekatele** (kteří se v záko
 Institut **komerčního právníka** existoval v ČR v 90. letech podle zákona č. 209/1990 Sb., o komerčních právnících a právní pomoci jimi poskytované. Šlo o stavovsky samostatnou profesi (vedle advokátů), která byla **integrována do advokacie** novelou zákona o advokacii z roku 1996 (zákon č. 85/1996 Sb.).
 
 § 184 odst. 3 umožňuje MSp **diskreční uznání** profesní zkoušky komerčního právníka za odbornou justiční zkoušku. Toto je výjimečné — uznání je věcí volné úvahy ministra, není automatické.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý komerční právník (zapsaný podle zákona č. 209/1990 Sb., po roce 1996 integrovaný do advokacie), který v 90. letech složil profesní zkoušku komerčního právníka, se uchází o jmenování soudcem. Tvrdí, že jeho profesní zkouška musí být uznána za odbornou justiční zkoušku, neboť splňuje předpoklad podle § 60 ZSS. MSp uznání odmítne. Důkazy: doklad o složení profesní zkoušky komerčního právníka, rozhodnutí (či sdělení) MSp o neuznání.
+
+**2. Právní otázka.** Vzniká uchazeči právní nárok na uznání profesní zkoušky komerčního právníka za odbornou justiční zkoušku podle § 184 odst. 3, nebo jde o diskreční oprávnění ministra?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 184 odst. 3 — profesní zkoušku komerčního právníka *může* ministr spravedlnosti uznat za odbornou justiční zkoušku; odst. 1 a 2 (automatické uznání justičních a u stávajících soudců i jiných právních zkoušek).
+- *Související ustanovení téhož zákona:* § 60 (předpoklady funkce soudce — odborná justiční zkouška).
+- *Související předpisy:* zákon č. 209/1990 Sb., o komerčních právnících; zákon č. 85/1996 Sb., o advokacii (integrace komerčních právníků do advokacie).
+- *Judikatura:* obecný princip, že zákonná formulace „může" zakládá správní uvážení, jehož výkon podléhá přezkumu jen z hlediska mezí a zákazu libovůle, nikoli nárok na konkrétní výsledek.
+
+**4. Subsumpce.** § 184 odst. 3 používá formulaci „může uznat" — jde o diskreční pravomoc ministra, nikoli o automatické uznání (na rozdíl od odst. 1 a 2). Uchazeč nemá nárok na uznání; ministr volně uváží.
+
+**5. Řešení.** Uchazeč nemá právní nárok na uznání profesní zkoušky; neuznání není samo o sobě nezákonné, je-li v mezích uvážení a bez libovůle. Obrana je možná jen proti excesu z mezí správního uvážení (např. diskriminace, nesrozumitelné odůvodnění), nikoli proti samotnému neuznání. Námitka nároku je nedůvodná.
+
+**6. Varianty.** (a) Šlo-li by o odbornou justiční zkoušku podle starých předpisů (odst. 1), uznání by bylo automatické. (b) Šlo-li by o jinou právní zkoušku u soudce již vykonávajícího funkci k 1. 4. 2002 (odst. 2), uznání by bylo rovněž automatické — diskrece se týká pouze komerčních právníků podle odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Profesní zkouška komerčního právníka je rovnocenná, musí být uznána." Neutralizace: zákonodárce ji vědomě podřídil diskreci ministra („může"), nikoli automatickému uznání jako odst. 1 a 2.
+- *Protiargument:* „Neuznání je svévolné." Neutralizace: přezkoumatelné je jen překročení mezí uvážení; samotné neuznání v mezích zákona svévolí není.
+- *Slabé místo:* odlišení od automaticky uznávaných zkoušek (odst. 1, 2); diskrece ztěžuje předvídatelnost a vymahatelnost.
+
+#### H. Praktický závěr
+
+§ 184 zajišťuje automatické uznání dříve vykonaných justičních zkoušek (odst. 1) a u stávajících soudců i jiných právních zkoušek (odst. 2), zatímco profesní zkoušku komerčního právníka ministr uznat *může*, ale nemusí (odst. 3, správní uvážení).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o justiční zkoušku podle starých předpisů (automatické uznání, odst. 1)?
+- [ ] Nebo o jinou právní zkoušku u soudce činného k 1. 4. 2002 (odst. 2)?
+- [ ] U komerčního právníka (odst. 3): jde o diskreci ministra, nárok nevzniká.
+
+**Typicky rozhodné důkazy / podklady:** doklad o složení příslušné zkoušky, rozhodnutí/sdělení MSp, doklad o výkonu soudcovské funkce k 1. 4. 2002 (pro odst. 2).
 
 ---
 
@@ -1904,6 +3624,41 @@ ZSS 6/2002 **sjednocuje** obě materie do **jednoho zákona**, čímž odstraňu
 
 Zrušené vyhlášky (č. 576/1991 Sb. a její novelizace) řešily **pobočky soudů** — tato úprava je nyní v zákoně (§ 13 ZSS) nebo v navazujících vyhláškách MSp.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník řízení po roce 2002 v opravném prostředku argumentuje ustanovením zákona č. 335/1991 Sb. (o soudech a soudcích) a vyhláškou č. 576/1991 Sb. o pobočkách soudů, neboť se domnívá, že místní příslušnost pobočky soudu se řídí touto vyhláškou. Soud namítá, že oba předpisy byly zrušeny. Důkazy: znění § 186 ZSS, datum účinnosti ZSS (1. 4. 2002), aktuální úprava poboček soudů.
+
+**2. Právní otázka.** Lze po 1. 4. 2002 aplikovat zákon č. 335/1991 Sb. nebo vyhlášku č. 576/1991 Sb., nebo byly tyto předpisy zrušeny a nahrazeny úpravou ZSS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 186 — zrušuje 10 zákonných předpisů (vč. zákonů č. 335/1991 Sb. a č. 436/1991 Sb.) a 8 vyhlášek (vč. č. 576/1991 Sb. a jejích novel).
+- *Související ustanovení téhož zákona:* § 13 (pobočky soudů — nová úprava); § 197 odst. 1 (účinnost derogace k 1. 4. 2002).
+- *Související předpisy:* zrušený zákon č. 335/1991 Sb. (soudy a soudci), zákon č. 436/1991 Sb. (státní správa soudů), vyhláška č. 576/1991 Sb. (pobočky soudů).
+- *Judikatura:* obecný princip lex posterior derogat priori a zákazu aplikace zrušeného předpisu na poměry vzniklé po jeho derogaci.
+
+**4. Subsumpce.** § 186 výslovně ruší zákon č. 335/1991 Sb. i vyhlášku č. 576/1991 Sb. ke dni účinnosti ZSS (1. 4. 2002). Na poměry vzniklé po tomto datu zrušené předpisy nelze aplikovat; pobočky soudů upravuje § 13 ZSS a navazující vyhlášky MSp.
+
+**5. Řešení.** Argumentace zrušenými předpisy je po 1. 4. 2002 neúčinná. Soud aplikuje ZSS a navazující vyhlášky. Výjimkou by byly jen poměry vzniklé před účinností a podléhající přechodným ustanovením (§§ 177–184), nikoli věcná aplikace zrušené úpravy.
+
+**6. Varianty.** (a) Kdyby šlo o posouzení právního jednání učiněného před 1. 4. 2002, mohlo by se hmotně řídit dosavadní úpravou podle obecných intertemporálních pravidel. (b) Kdyby předpis nebyl v taxativním výčtu § 186, jeho zrušení by nenastalo a aplikoval by se dál.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zrušený zákon se použije na dříve vzniklé poměry." Neutralizace: to řeší přechodná ustanovení (§§ 177–184), nikoli věcná aplikace zrušené normy na nové poměry.
+- *Protiargument:* „Úprava poboček chybí." Neutralizace: přešla do § 13 ZSS a navazujících vyhlášek MSp — kontinuita úpravy je zachována.
+- *Slabé místo:* nutnost ověřit, zda konkrétní předpis je skutečně ve výčtu § 186 (taxativnost); intertemporální posouzení dříve vzniklých poměrů.
+
+#### H. Praktický závěr
+
+§ 186 sjednotil dvě dříve oddělené materie (soudy a soudci + státní správa soudů) do jednoho kodexu a zrušil 10 zákonů a 8 vyhlášek. Po 1. 4. 2002 nelze zrušené předpisy věcně aplikovat; výjimkou jsou jen přechodná ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dotčený předpis uveden v taxativním výčtu § 186?
+- [ ] Vznikl posuzovaný poměr před, nebo po 1. 4. 2002?
+- [ ] Neřeší věc spíše přechodné ustanovení (§§ 177–184) než věcná aplikace zrušené normy?
+
+**Typicky rozhodné důkazy / podklady:** znění § 186, datum vzniku posuzovaného poměru, aktuální úprava věci v ZSS a navazujících vyhláškách.
+
 ---
 
 ## Část druhá až jedenáctá — doprovodné novelizace souvisejících zákonů
@@ -1922,6 +3677,41 @@ ZSS byl zákonem **kodexovým** s rozsáhlými dopady do dalších předpisů. �
 
 **Výklad:** Změna obsahuje doplnění pravomoci **České advokátní komory** navrhovat MSp jednoho advokáta jako člena Rady pro odbornou způsobilost státních zástupců (paralelní mechanismus k Justiční akademii — Rada Justiční akademie podle § 130 ZSS). Tím se posiluje **stavovská účast** advokacie v rozhodování o kvalifikaci státních zástupců.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministr spravedlnosti sestavuje Radu pro odbornou způsobilost státních zástupců. Česká advokátní komora navrhne svého kandidáta (1 advokáta) a jeho náhradníka jako člena Rady s odkazem na § 44 odst. 4 písm. j) zákona o advokacii ve znění § 187 ZSS. Ministr návrh ČAK pomine a jmenuje vlastního kandidáta. ČAK namítá porušení svého nominačního oprávnění. Důkazy: usnesení představenstva ČAK o nominaci, akt ministra o složení Rady.
+
+**2. Právní otázka.** Zakládá § 187 (vkládající písm. j) do § 44 odst. 4 zákona o advokacii) oprávnění ČAK navrhovat člena Rady a je ministr tímto návrhem vázán co do osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 187 — do § 44 odst. 4 zákona č. 85/1996 Sb. vkládá písm. j): oprávnění ČAK navrhnout MSp 1 advokáta za člena Rady pro odbornou způsobilost státních zástupců a jeho náhradníka.
+- *Související ustanovení téhož zákona:* § 130 ZSS (Rada Justiční akademie — paralelní mechanismus odborné rady).
+- *Související předpisy:* zákon č. 85/1996 Sb., o advokacii (§ 44 — působnost orgánů ČAK); úprava postavení a způsobilosti státních zástupců.
+- *Judikatura:* obecný princip, že nominační (navrhovací) oprávnění zakládá právo předložit kandidáta, nikoli nutně právo na jeho jmenování, nestanoví-li zákon vázanost.
+
+**4. Subsumpce.** § 187 zakládá ČAK právo *navrhovat* kandidáta. Jde o oprávnění předložit nominaci; jmenuje ministr. Pokud zákon nestanoví, že je ministr osobou navrženého advokáta vázán, jde o nominaci, kterou ministr respektuje co do procedury, ne nutně co do konkrétní osoby (závisí na znění tehdejší úpravy Rady).
+
+**5. Řešení.** ČAK má procesní právo nominovat; ministr je povinen nominaci umožnit a vzít v úvahu. Spor o vázanost osobou závisí na konkrétní formulaci úpravy Rady. Pominutí samotného nominačního oprávnění (nevyžádání návrhu vůbec) by bylo vadou; volný výběr mezi řádně navrženými kandidáty zpravidla vadou není. Poznámka: institut Rady pro odbornou způsobilost státních zástupců byl pozdějším vývojem úpravy státního zastupitelství překonán — ustanovení je dnes do značné míry obsolentní.
+
+**6. Varianty.** (a) Kdyby zákon výslovně stanovil, že ministr jmenuje navrženého advokáta, byl by osobou vázán. (b) Kdyby ČAK nominaci vůbec nepředložila, mohl by ministr postupovat bez ní, byl-li by orgán jinak usnášeníschopný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nominační právo ČAK zavazuje ministra ke jmenování navržené osoby." Neutralizace: navrhovací oprávnění zpravidla nezakládá vázanost osobou, nestanoví-li to zákon výslovně.
+- *Protiargument:* „Ustanovení je stále aktuální." Neutralizace: pozdější reformy úpravy státního zastupitelství institut Rady a navazující oprávnění do značné míry překonaly — § 187 je převážně obsolentní.
+- *Slabé místo:* závislost na dobové úpravě Rady, která již nemusí platit; omezený praktický dopad.
+
+#### H. Praktický závěr
+
+§ 187 doplnil do působnosti ČAK oprávnění navrhovat advokáta do Rady pro odbornou způsobilost státních zástupců — projev stavovské účasti advokacie. Nominační právo neznamená nárok na jmenování konkrétní osoby. Dnes do značné míry obsolentní novelizační ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o navrhovací (nominační) oprávnění, nebo o právo na jmenování?
+- [ ] Je úprava Rady pro odbornou způsobilost státních zástupců ještě účinná?
+- [ ] Byla nominace ČAK vůbec vyžádána a umožněna?
+
+**Typicky rozhodné důkazy / podklady:** usnesení orgánu ČAK o nominaci, akt ministra o složení Rady, aktuální úprava státního zastupitelství.
+
 ### Část III — Změna notářského řádu
 
 Vlastní text § 188 (a souvisejících) je v aktuálním znění souboru e-Sbírky nezobrazen, ale původně tato část měnila zákon č. 358/1992 Sb., o notářích a jejich činnosti (notářský řád), v souvislosti s úpravou postavení notářských kandidátů a uznávání jejich praxe (paralelně se ZSS).
@@ -1938,6 +3728,40 @@ Původní části IV a V (změna zákona č. 41/1993 Sb. o ověřování shody o
 
 **Výklad:** Zrušení článku X zákona č. 264/1992 Sb. — jde o úklid technického charakteru po reformě notářství (článek X obsahoval ustanovení, která se duplikovala s novou úpravou ZSS).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník řízení po roce 2002 dovozuje určité oprávnění z čl. X zákona č. 264/1992 Sb. Protistrana namítá, že čl. X byl § 191 ZSS zrušen a nelze z něj nic dovozovat. Důkazy: znění § 191 ZSS, znění původního čl. X zákona č. 264/1992 Sb., datum účinnosti ZSS.
+
+**2. Právní otázka.** Lze po 1. 4. 2002 aplikovat čl. X zákona č. 264/1992 Sb., nebo byl § 191 ZSS bez náhrady zrušen?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 191 — v zákoně č. 264/1992 Sb. se čl. X zrušuje.
+- *Související ustanovení téhož zákona:* § 186 (hlavní zrušovací ustanovení); § 197 odst. 1 (účinnost).
+- *Související předpisy:* zákon č. 264/1992 Sb. (novela občanského zákoníku a zrušení státního notářství); úprava notářství v ZSS.
+- *Judikatura:* obecný princip, že derogovaný článek pozbývá normativní povahy a nelze z něj odvozovat práva ani povinnosti.
+
+**4. Subsumpce.** § 191 výslovně ruší čl. X zákona č. 264/1992 Sb. ke dni účinnosti ZSS. Šlo o ustanovení duplikující novou úpravu — po derogaci pozbývá účinnosti.
+
+**5. Řešení.** Z čl. X nelze po 1. 4. 2002 nic dovozovat — byl zrušen. Argumentace protistrany je správná. Případná práva je nutné opřít o platnou úpravu, nikoli o derogovaný článek.
+
+**6. Varianty.** (a) Šlo-li by o poměr vzniklý před účinností derogace, mohla by se uplatnit intertemporální pravidla. (b) Kdyby byl zrušen jiný článek než X, čl. X by zůstal v platnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Čl. X stále platí, nebyl-li jinde zrušen." Neutralizace: § 191 jej ruší výslovně a adresně.
+- *Slabé místo:* jde o technické derogační ustanovení bez vlastního normativního obsahu; praktický dopad je dnes minimální (úklid duplicit).
+
+#### H. Praktický závěr
+
+§ 191 je technické derogační ustanovení rušící duplicitní čl. X zákona č. 264/1992 Sb. Po 1. 4. 2002 z tohoto článku nelze nic dovozovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se nárok o čl. X zákona č. 264/1992 Sb. (zrušen)?
+- [ ] Existuje platná úprava téže otázky v ZSS?
+- [ ] Nejde o poměr vzniklý před účinností derogace?
+
+**Typicky rozhodné důkazy / podklady:** znění § 191, původní text čl. X, datum účinnosti ZSS.
+
 ### Část VII — Změna zákona č. 171/1993 Sb. (§ 192)
 
 > **§ 192**
@@ -1945,6 +3769,39 @@ Původní části IV a V (změna zákona č. 41/1993 Sb. o ověřování shody o
 > *V zákoně č. 171/1993 Sb., kterým se mění a doplňuje občanský soudní řád, se čl. III zrušuje.*
 
 **Výklad:** Zrušení článku III novely OSŘ z r. 1993, který obsahoval přechodná pravidla, jejichž platnost vypršela.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník odvolacího řízení po roce 2002 odkazuje na přechodné pravidlo v čl. III zákona č. 171/1993 Sb. (novela OSŘ). Soud namítá, že čl. III byl § 192 ZSS zrušen a jeho přechodná pravidla již byla vyčerpána. Důkazy: znění § 192, znění čl. III novely OSŘ z r. 1993.
+
+**2. Právní otázka.** Lze po 1. 4. 2002 aplikovat přechodné pravidlo čl. III zákona č. 171/1993 Sb.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 192 — v zákoně č. 171/1993 Sb. se čl. III zrušuje.
+- *Související ustanovení téhož zákona:* § 197 odst. 1 (účinnost derogace).
+- *Související předpisy:* zákon č. 171/1993 Sb. (novela OSŘ); občanský soudní řád.
+- *Judikatura:* obecný princip, že vyčerpané přechodné ustanovení pozbývá praktického významu a po derogaci je neaplikovatelné.
+
+**4. Subsumpce.** § 192 ruší čl. III, který obsahoval přechodná pravidla, jejichž časová působnost již skončila. Po derogaci jej nelze aplikovat.
+
+**5. Řešení.** Z čl. III nelze po 1. 4. 2002 nic dovozovat — byl zrušen a fakticky vyčerpán. Námitka soudu je správná.
+
+**6. Varianty.** Šlo-li by o poměr plně podléhající přechodnému pravidlu před jeho vyčerpáním a derogací, mohlo by být relevantní intertemporální posouzení — to však u vyčerpaných pravidel již nepřipadá v úvahu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přechodné pravidlo dosud nepozbylo účinků." Neutralizace: čl. III byl výslovně zrušen a jeho časová působnost vypršela.
+- *Slabé místo:* ryze technické a dnes obsolentní ustanovení bez vlastního normativního obsahu.
+
+#### H. Praktický závěr
+
+§ 192 je technické derogační ustanovení rušící vyčerpané přechodné pravidlo čl. III novely OSŘ z r. 1993. Bez praktického dopadu po 1. 4. 2002.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se argument o čl. III zákona č. 171/1993 Sb. (zrušen)?
+- [ ] Bylo přechodné pravidlo již časově vyčerpáno?
+
+**Typicky rozhodné důkazy / podklady:** znění § 192, původní text čl. III, datum účinnosti ZSS.
 
 ### Část VIII — Změna zákona č. 292/1993 Sb. (§ 193)
 
@@ -1954,6 +3811,39 @@ Původní části IV a V (změna zákona č. 41/1993 Sb. o ověřování shody o
 
 **Výklad:** Zrušení článku II — měnil zrušený zákon č. 335/1991 Sb. (sám zrušený § 186 odst. 1), takže norma byla bezpředmětná.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník odkazuje na čl. II zákona č. 292/1993 Sb., který novelizoval (mj.) zákon č. 335/1991 Sb. o soudech a soudcích. Protistrana namítá dvojí bezpředmětnost: jednak byl novelizovaný zákon č. 335/1991 Sb. zrušen § 186 odst. 1 ZSS, jednak byl sám čl. II zrušen § 193. Důkazy: znění § 193, § 186 odst. 1, čl. II zákona č. 292/1993 Sb.
+
+**2. Právní otázka.** Má čl. II zákona č. 292/1993 Sb. po účinnosti ZSS jakýkoli normativní význam?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 193 — v zákoně č. 292/1993 Sb. se čl. II zrušuje.
+- *Související ustanovení téhož zákona:* § 186 odst. 1 (zrušení zákona č. 335/1991 Sb. — předmětu novelizace čl. II).
+- *Související předpisy:* zákon č. 292/1993 Sb. (novela trestního řádu, zákona o bankách a zákona o soudech a soudcích).
+- *Judikatura:* obecný princip, že novelizační ustanovení pozbývá smyslu zrušením novelizovaného předpisu (konzumovaná, resp. bezpředmětná norma).
+
+**4. Subsumpce.** Čl. II měnil zákon č. 335/1991 Sb., který byl § 186 odst. 1 zrušen. Novelizační článek tím ztratil předmět; § 193 jej navíc výslovně zrušil. Norma je dvojnásob bezpředmětná.
+
+**5. Řešení.** Z čl. II nelze po 1. 4. 2002 nic dovozovat. Námitka protistrany je správná. Jde o legislativně-technický úklid bezpředmětného novelizačního ustanovení.
+
+**6. Varianty.** Smysluplná aplikace by připadala v úvahu jen ve vztahu k poměrům vzniklým za účinnosti zákona č. 335/1991 Sb. před jeho zrušením, a to v rámci přechodných pravidel, nikoli věcné aplikace čl. II.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Čl. II měl i jiné, dosud platné účinky." Neutralizace: jeho účinky vůči zákonu č. 335/1991 Sb. byly konzumovány a zákon byl zrušen; § 193 ruší zbytek.
+- *Slabé místo:* ryze technické ustanovení; praktický význam dnes nulový.
+
+#### H. Praktický závěr
+
+§ 193 ruší bezpředmětný čl. II zákona č. 292/1993 Sb., který novelizoval mezitím zrušený zákon č. 335/1991 Sb. Bez praktického dopadu po 1. 4. 2002.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se argument o čl. II zákona č. 292/1993 Sb. (zrušen, bezpředmětný)?
+- [ ] Byl novelizovaný zákon č. 335/1991 Sb. zrušen (§ 186 odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** znění § 193, § 186 odst. 1, původní text čl. II.
+
 ### Část IX — Změna zákona č. 202/1997 Sb. (§ 194)
 
 > **§ 194**
@@ -1961,6 +3851,39 @@ Původní části IV a V (změna zákona č. 41/1993 Sb. o ověřování shody o
 > *V zákoně č. 202/1997 Sb., kterým se mění a doplňuje občanský soudní řád a kterým se mění zákon č. 436/1991 Sb., o některých opatřeních v soudnictví, o volbách přísedících, jejich zproštění a odvolání z funkce a o státní správě soudů České republiky, ve znění pozdějších předpisů, se čl. II zrušuje.*
 
 **Výklad:** Stejná logika — zrušený článek měnil zákon č. 436/1991 Sb. (rovněž zrušený § 186 odst. 4).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník se dovolává čl. II zákona č. 202/1997 Sb., který novelizoval zákon č. 436/1991 Sb. o státní správě soudů. Protistrana namítá, že čl. II byl § 194 zrušen a novelizovaný zákon č. 436/1991 Sb. byl zrušen § 186 odst. 4. Důkazy: znění § 194, § 186 odst. 4, čl. II zákona č. 202/1997 Sb.
+
+**2. Právní otázka.** Má čl. II zákona č. 202/1997 Sb. po účinnosti ZSS normativní význam?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 194 — v zákoně č. 202/1997 Sb. se čl. II zrušuje.
+- *Související ustanovení téhož zákona:* § 186 odst. 4 (zrušení zákona č. 436/1991 Sb. — předmětu novelizace).
+- *Související předpisy:* zákon č. 202/1997 Sb. (novela OSŘ a zákona č. 436/1991 Sb.).
+- *Judikatura:* obecný princip bezpředmětnosti novelizačního ustanovení po zrušení novelizovaného předpisu.
+
+**4. Subsumpce.** Čl. II měnil zákon č. 436/1991 Sb., zrušený § 186 odst. 4. Novelizační článek tím pozbyl předmět a § 194 jej výslovně zrušil. Norma je bezpředmětná.
+
+**5. Řešení.** Z čl. II nelze po 1. 4. 2002 nic dovozovat. Námitka protistrany je správná; jde o legislativně-technický úklid.
+
+**6. Varianty.** Relevance by připadala v úvahu jen ve vztahu k poměrům vzniklým za účinnosti zákona č. 436/1991 Sb. před jeho zrušením, a to v rámci přechodných pravidel.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Čl. II měl dosud platné účinky vůči OSŘ." Neutralizace: § 194 ruší jen čl. II ve vztahu k zákonu č. 436/1991 Sb.; změny OSŘ provedené týmž zákonem zůstávají v textu OSŘ, neřídí se však zrušeným čl. II.
+- *Slabé místo:* technické ustanovení bez samostatného dopadu; dnes obsolentní.
+
+#### H. Praktický závěr
+
+§ 194 ruší bezpředmětný čl. II zákona č. 202/1997 Sb., novelizující mezitím zrušený zákon č. 436/1991 Sb. Bez praktického dopadu po 1. 4. 2002.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se argument o čl. II zákona č. 202/1997 Sb. (zrušen)?
+- [ ] Byl novelizovaný zákon č. 436/1991 Sb. zrušen (§ 186 odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** znění § 194, § 186 odst. 4, původní text čl. II.
 
 ### Část X — Změna zákona č. 30/2000 Sb. (§ 195)
 
@@ -1970,6 +3893,40 @@ Původní části IV a V (změna zákona č. 41/1993 Sb. o ověřování shody o
 
 **Výklad:** Zrušení článku VII — měl přechodný charakter k reformě OSŘ z r. 2000, byl již vyčerpán.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník v řízení zahájeném po roce 2002 dovozuje výhodu z přechodného pravidla čl. VII zákona č. 30/2000 Sb. (velká novela OSŘ). Soud namítá, že čl. VII byl § 195 zrušen a jeho přechodná působnost byla vyčerpána. Důkazy: znění § 195, čl. VII zákona č. 30/2000 Sb., datum zahájení řízení.
+
+**2. Právní otázka.** Lze po 1. 4. 2002 aplikovat přechodné pravidlo čl. VII zákona č. 30/2000 Sb.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 195 — v zákoně č. 30/2000 Sb. se čl. VII zrušuje.
+- *Související ustanovení téhož zákona:* § 197 odst. 1 (účinnost derogace).
+- *Související předpisy:* zákon č. 30/2000 Sb. (velká novela OSŘ); občanský soudní řád.
+- *Judikatura:* obecný princip neaplikovatelnosti vyčerpaného a posléze zrušeného přechodného ustanovení.
+
+**4. Subsumpce.** § 195 ruší čl. VII, který obsahoval přechodná pravidla k reformě OSŘ z r. 2000; jejich časová působnost již skončila. Po derogaci je nelze aplikovat.
+
+**5. Řešení.** Z čl. VII nelze po 1. 4. 2002 nic dovozovat. Soud aplikuje platné znění OSŘ. Námitka soudu je správná.
+
+**6. Varianty.** Pro řízení zahájená v přechodném okně před vyčerpáním pravidla by se mohlo uplatnit intertemporální posouzení — to však u řízení zahájených později nepřipadá v úvahu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Přechodné pravidlo dosud chrání dříve zahájená řízení." Neutralizace: to by platilo jen pro řízení v původním přechodném okně; čl. VII byl zrušen a vyčerpán.
+- *Slabé místo:* ryze technické ustanovení; praktický dopad dnes nulový.
+
+#### H. Praktický závěr
+
+§ 195 je technické derogační ustanovení rušící vyčerpané přechodné pravidlo čl. VII velké novely OSŘ z r. 2000. Bez praktického dopadu po 1. 4. 2002.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se argument o čl. VII zákona č. 30/2000 Sb. (zrušen)?
+- [ ] Bylo přechodné pravidlo již časově vyčerpáno?
+- [ ] Kdy bylo řízení zahájeno?
+
+**Typicky rozhodné důkazy / podklady:** znění § 195, původní text čl. VII, datum zahájení řízení.
+
 ### Část XI — Změna exekučního řádu (§ 196)
 
 > **§ 196**
@@ -1977,6 +3934,41 @@ Původní části IV a V (změna zákona č. 41/1993 Sb. o ověřování shody o
 > *V zákoně č. 120/2001 Sb., o soudních exekutorech a exekuční činnosti (exekuční řád) a o změně dalších zákonů, se část jedenáctá zrušuje.*
 
 **Výklad:** Exekuční řád (EŘ) obsahoval ve své „části jedenácté" změny zákonů, které byly nyní zařazeny do ZSS. Část jedenáctá EŘ se tak duplikovala s novou úpravou ZSS a byla zrušena.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník exekučního řízení po roce 2002 odkazuje na ustanovení obsažená v „části jedenácté" zákona č. 120/2001 Sb. (exekuční řád), z níž dovozuje určité oprávnění týkající se soudnictví. Protistrana namítá, že část jedenáctá EŘ byla § 196 ZSS zrušena, neboť se duplikovala s úpravou zařazenou do ZSS. Důkazy: znění § 196, původní text části jedenácté EŘ, datum účinnosti ZSS.
+
+**2. Právní otázka.** Lze po 1. 4. 2002 aplikovat ustanovení části jedenácté zákona č. 120/2001 Sb. (exekuční řád)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 196 — v zákoně č. 120/2001 Sb. se část jedenáctá zrušuje.
+- *Související ustanovení téhož zákona:* § 186 (hlavní zrušovací ustanovení); § 197 odst. 1 (účinnost).
+- *Související předpisy:* zákon č. 120/2001 Sb., exekuční řád (část jedenáctá — změnová ustanovení); předpisy o soudnictví, jejichž změny EŘ obsahoval.
+- *Judikatura:* obecný princip, že duplicitní změnová ustanovení po zařazení téže materie do nového kodexu pozbývají smyslu a derogací zanikají.
+
+**4. Subsumpce.** § 196 ruší část jedenáctou EŘ, jejíž obsah (změny zákonů týkajících se soudnictví) byl zařazen do ZSS. Po derogaci nelze z této části EŘ nic dovozovat; rozhodná je úprava ZSS.
+
+**5. Řešení.** Z části jedenácté EŘ nelze po 1. 4. 2002 nic dovozovat — byla zrušena. Účinky příslušné materie nese ZSS. Námitka protistrany je správná.
+
+**6. Varianty.** (a) Vlastní exekuční (procesní) úprava EŘ zrušením části jedenácté dotčena není — ruší se jen její „část jedenáctá" obsahující změnová ustanovení. (b) Pro poměry vzniklé před účinností derogace by mohlo být relevantní intertemporální posouzení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zrušením části jedenácté je dotčena celá úprava exekucí." Neutralizace: § 196 ruší výslovně jen část jedenáctou (změnová ustanovení), nikoli vlastní procesní úpravu EŘ.
+- *Protiargument:* „Materie zanikla bez náhrady." Neutralizace: byla zařazena (konsolidována) do ZSS — kontinuita úpravy je zachována.
+- *Slabé místo:* nutnost odlišit zrušenou „část jedenáctou" od ostatních (platných) částí exekučního řádu.
+
+#### H. Praktický závěr
+
+§ 196 odstraňuje duplicitu tím, že ruší část jedenáctou exekučního řádu, jejíž změnová ustanovení byla zařazena do ZSS. Vlastní procesní úprava EŘ zůstává nedotčena.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Opírá se argument o (zrušenou) část jedenáctou EŘ, nebo o jeho platné části?
+- [ ] Je příslušná materie nyní upravena v ZSS?
+- [ ] Nejde o poměr vzniklý před účinností derogace?
+
+**Typicky rozhodné důkazy / podklady:** znění § 196, původní text části jedenácté EŘ, aktuální úprava věci v ZSS.
 
 ---
 
@@ -2017,6 +4009,41 @@ Zákon č. 6/2002 Sb. byl podepsán třemi nejvyššími ústavními činiteli:
 - **Miloš Zeman** — předseda vlády ČR.
 
 Tato kombinace ústavních činitelů odpovídala situaci konce roku 2001 a začátku roku 2002 (před parlamentními volbami z června 2002, po nichž se vláda i sněmovna změnily).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Soudce byl v roce 2003 jmenován do funkce na dobu určitou (tzv. „soudce na zkušební dobu") podle § 69 ZSS v jeho původním znění. Po nálezu Ústavního soudu, který institut „soudce na zkoušku" označil za neslučitelný s nezávislostí soudce, namítá, že jeho jmenování mělo být od počátku na dobu neurčitou. Důkazy: jmenovací akt, znění § 69 a § 197 odst. 2 ZSS, nález ÚS k institutu soudce na dobu určitou.
+
+**2. Právní otázka.** Bylo časově omezené jmenování soudce podle § 69 ZSS ústavně přípustné a do kdy mohl být tento institut vůbec aplikován?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 197 odst. 1 (účinnost ZSS k 1. 4. 2002) a odst. 2 (§ 69 pozbývá účinnosti dnem 31. 12. 2009).
+- *Související ustanovení téhož zákona:* § 69 (v původním znění — jmenování soudce na dobu určitou, „zkušební doba").
+- *Související předpisy:* čl. 82 odst. 1 a 2 Ústavy (nezávislost soudce; jmenování bez časového omezení); čl. 93 odst. 1 Ústavy.
+- *Judikatura:* plenární nález Ústavního soudu k institutu „soudce na zkoušku" (institut časově omezeného jmenování soudce je neslučitelný s ústavní zárukou nezávislosti — soudci jsou jmenováni bez časového omezení); v komentáři odkazováno na Pl. ÚS 18/01.
+
+**4. Subsumpce.** § 197 odst. 1 stanoví účinnost ZSS k 1. 4. 2002. § 197 odst. 2 časově omezil § 69 do 31. 12. 2009. Institut „soudce na zkoušku" byl ústavně problematický a ÚS jej zpochybnil; zákonodárce jej derogačním datem definitivně ukončil. Od 1. 1. 2010 jsou všichni soudci jmenováni na dobu neurčitou.
+
+**5. Řešení.** Jmenování soudce na dobu určitou bylo ústavně neudržitelné; v rozsahu, v němž ÚS § 69 zrušil, nemělo časové omezení obstát a jmenování je nutno vykládat jako na dobu neurčitou. § 197 odst. 2 navíc institut definitivně ukončil k 31. 12. 2009. Soudce v námitce zpravidla uspěje (jmenování bez časového omezení).
+
+**6. Varianty.** (a) Jmenování provedené po 1. 1. 2010 by již vůbec nemohlo být časově omezené — § 69 pozbyl účinnosti. (b) Pro akty z přechodného období je rozhodující rozsah a účinky derogačního nálezu ÚS k § 69.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zákon umožňoval jmenování na dobu určitou, je tedy platné." Neutralizace: institut byl shledán neústavním (neslučitelnost s čl. 82 Ústavy) a § 197 odst. 2 jej časově ukončil.
+- *Protiargument:* „Derogace k 31. 12. 2009 znamená, že do té doby byl § 69 plně ústavní." Neutralizace: časové omezení účinnosti nevylučuje dřívější zásah ÚS; rozhodující je rozsah nálezu, nikoli jen derogační datum.
+- *Slabé místo:* nutnost přesně vymezit, v jakém rozsahu a od kdy byl § 69 nálezem ÚS dotčen, ve vztahu ke konkrétnímu jmenovacímu aktu.
+
+#### H. Praktický závěr
+
+§ 197 stanoví účinnost ZSS k 1. 4. 2002 a derogaci ústavně problematického § 69 (soudce na dobu určitou) k 31. 12. 2009. Od 1. 1. 2010 jsou soudci jmenováni výhradně na dobu neurčitou, v souladu s čl. 82 Ústavy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo jmenování soudce provedeno za účinnosti § 69 (před 31. 12. 2009)?
+- [ ] Je časové omezení jmenování v souladu s nálezem ÚS a čl. 82 Ústavy?
+- [ ] Po 1. 1. 2010: jmenování může být jen na dobu neurčitou.
+
+**Typicky rozhodné důkazy / podklady:** jmenovací akt soudce, znění § 69 a § 197 odst. 2, nález ÚS k institutu soudce na dobu určitou.
 
 ---
 
