@@ -16,3 +16,7 @@
 
 ## Vazba
 [Ústava 1/1993](/home/vojtech/Komentar-Ustava-Listina-1-2-1993/) Čl. 81-96, [ZSZ 283/1993](/home/vojtech/Komentar-ZSZ-283-1993/) (státní zastupitelství — paralela).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
