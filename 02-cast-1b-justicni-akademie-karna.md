@@ -169,6 +169,54 @@ Bezúhonnost (§ 61) vylučuje každé dosud **nezahlazené** odsouzení za tres
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=16a29a6e568b80ccf076 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 61 — Funkční období
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudci jsou jmenováni do funkce bez časového omezení.
+>
+> (2) Přísedící jsou voleni do funkce na dobu 4 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16a29a6e568b80ccf076 -->
+
 ### § 62 — Slib soudce a přísedícího
 
 > **§ 62**
@@ -234,6 +282,62 @@ Slib soudce je **konstitutivní** akt; jeho odmítnutí nebo složení s výhrad
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aa9dc97cbb7c6e25c7a9 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 62 — Slib
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudci po jmenování do funkce a přísedící po zvolení do funkce skládají tento slib: „Slibuji na svou čest a svědomí, že se budu řídit právním řádem České republiky, že jej budu vykládat podle svého nejlepšího vědomí a svědomí a že v souladu s ním budu rozhodovat nezávisle, nestranně a spravedlivě.“.
+>
+> (2) Složení slibu se neopakuje, byl-li přísedící zvolen znovu.
+>
+> (3) Slib skládají
+>
+>   - a) soudci do rukou prezidenta republiky,
+>
+>   - b) přísedící do rukou předsedy soudu, k němuž byli zvoleni.
+>
+> (4) Odmítnutí složení slibu nebo jeho složení s výhradou má za následek, že se na soudce hledí, jako by nebyl jmenován a na přísedícího jako by nebyl zvolen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa9dc97cbb7c6e25c7a9 -->
+
 ### § 63 — Slib soudce Nejvyššího soudu a Nejvyššího správního soudu
 
 > **§ 63**
@@ -290,6 +394,52 @@ Tato delegace ke složení slibu „**do rukou ministra spravedlnosti**" u soudc
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=652608bf3df56e675b4c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 63 — Jmenování soudců
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Soudce jmenuje do funkce prezident republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=652608bf3df56e675b4c -->
+
 ### § 64 — Volba a jmenování přísedících
 
 > **§ 64**
@@ -344,6 +494,56 @@ Přísedící volí zastupitelstvo, předseda soudu má jen konzultační vyjád
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=193927c6e932757d0b13 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 64
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Přísedící volí zastupitelstva krajů, jejichž území je alespoň zčásti v obvodu příslušného krajského soudu. V hlavním městě Praze volí přísedící Městského soudu v Praze zastupitelstvo hlavního města Prahy.
+>
+> (2) Kandidáty do funkce přísedícího navrhují členové příslušného zastupitelstva. K navrženým kandidátům si zastupitelstvo vyžádá vyjádření předsedy příslušného soudu.
+>
+> (3) Přísedícím může být zvolen občan, který je přihlášen k trvalému pobytu2) v obvodu zastupitelstva, jímž je do funkce volen, a v obvodu soudu, pro který je do funkce volen, nebo který v těchto obvodech pracuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=193927c6e932757d0b13 -->
+
 ### § 65 — Funkční období přísedících
 
 > **§ 65**
@@ -394,6 +594,54 @@ Počet přísedících stanoví předseda soudu podle objemu agendy a (u obvodu 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0a92762547b9809f68dd generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 65
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Počet přísedících, kteří mají být pro příslušný krajský soud zvoleni, stanoví předseda příslušného soudu. Při stanovení počtu přísedících je třeba přihlížet k tomu, aby jednotliví přísedící zpravidla nezasedali více než 20 dnů v kalendářním roce.
+>
+> (2) Patří-li do obvodu příslušného soudu území více krajů, stanoví předseda příslušného soudu potřebný počet přísedících zvlášť pro jednotlivá zastupitelstva; přihlíží přitom k počtu obyvatelstva kraje nebo části území v obvodu soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0a92762547b9809f68dd -->
+
 ### § 66 — Výkon funkce přísedícího
 
 § 66 stanoví den, kterým přísedící začne vykonávat funkci. **Skládá-li slib** (typicky při prvotním zvolení), je to den následující po složení slibu. Není-li slib znovu skládán (při opakované volbě), je to den následující po zvolení.
@@ -435,6 +683,54 @@ Funkce přísedícího počíná dnem následujícím po složení slibu (při p
 **Typicky rozhodné důkazy / podklady:** doklad o zvolení (i opakovaném), záznam o složení slibu, rozvrh práce a protokol o složení senátu, kalendář funkčních období.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a0ad2a80c7f09af11d3d generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 66
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Přísedící vykonává svou funkci ode dne následujícího po dni složení slibu. Jestliže slib neskládá (§ 62 odst. 2), vykonává přísedící svou funkci ode dne následujícího po dni zvolení.
+>
+> (2) Osvědčení o zvolení vydá předseda příslušného soudu přísedícímu po složení slibu nebo, jestliže slib neskládá, po opětovném zvolení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 62
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a0ad2a80c7f09af11d3d -->
 
 ### § 67 — Přidělení soudce k soudu
 
@@ -482,6 +778,56 @@ Soudce vykonává funkci **jen** u soudu, k němuž byl přidělen (§ 67). Výk
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o přidělení soudce, případné rozhodnutí o dočasném přidělení/přeložení, rozvrhy práce dotčených soudů, spis napadené věci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=857759b5f7e3c0f257cb generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 67
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Po složení slibu ministr spravedlnosti přidělí soudce na základě jeho předchozího souhlasu k výkonu funkce k určitému okresnímu soudu, nestanoví-li zvláštní právní předpis jinak. Ministr spravedlnosti může výjimečně soudce přidělit na základě jeho předchozího souhlasu k výkonu funkce ke krajskému nebo vrchnímu anebo Nejvyššímu soudu, jestliže vykonával právnickou činnost v případě krajského a vrchního soudu nejméně 8 let a v případě Nejvyššího soudu nejméně po dobu 10 let, pokud jeho vysoké odborné znalosti dávají záruky řádného výkonu funkce u příslušného soudu.
+>
+> (2) Odvolá-li dodatečně soudce svůj předchozí souhlas s přidělením k určitému soudu, hledí se na něho, jako by nebyl jmenován.
+>
+> (3) Při přidělení k výkonu funkce k určitému soudu stanoví ministr spravedlnosti se souhlasem soudce též den jeho nástupu do funkce. Den nástupu do funkce musí být stanoven nejpozději do 3 měsíců od jmenování do funkce; nevysloví-li soudce s nástupem do funkce v této lhůtě souhlas, hledí se na něho, jako by nebyl jmenován.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=857759b5f7e3c0f257cb -->
 
 ### § 68 — Dočasné přidělení soudce
 
@@ -572,6 +918,72 @@ Dočasné přidělení (§ 68) je dočasným nástrojem se souhlasem soudce; po 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=fb4aa74401bc29bbe40c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 68
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce přiděleného k výkonu funkce k určitému soudu podle [[#§ 67|§ 67]] nebo přeloženého k jinému soudu podle [[#§ 71|§ 71]] a [[#§ 72|72]] lze s jeho souhlasem na dobu nejdéle tří let v zájmu řádného výkonu soudnictví dočasně přidělit k jinému soudu, popřípadě v zájmu využití jeho zkušeností k Justiční akademii, nebo na dobu nejdéle 6 měsíců v zájmu využití jeho zkušeností k ministerstvu. Soudce dočasně přidělený k ministerstvu nesmí vykonávat žádnou funkci na ministerstvu, podílet se na rozhodování ministerstva, na nakládání s finančními prostředky státu a na řešení individuálních případů, zejména v oblasti dohledu a personálních záležitostí. K ministerstvu lze soudce opakovaně dočasně přidělit nejdříve po uplynutí 1 roku poté, co skončilo přechozí dočasné přidělení k ministerstvu. K ministerstvu nelze přidělit soudce, který vykonává funkci předsedy nebo místopředsedy soudu.
+>
+> (2) O dočasném přidělení rozhodne
+>
+>   - a) předseda krajského soudu po projednání s předsedou soudu, k němuž je soudce přidělen podle [[#§ 67|§ 67]] nebo přeložen podle [[#§ 71|§ 71]] a [[#§ 72|72]] k výkonu funkce, jde-li o dočasné přidělení soudce k jinému okresnímu soudu v obvodu téhož krajského soudu nebo k příslušnému krajskému soudu a souhlasí-li s dočasným přidělením předseda soudu, k němuž má být soudce dočasně přidělen,
+>
+>   - b) ministr spravedlnosti po projednání s předsedou soudu, k němuž je soudce přidělen podle [[#§ 67|§ 67]] nebo přeložen podle [[#§ 71|§ 71]] a [[#§ 72|72]] k výkonu funkce, jde-li o dočasné přidělení soudce k Justiční akademii,
+>
+>   - c) ministr spravedlnosti se souhlasem předsedy soudu, k němuž je soudce přidělen podle [[#§ 67|§ 67]] nebo přeložen podle [[#§ 71|§ 71]] a [[#§ 72|72]] k výkonu funkce, a po vyjádření příslušné soudcovské rady nebo shromáždění všech soudců, jde-li o dočasné přidělení soudce k ministerstvu,
+>
+>   - d) v ostatních případech ministr spravedlnosti na návrh příslušného předsedy krajského soudu, vrchního soudu, Nejvyššího soudu nebo Nejvyššího správního soudu, k němuž má být soudce dočasně přidělen, po projednání s předsedou soudu, k němuž je soudce přidělen podle [[#§ 67|§ 67]] nebo přeložen podle [[#§ 71|§ 71]] a [[#§ 72|72]] k výkonu funkce; předseda krajského soudu podává návrh též tehdy, jde-li o dočasné přidělení soudce k okresnímu soudu v obvodu jeho působnosti.
+>
+> (3) Soudce dočasně přidělený k jinému soudu má po dobu přidělení
+>
+>   - a) právo na zajištění přiměřeného ubytování na náklady státu v sídle soudu, k němuž byl dočasně přidělen, nelze-li po něm oprávněně požadovat, aby denně konal k výkonu funkce u tohoto soudu cestu z místa svého bydliště,
+>
+>   - b) právo na náhradu za používání jiného než služebního silničního motorového vozidla k cestě z místa svého bydliště k soudu, k němuž byl dočasně přidělen, a zpět, bylo-li to dohodnuto; výše této náhrady se řídí právními předpisy upravujícími náhrady za používání silničních motorových vozidel při pracovních cestách konaných zaměstnanci v pracovním poměru,
+>
+>   - c) právo na náhradu prokázaných jízdních výdajů vynaložených na cestu z místa svého bydliště k soudu, k němuž byl dočasně přidělen, a zpět, nemá-li za vykonanou cestu právo na náhradu podle písmena b).
+>
+> (4) Ustanovení odstavce 3 platí obdobně, byl-li soudce dočasně přidělen k ministerstvu nebo Justiční akademii.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 67, § 71, § 72
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb4aa74401bc29bbe40c -->
+
 ### § 69, 70, 70a — Další případy dočasného přidělení
 
 Zákon dále zakotvuje **stáže** (§ 69 — k soudům vyššího stupně, ke státnímu zastupitelství) a dočasná přidělení k **mezinárodnímu soudu** (§ 70a). Mezinárodní stáž může trvat až **3 roky** a slouží k využití české expertízy v mezinárodních institucích (Soudní dvůr EU, ESLP, IGH apod.).
@@ -613,6 +1025,100 @@ Zákon dále zakotvuje **stáže** (§ 69 — k soudům vyššího stupně, ke s
 **Typicky rozhodné důkazy / podklady:** souhlas soudce, doklad o povaze cílové instituce, rozhodnutí o přidělení a o dočasném zproštění funkce, údaj o předpokládané době.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=298fa278ee56a627e979 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 70
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> K výkonu funkce k Nejvyššímu soudu lze soudce přidělit jen se souhlasem předsedy tohoto soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=298fa278ee56a627e979 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1d3d82d65456e1a49e83 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 70a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Za dočasné přidělení se též považuje, pokud je soudce se svým souhlasem nebo na svou žádost přidělen v zájmu využití zkušeností k orgánu nebo organizaci se sídlem mimo území České republiky, do mírové nebo záchranné operace nebo k humanitární pomoci mimo území České republiky na dobu nepřesahující 5 let nebo jedno funkční období. O dočasném přidělení podle věty první rozhoduje ministr spravedlnosti.
+>
+> (2) Dnem, k němuž vznikla soudci funkce evropského nejvyššího žalobce, je soudce dočasně přidělen k Úřadu evropského veřejného žalobce. Dočasné přidělení trvá po dobu výkonu této funkce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1d3d82d65456e1a49e83 -->
 
 ### § 71–73 — Přeložení soudce
 
@@ -674,6 +1180,160 @@ Přeložení je **trvalou** změnou působiště. Konsenzuální (§ 71) vyžadu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=96a7667e0a60ddbcd6ac generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 71
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce přiděleného k výkonu funkce k určitému soudu lze s jeho souhlasem nebo na jeho žádost přeložit k výkonu funkce na jiný soud.
+>
+> (2) K Nejvyššímu soudu může být přeložen soudce, který má právní praxi po dobu nejméně 10 let a který svými odbornými znalostmi a zkušenostmi dává záruky řádného výkonu této funkce.
+>
+> (3) Ke krajskému nebo vrchnímu soudu může být přeložen soudce, který má právní praxi nejméně 8 let a který svými odbornými znalostmi a zkušenostmi dává záruky řádného výkonu této funkce.
+>
+> (4) Při překládání soudce k soudu vyššího stupně se přihlíží k dosažené odborné úrovni překládaného soudce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=96a7667e0a60ddbcd6ac -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=0412fc3b638f0a6e05d7 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 72
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li zákonem ke změně v organizaci soudů, ke změně příslušnosti soudů nebo ke změně obvodů soudů a nelze-li řádný výkon soudnictví zajistit jinak, lze soudce i bez jeho souhlasu nebo žádosti přeložit na jiný soud.
+>
+> (2) Nestanoví-li zvláštní právní předpis jinak, lze podle odstavce 1 soudce přeložit pouze na jiný soud téhož stupně v rámci obvodu soudu o jeden stupeň vyššího nebo na soud o jeden stupeň nižší v obvodu soudu, k němuž byl soudce přidělen k výkonu funkce, a to nejpozději do 6 měsíců ode dne nabytí účinnosti zákona, který zakládá důvod pro toto přeložení. K vyššímu soudu lze soudce přeložit jen za podmínek uvedených v § 71 odst. 2 a [[#§ 3|3.]]
+>
+> (3) Z téhož důvodu nelze soudce přeložit opakovaně.
+>
+> (4) Soudci, který byl přeložen podle odstavců 1 a [[#§ 2|2]], náleží dosavadní plat podle zvláštního právního předpisu,3) je-li vyšší než plat, který by mu náležel při přeložení podle [[#§ 71|§ 71]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 3, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0412fc3b638f0a6e05d7 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=b3295533474badf2a551 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 73
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) O přeložení soudce rozhodne ministr spravedlnosti po projednání s předsedou soudu, k němuž je soudce překládán, popřípadě s předsedou příslušného krajského soudu, jde-li o přeložení soudce k okresnímu soudu v jeho obvodu, a po projednání s předsedou soudu, z něhož je soudce překládán, popřípadě s předsedou příslušného krajského soudu, jde-li o přeložení soudce okresního soudu v jeho obvodu. Proti tomuto rozhodnutí není odvolání přípustné.
+>
+> (2) Není-li stanoveno jinak, platí pro řízení a rozhodnutí přiměřeně ustanovení [[správního řádu|správního řádu]].
+>
+> (3) K výkonu funkce k Nejvyššímu soudu nebo k Nejvyššímu správnímu soudu lze soudce přeložit jen se souhlasem předsedy tohoto soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b3295533474badf2a551 -->
+
 ## Díl 2 — Postavení soudců a přísedících
 
 ### § 74 — Veřejná funkce, neslučitelnost
@@ -728,6 +1388,54 @@ Funkce soudce je veřejnou funkcí neslučitelnou s jinými funkcemi ve veřejn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1bd430d096b405014962 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 74
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Funkce soudce a přísedícího je veřejnou funkcí.
+>
+> (2) Funkce soudce není slučitelná s funkcemi a činnostmi, o nichž to stanoví zákon. S výjimkou funkce předsedy soudu nebo místopředsedy soudu nesmí soudce současně s výkonem funkce soudce zastávat žádnou jinou funkci ve veřejné správě. Funkce přísedícího není slučitelná s funkcí člena komory Parlamentu, jakož i s jinými činnostmi, o nichž to stanoví zákon.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1bd430d096b405014962 -->
+
 ### § 75 — Hmotné zabezpečení soudců
 
 > **§ 75**
@@ -781,6 +1489,54 @@ Platové poměry jsou upraveny **zákonem č. 236/1995 Sb.**, o platu a dalšíc
 **Typicky rozhodné důkazy / podklady:** znění novely, výpočet dopadu na plat, vývoj platové základny podle zák. č. 236/1995 Sb., důvodová zpráva k úspornému opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e1adc05bdf5e42885d3e generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 75
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Stát zabezpečuje nezávislost soudců též jejich hmotným zabezpečením.
+>
+> (2) Platové poměry soudců upravuje zvláštní právní předpis.3)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1adc05bdf5e42885d3e -->
 
 ### § 76 — Souhlas prezidenta s trestním stíháním
 
@@ -841,6 +1597,54 @@ Souhlas prezidenta republiky chrání **institucionální nezávislost** justice
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=245ca8e8d62fb745c3c1 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 76
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Pro činy spáchané při výkonu funkce soudce nebo v souvislosti s výkonem této funkce lze soudce trestně stíhat nebo vzít do vazby jen se souhlasem prezidenta republiky.
+>
+> (2) Orgán, který zahájil trestní stíhání proti soudci, o tom vyrozumí ministerstvo a předsedu příslušného soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=245ca8e8d62fb745c3c1 -->
+
 ### § 77 — Trestní stíhání přísedícího
 
 § 77 — Přísedící netěží z analogické imunity jako soudce; orgán, který zahájí jeho trestní stíhání, musí pouze **informovat** předsedu soudu a zastupitelstvo, které jej zvolilo. Tento rozdílný režim odráží odlišnou funkční pozici přísedícího (laický prvek, dočasná funkce).
@@ -883,6 +1687,52 @@ Přísedící nepožívá imunity soudce; jeho trestní stíhání nevyžaduje s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5117b7cdf02e2c53403e generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 77
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Orgán, který zahájil trestní stíhání proti přísedícímu, o tom vyrozumí předsedu příslušného soudu a zastupitelstvo, které přísedícího zvolilo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5117b7cdf02e2c53403e -->
+
 ### § 78 — Odpovědnost za škodu a regresní úhrada
 
 § 78 odkazuje na **zákon č. 82/1998 Sb.**, o odpovědnosti za škodu způsobenou při výkonu veřejné moci rozhodnutím nebo nesprávným úředním postupem. Stát odpovídá objektivně (bez ohledu na zavinění). Na soudci může být škoda vymáhána **regresem** jen za podmínek § 18 zákona č. 82/1998 Sb. — typicky při úmyslném zavinění nebo hrubé nedbalosti.
@@ -924,6 +1774,54 @@ Přísedící nepožívá imunity soudce; jeho trestní stíhání nevyžaduje s
 **Typicky rozhodné důkazy / podklady:** zrušující/měnící rozhodnutí, doklad o výplatě odškodnění státem, spis dotčené věci, podklady k posouzení zavinění a mezí výkladu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2cd05d643e8b2152796f generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 78
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Odpovědnost za škodu způsobenou nezákonným rozhodnutím, rozhodnutím o vazbě, trestu nebo ochranném opatření a nesprávným úředním postupem se řídí zvláštním právním předpisem.4)
+>
+> (2) Zvláštní právní předpis4) stanoví, kdy a v jaké míře může být na soudci vymáhána regresní úhrada.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2cd05d643e8b2152796f -->
 
 ### § 79 — Nezávislost soudců a přísedících
 
@@ -982,6 +1880,54 @@ Přísedící nepožívá imunity soudce; jeho trestní stíhání nevyžaduje s
 **Typicky rozhodné důkazy / podklady:** text metodického usměrnění/pokynu, zápisy z porad úseku, kritéria a výsledky hodnocení soudců, korespondence s předsedou soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6c85cc78d8f43a7a1649 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 79
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudci a přísedící jsou při výkonu své funkce nezávislí a jsou vázáni pouze zákonem. Jsou povinni vykládat jej podle svého nejlepšího vědomí a svědomí a rozhodovat v přiměřených lhůtách bez průtahů, nestranně a spravedlivě a na základě skutečností zjištěných v souladu se zákonem.
+>
+> (2) Nikdo nesmí narušovat nebo ohrožovat nezávislost a nestrannost soudců a přísedících.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6c85cc78d8f43a7a1649 -->
 
 ### § 80 — Soudcovská etika a důstojnost funkce
 
@@ -1090,6 +2036,82 @@ Odst. 4 a 5 řeší **mimoslužební chování** — soudce při výkonu politic
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=62812854b7d70a37b7f9 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 80
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce a přísedící je povinen vykonávat svědomitě svou funkci a při výkonu funkce a v občanském životě se zdržet všeho, co by mohlo narušit důstojnost soudcovské funkce nebo ohrozit důvěru v nezávislé, nestranné a spravedlivé rozhodování soudů. Soudce je povinen podávat oznámení o osobním zájmu, o činnostech, majetku, příjmech a závazcích podle zvláštního právního předpisu.
+>
+> (2) V zájmu záruk nezávislosti a nestrannosti výkonu soudcovské funkce soudce zejména
+>
+>   - a) je povinen prosazovat a obhajovat nezávislost soudnictví a jeho dobrou pověst,
+>
+>   - b) je povinen chovat se tak, aby nezavdal příčinu ke snížení důvěry v soudnictví a důstojnosti soudcovské funkce,
+>
+>   - c) je povinen odmítnout jakýkoliv zásah, nátlak, vliv, přání nebo žádost, jejichž důsledkem by mohlo být ohrožení nezávislosti soudnictví,
+>
+>   - d) se nesmí při výkonu své funkce nechat ovlivnit zájmy politických stran, veřejným míněním a sdělovacími prostředky,
+>
+>   - e) musí vystupovat nezaujatě a ke stranám nebo účastníkům řízení přistupovat bez ekonomických, sociálních, rasových, etnických, sexuálních, náboženských nebo jiných předsudků,
+>
+>   - f) dbá svým chováním o to, aby jeho nestrannost nebyla důvodně zpochybňována.
+>
+> (3) Soudce je povinen vykonávat svou funkci v souladu se zájmem na řádném výkonu soudnictví. Při své rozhodovací činnosti soudce zejména
+>
+>   - a) je povinen poskytnout každému účastníku řízení nebo straně soudního řízení anebo jejich zástupcům plnou možnost k uplatnění jejich práv; nesmí však od nich, s výjimkou případů stanovených zákony o řízení před soudy, jednostranně přijímat nebo jim podávat informace nebo s nimi jednat o skutkové podstatě projednávané věci nebo o procesních otázkách, které na ni mohou mít vliv,
+>
+>   - b) dbá o to, aby jeho rozhodnutí bylo srozumitelně a pečlivě odůvodněno.
+>
+> (4) Soudce je povinen při své činnosti mimo výkon funkce soudce a při výkonu svých politických práv si počínat tak, aby tato činnost neohrožovala nebo nenarušovala důvěru v nezávislé, nestranné a spravedlivé rozhodování soudu nebo nenarušovala důstojnost soudcovské funkce anebo mu nebránila v řádném výkonu funkce soudce.
+>
+> (5) Soudce je povinen ve svém osobním životě svým chováním dbát o to, aby nenarušovalo důstojnost soudcovské funkce a neohrožovalo nebo nenarušovalo důvěru v nezávislé, nestranné a spravedlivé rozhodování soudů. Soudce zejména
+>
+>   - a) nesmí umožnit, aby jeho funkce byla zneužita k prosazování soukromých zájmů,
+>
+>   - b) nesmí působit jako rozhodce nebo zprostředkovatel řešení právního sporu, zastupovat účastníky soudního řízení nebo jako zmocněnec poškozeného nebo zúčastněné osoby v soudním nebo správním řízení, s výjimkou zákonného zastoupení a případů, v nichž půjde o zastupování dalšího účastníka řízení, v němž je účastníkem i sám soudce.
+>
+> (6) Soudce je povinen zachovávat náležitou úctu k ostatním soudcům, jiným osobám vykonávajícím právnická povolání a k ostatním zaměstnancům soudu a k účastníkům nebo stranám soudního řízení. Ve vztahu k zástupcům účastníků nebo zástupcům stran soudního řízení je povinen se zdržet projevů sympatií, náklonnosti nebo negativních postojů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=62812854b7d70a37b7f9 -->
+
 ### § 81 — Mlčenlivost soudce
 
 § 81 zakotvuje **trvalou povinnost mlčenlivosti** soudce o všem, o čem se dozvěděl v souvislosti s výkonem funkce. Tato povinnost přežívá zánik funkce soudce (na rozdíl od podobné povinnosti zaměstnanců). Mlčenlivosti může soudce zprostit **předseda soudu** (resp. v hierarchii vždy předseda vyššího soudu pro nižší funkcionáře; předsedu NS zprošťuje prezident republiky).
@@ -1131,6 +2153,54 @@ Mlčenlivost soudce je **trvalá** a přežívá zánik funkce; zprostit ji mů�
 **Typicky rozhodné důkazy / podklady:** doklad o trvání či zániku funkce, vymezení okruhu dotazovaných skutečností, rozhodnutí předsedy soudu o zproštění mlčenlivosti, procesní spis vedoucí věci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=db9778fd7c2aeac1c091 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 81
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce je povinen i po zániku soudcovské funkce zachovávat mlčenlivost o všem, o čem se dozvěděl v souvislosti s výkonem své funkce, ledaže by byl této povinnosti zproštěn zvláštním právním předpisem nebo osobou k tomu povolanou.
+>
+> (2) Soudce může zprostit povinnosti mlčenlivosti z vážných důvodů předseda soudu; jde-li o předsedu okresního soudu, předseda příslušného krajského soudu, jde-li o předsedu krajského soudu, předseda příslušného vrchního soudu, a jde-li o předsedu vrchního soudu, předseda Nejvyššího soudu. Předsedu Nejvyššího soudu může z vážných důvodů zprostit povinnosti mlčenlivosti prezident republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db9778fd7c2aeac1c091 -->
 
 ### § 82 — Soustavné vzdělávání soudce
 
@@ -1228,6 +2298,54 @@ V praxi je § 82 primárně **povinností soudce** a teprve sekundárně podklad
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f8513979e34f2aeefed6 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 82
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce nese odpovědnost za svou odbornou úroveň při výkonu soudcovské funkce.
+>
+> (2) Soudce je povinen dbát soustavným vzděláváním o prohlubování svých odborných právních a dalších znalostí potřebných pro řádný výkon funkce. K tomu vedle samostatného studia využívá zejména vzdělávací akce, organizované Justiční akademií, případně soudy a vysokými školami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8513979e34f2aeefed6 -->
+
 ### § 83 — Soudce jako lektor
 
 § 83 umožňuje (a pasivně i aktivuje) soudce k **pedagogickému působení** v rámci odborné přípravy soudců, státních zástupců, justičních kandidátů, právních čekatelů a dalších justičních pracovníků. Zákon výslovně **chrání zájem na řádném výkonu soudnictví** — k pedagogické činnosti **mimo justici** (advokáti, notáři, exekutoři, koncipienti) je třeba souhlasu soudce a nesmí být na úkor jeho hlavní činnosti.
@@ -1272,6 +2390,58 @@ V praxi je nutné rozlišit lektorství v justici (§ 83, výkon funkce, bez sou
 **Typicky rozhodné důkazy / podklady:** rozvrh školicích akcí JA, evidence nařízených jednání a nedodělků, doklad o rozsahu a příjmu z externí výuky, oznámení dle § 85a.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e33b9a6352e5ce499b55 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 83
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce přispívá svými znalostmi a zkušenostmi při odborné přípravě a při odborném vzdělávání soudců, státních zástupců, justičních kandidátů, právních čekatelů a dalších zaměstnanců soudů a státních zastupitelství, organizovaném Justiční akademií, ministerstvem, soudem nebo státním zastupitelstvím.
+>
+> (2) Nebrání-li tomu plnění jeho povinností při výkonu soudnictví, může soudce přispívat svými znalostmi a zkušenostmi též při odborné přípravě notářů, advokátů, soudních exekutorů, insolvenčních správců, advokátních koncipientů, notářských koncipientů, notářských kandidátů, exekutorských koncipientů a exekutorských kandidátů.
+>
+> (3) Využít znalostí a schopností soudce k odborné přípravě a k odbornému vzdělávání podle odstavců 1 a [[#§ 2|2]] lze jen s jeho souhlasem.
+>
+> (4) Výkon činností podle odstavců 1 a [[#§ 2|2]] se považuje za výkon soudcovské funkce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e33b9a6352e5ce499b55 -->
 
 ### § 84 — Pracovní vztah soudce
 
@@ -1320,6 +2490,58 @@ Pracovní vztah soudce má specifickou povahu (vzniká nástupem do funkce, kon�
 **Typicky rozhodné důkazy / podklady:** rozhodnutí / rozvrh pracovní pohotovosti, evidence hodin, doklady o provedených úkonech, platové podklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=37efb470218550c3fe2e generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 84
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Pracovní vztah soudce vzniká dnem, který je stanoven jako den nástupu do funkce, a zaniká dnem zániku funkce soudce.
+>
+> (2) Rozvržení pracovní doby, popřípadě pružnou pracovní dobu a její formu v pracovním řádu stanoví předseda soudu pro soudce tak, aby byl u soudu zajištěn řádný výkon soudnictví.
+>
+> (3) K zajištění řádného výkonu soudnictví může předseda soudu nařídit soudci pracovní pohotovost na pracovišti, v místě jeho bydliště nebo na jiném vhodném místě. Pracovní pohotovost na pracovišti může být soudci nařízena v rozsahu nejvýše 400 hodin v kalendářním roce. Při nařizování pracovní pohotovosti předseda soudu dbá o rovnoměrné zatížení všech soudců.
+>
+> (4) Nestanoví-li tento zákon nebo zvláštní právní předpis jinak, použijí se na pracovní vztah soudce přiměřeně ustanovení [[zákoníku práce|zákoníku práce]] a jiných pracovněprávních předpisů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=37efb470218550c3fe2e -->
 
 ### § 85 — Neslučitelnost s placenou činností
 
@@ -1433,6 +2655,56 @@ Oznamovací povinnost dle § 85a vzniká soudci jen tehdy, přesáhne-li hrubý 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=dc7cfd2aa3080cb04306 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 85
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce nesmí ode dne, který je stanoven jako den nástupu do funkce, až do zániku funkce soudce kromě výkonu funkce soudce, funkcionáře soudu, veřejného ochránce práv, ochránce práv dětí nebo jejich zástupce, anebo činností spojených s dočasným přidělením k Justiční akademii, zastávat žádnou jinou placenou funkci ani vykonávat jinou výdělečnou činnost s výjimkou správy vlastního majetku včetně členství v orgánech bytových družstev, společenství vlastníků jednotek a jiných právnických osob, jejichž hlavní předmět činnosti je zaměřen na uspokojování bytových potřeb svých členů, a činnosti vědecké, pedagogické, literární, publicistické, umělecké, aktivního sportovce a činnosti v poradních orgánech ministerstva, vlády a v orgánech komor Parlamentu,5) a to za předpokladu, že taková činnost nenarušuje důstojnost soudcovské funkce nebo neohrožuje důvěru v nezávislost a nestrannost soudnictví.
+>
+> (2) Soudce nesmí ode dne jmenování do funkce až do zániku funkce soudce zastávat funkci ve statutárním, řídícím a kontrolním orgánu podnikající právnické osoby a nesmí být svěřenským správcem nebo další osobou určenou k dohledu nad správou svěřenského fondu, jehož účelem je provozování obchodního závodu.
+>
+> (3) Výkon funkce soudce je neslučitelný s členstvím v politické straně nebo v politickém hnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dc7cfd2aa3080cb04306 -->
+
 ## Oddíl 4 — Kárná odpovědnost soudců a funkcionářů soudu
 
 ### § 86 — Obecné ustanovení
@@ -1495,6 +2767,52 @@ Kárné odpovědnosti dle ZoSS podléhají pouze soudci a vyjmenovaní funkcion�
 **Typicky rozhodné důkazy / podklady:** jmenovací / pracovní akty, pracovní zařazení, evidence pochybení, doklady o postavení dotčené osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0dd0079cbb7c7c9158a8 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 86 — Obecné ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Soudce, předseda soudu, místopředseda soudu, předseda kolegia Nejvyššího soudu nebo Nejvyššího správního soudu jsou kárně odpovědni za kárné provinění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0dd0079cbb7c7c9158a8 -->
 
 ### § 87 — Kárné provinění
 
@@ -1569,6 +2887,54 @@ Kárné provinění soudce má dvě alternativy: zaviněné porušení povinnost
 **Typicky rozhodné důkazy / podklady:** evidence lhůt a doby vyhotovení rozhodnutí, zrušující rozhodnutí instančních soudů, předchozí výtky, protokoly z jednání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=03957472370f5b09e5a0 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 87 — Kárné provinění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Kárným proviněním soudce je zaviněné porušení povinností soudce, jakož i zaviněné chování nebo jednání, jímž soudce narušuje důstojnost soudcovské funkce nebo ohrožuje důvěru v nezávislé, nestranné, odborné a spravedlivé rozhodování soudů.
+>
+> (2) Kárným proviněním předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu je též zaviněné porušení povinností spojených s funkcí předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=03957472370f5b09e5a0 -->
 
 ### § 88 — Kárná opatření
 
@@ -1682,6 +3048,78 @@ Kárná opatření tvoří uzavřený, odstupňovaný katalog; soud volí podle 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0ef158ea111c5741a2ca generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 88 — Kárná opatření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Za kárné provinění podle § 87 odst. 1 lze uložit soudci podle závažnosti kárného provinění některé z těchto kárných opatření:
+>
+>   - a) důtku,
+>
+>   - b) snížení platu až o 30 % na dobu nejvíce 1 roku a při opětovném kárném provinění, jehož se soudce dopustil v době před zahlazením kárného opatření, na dobu nejvíce 2 let,
+>
+>   - c) odvolání z funkce předsedy senátu,
+>
+>   - d) odvolání z funkce soudce.
+>
+> (2) Za kárné provinění podle § 87 odst. 2 lze uložit předsedovi soudu, místopředsedovi soudu, předsedovi kolegia Nejvyššího soudu nebo Nejvyššího správního soudu podle závažnosti kárného provinění některé z těchto kárných opatření:
+>
+>   - a) důtku,
+>
+>   - b) odnětí zvýšení platového koeficientu za výkon funkce předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu na dobu nejvíce 1 roku a při opětovném kárném provinění, jehož se předseda soudu, místopředseda soudu, předseda kolegia Nejvyššího soudu nebo Nejvyššího správního soudu dopustil v době před zahlazením kárného opatření, na dobu nejvíce 2 let,
+>
+>   - c) snížení platu až o 30 % na dobu nejvíce 1 roku a při opětovném kárném provinění, jehož se předseda soudu, místopředseda soudu, předseda kolegia Nejvyššího soudu nebo Nejvyššího správního soudu dopustil v době před zahlazením kárného opatření, na dobu nejvíce 2 let,
+>
+>   - d) odvolání z funkce předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu.
+>
+> (3) Kárné opatření odvolání z funkce předsedy soudu, místopředsedy soudu nebo předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu lze uložit vedle kárného opatření snížení platu.
+>
+> (4) Od uložení kárného opatření lze upustit, jestliže projednání kárného provinění je postačující.
+>
+> (5) Za více kárných provinění téhož soudce, předsedy soudu, místopředsedy soudu nebo předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu, projednaných ve společném řízení, se uloží kárné opatření podle ustanovení vztahujícího se na kárné provinění nejpřísněji postižitelné.
+>
+> (6) Kárné opatření podle odstavce 1 písm. b) a odstavce 2 písm. b) a c) se vůči kárně postiženému soudci nebo předsedovi soudu, místopředsedovi soudu, předsedovi kolegia Nejvyššího soudu nebo Nejvyššího správního soudu uplatní od prvního dne kalendářního měsíce následujícího po dni nabytí právní moci rozhodnutí o uložení kárného opatření. Do doby, po kterou má být uplatněno kárné opatření podle odstavce 1 písm. b) nebo odstavce 2 písm. b) anebo c), se nezahrnuje doba, po kterou kárně postiženému plat nenáleží, nebo souhrn těchto dob.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 87
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0ef158ea111c5741a2ca -->
+
 ### § 88a — Písemná výtka
 
 > **§ 88a**
@@ -1756,6 +3194,60 @@ Písemná výtka je mimosoudní nástroj pro drobná pochybení, který ukládá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=df2f1a5a7b1ee3495f70 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 88a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Drobné nedostatky v práci nebo drobné poklesky v chování může orgán státní správy soudů, který je oprávněn podat návrh na zahájení kárného řízení, vyřídit tím, že je soudci, předsedovi soudu, místopředsedovi soudu, předsedovi kolegia Nejvyššího soudu nebo Nejvyššího správního soudu písemně vytkne, je-li to postačující.
+>
+> (2) Pokud výtku uložil předseda soudu, doručí ji též ministerstvu a předsedovi soudu, který je součástí vyššího článku soustavy soudů, je-li též oprávněn výtku uložit.
+>
+> (3) Soudce, předseda soudu, místopředseda soudu a předseda kolegia Nejvyššího soudu nebo Nejvyššího správního soudu může proti výtce podat do 30 dnů od jejího doručení námitky podle zákona o řízení ve věcech soudců, státních zástupců a soudních exekutorů.
+>
+> (4) Námitky proti výtce může ve prospěch i v neprospěch soudce, předsedy soudu, místopředsedy soudu nebo předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu podat též orgán státní správy soudů, pokud se mu výtka doručuje. Lhůta podle odstavce 3 se počítá od doručení výtky tomuto orgánu.
+>
+> (5) Žaloba proti výtce není přípustná.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=df2f1a5a7b1ee3495f70 -->
+
 ### § 89 — Zánik kárné odpovědnosti
 
 > **§ 89**
@@ -1823,6 +3315,58 @@ Kárná odpovědnost zaniká, není-li do 5 let od spáchání podán kárný n�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aafb33e99aa89570440b generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 89 — Zánik kárné odpovědnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Odpovědnost soudce a předsedy soudu, místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu za kárné provinění zaniká, nebyl-li do 5 let od jeho spáchání podán návrh na zahájení kárného řízení.
+>
+> (2) Lhůta podle odstavce 1 neběží od zahájení do skončení řízení o zpřístupnění protokolu o hlasování vedeného pro týž skutek s touž osobou a od zahájení do skončení řízení o námitkách proti výtce uložené téže osobě pro týž skutek.
+>
+> (3) Lhůta podle odstavce 1 se přerušuje zahájením trestního stíhání vedeného pro týž skutek proti téže osobě. Skončením takového trestního stíhání počíná běžet lhůta nová.
+>
+> (4) Bylo-li kárné řízení vedeno pro týž skutek proti téže osobě na podkladě návrhu na zahájení kárného řízení, kterým navrhovatel navrhl schválení dohody o vině a kárném opatření, a pokud kárný soud svým rozhodnutím vrátil věc navrhovateli, lhůta podle odstavce 1 neskončí dříve než uplynutím 6 měsíců ode dne právní moci takového rozhodnutí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aafb33e99aa89570440b -->
+
 ### § 90 — Odkaz na zvláštní procesní úpravu
 
 § 90 odkazuje na **zákon č. 7/2002 Sb.**, o řízení ve věcech soudců, státních zástupců a soudních exekutorů. Tento zákon upravuje:
@@ -1873,6 +3417,52 @@ Procesní úprava kárného řízení je v zák. č. 7/2002 Sb.; kárným soudem
 **Typicky rozhodné důkazy / podklady:** rozhodnutí kárného senátu NSS, doklad o doručení a právní moci, kárný návrh, případná dohoda o vině a kárném opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2323ae7fa89ab915d4ed generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 90
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Řízení ve věcech kárné odpovědnosti soudců a předsedů soudu, místopředsedů soudu, předsedů kolegia Nejvyššího soudu nebo Nejvyššího správního soudu upravuje zvláštní právní předpis.6)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2323ae7fa89ab915d4ed -->
 
 ## Oddíl 5 — Nezpůsobilost soudce k výkonu funkce
 
@@ -1947,6 +3537,58 @@ Nezpůsobilost soudce má tři taxativní důvody (zdraví, odsouzení za TČ, t
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0d36e488f9cb1e40392c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 91
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Soudce je nezpůsobilý vykonávat soudcovskou funkci, jestliže
+>
+>   - a) mu nepříznivý zdravotní stav dlouhodobě nedovoluje vykonávat jeho funkci,
+>
+>   - b) byl pravomocně odsouzen za trestný čin a takové odsouzení nebylo důvodem k zániku funkce soudce podle § 94 písm. c), jestliže čin, za který byl soudce odsouzen, svou povahou zpochybňuje důvěryhodnost jeho dalšího setrvání v soudcovské funkci, nebo
+>
+>   - c) byl v posledních 5 letech před podáním návrhu na zahájení řízení o způsobilosti soudce vykonávat svou funkci nejméně třikrát pravomocně uznán vinným kárným proviněním, jestliže tato skutečnost zpochybňuje důvěryhodnost jeho dalšího setrvání v soudcovské funkci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 94
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0d36e488f9cb1e40392c -->
+
 ### § 92 — Řízení o nezpůsobilosti
 
 > **§ 92**
@@ -2004,6 +3646,54 @@ O nezpůsobilosti soudce rozhoduje na návrh kárný soud (NSS); návrh podává
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f8da4748d591cdd5046 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 92
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) O tom, že je soudce podle [[#§ 91|§ 91]] nezpůsobilý vykonávat svou funkci, se rozhodne na návrh, který je oprávněn podat ministr spravedlnosti nebo předseda soudu, k němuž byl soudce přidělen nebo přeložen.
+>
+> (2) Řízení o návrhu na zjištění nezpůsobilosti soudce vykonávat z důvodů uvedených v [[#§ 91|§ 91]] upravuje zvláštní právní předpis.6)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 91
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f8da4748d591cdd5046 -->
+
 ## Oddíl 6 — Některá ustanovení o postavení přísedícího
 
 ### § 93 — Náhrady přísedícím
@@ -2057,6 +3747,58 @@ Přísedícímu náleží za výkon funkce náhrada mzdy / ušlého výdělku, h
 **Typicky rozhodné důkazy / podklady:** předvolání a protokol/prezenční listina, potvrzení o průměrném výdělku, cestovní doklady, platné znění vyhlášky č. 44/1992 Sb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f1764452a6d913ac8911 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 93 — Náhrady za vykonávání funkce přísedícího
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Přísedícím, kteří jsou v pracovním poměru nebo v obdobném vztahu, přísluší za dobu, po kterou vykonávají funkci přísedícího nebo plní jiné povinnosti spojené s touto funkcí, náhrada mzdy ve výši průměrného výdělku. Náhradu mzdy je povinen poskytovat stát.
+>
+> (2) Přísedícím, kteří nejsou v pracovním poměru, nahrazuje ušlý výdělek za dobu výkonu funkce přísedícího nebo jiných povinností spojených s touto funkcí stát. Způsob a výši náhrady stanoví ministerstvo vyhláškou.
+>
+> (3) Stát hradí přísedícím hotové výdaje, které vzniknou vykonáváním funkce přísedícího nebo jiných povinností spojených s touto funkcí. Způsob náhrad stanoví ministerstvo vyhláškou.
+>
+> (4) Přísedícím přísluší mimo náhrady podle předchozích odstavců za každý den jednání přiměřená paušální náhrada za výkon jejich funkce. Tuto paušální náhradu vyplácí stát ve výši, kterou určí ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f1764452a6d913ac8911 -->
 
 ## Díl 3 — Zánik funkce soudce a funkce přísedícího
 
@@ -2141,6 +3883,66 @@ Funkce soudce zaniká pouze z taxativně uvedených důvodů (§ 94). Odsouzení
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=acb06bb9b88a4d5a1896 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 94
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Funkce soudce zaniká
+>
+>   - a) uplynutím kalendářního roku, v němž soudce dosáhl věku 70 let,
+>
+>   - b) dnem právní moci rozhodnutí, kterým bylo rozhodnuto, že je z důvodu uvedeného v [[#§ 91|§ 91]] nezpůsobilý vykonávat soudcovskou funkci,
+>
+>   - c) dnem právní moci rozhodnutí, kterým byl odsouzen pro trestný čin spáchaný úmyslně nebo odsouzen k nepodmíněnému trestu odnětí svobody pro trestný čin spáchaný z nedbalosti,
+>
+>   - e) dnem právní moci rozhodnutí, kterým mu bylo uloženo kárné opatření odvolání z funkce soudce [§ 88 odst. 1 písm. d)],
+>
+>   - f) dnem právní moci rozhodnutí, kterým byl soudce omezen ve svéprávnosti,
+>
+>   - g) dnem, kdy soudce pozbyl státní občanství České republiky,
+>
+>   - h) smrtí nebo dnem právní moci rozhodnutí, kterým byl soudce prohlášen za mrtvého.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 91, § 88
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acb06bb9b88a4d5a1896 -->
+
 ### § 95 — Vzdání se funkce soudce
 
 > **§ 95**
@@ -2192,6 +3994,54 @@ Soudce se může funkce vzdát oznámením prezidentovi; funkce zaniká uplynut�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=329b22eafa6048ae3f04 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 95
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce se může své funkce vzdát.
+>
+> (2) Funkce soudce zanikne uplynutím 3 kalendářních měsíců následujících po měsíci, v němž bylo oznámení soudce o vzdání se funkce doručeno prezidentu republiky. Stejnopis oznámení o vzdání se funkce je soudce povinen neprodleně doručit předsedovi příslušného soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=329b22eafa6048ae3f04 -->
+
 ### §§ 96–98 — Zánik a vzdání se funkce přísedícího
 
 §§ 96–98 upravují obdobný režim pro přísedící:
@@ -2240,6 +4090,166 @@ Funkce přísedícího zaniká taxativními důvody (§ 96), odvoláním zastupi
 **Typicky rozhodné důkazy / podklady:** evidence nařízených a zmařených jednání, omluvy, vyjádření přísedícího, usnesení zastupitelstva o odvolání nebo oznámení o vzdání se funkce, doklad o volbě přísedícího.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=feae6c9fd3ae5c306f79 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 96
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Funkce přísedícího zaniká
+>
+>   - a) uplynutím funkčního období, na které byl do funkce zvolen,
+>
+>   - b) dnem právní moci rozhodnutí, kterým byl odsouzen pro trestný čin spáchaný úmyslně nebo odsouzen k nepodmíněnému trestu odnětí svobody pro trestný čin spáchaný z nedbalosti,
+>
+>   - c) dnem právní moci rozhodnutí, kterým byl přísedící omezen ve svéprávnosti,
+>
+>   - d) dnem, kdy přísedící pozbyl státní občanství České republiky,
+>
+>   - e) smrtí nebo dnem právní moci rozhodnutí, kterým byl přísedící prohlášen za mrtvého.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=feae6c9fd3ae5c306f79 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d01354d196dc41fe88d6 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 97
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Na návrh příslušného předsedy soudu může být přísedící ze své funkce odvolán zastupitelstvem, které ho zvolilo, jestliže
+>
+>   - a) závažným způsobem porušil povinnosti přísedícího,
+>
+>   - b) přestal splňovat předpoklady uvedené v § 60 odst. 1 a [[#§ 4|4]],
+>
+>   - c) jeho zdravotní stav mu nedovoluje řádně vykonávat povinnosti přísedícího.
+>
+> (2) Před rozhodnutím o odvolání přísedícího z funkce si zastupitelstvo vyžádá jeho vyjádření.
+>
+> (3) Funkce přísedícího zaniká dnem rozhodnutí zastupitelstva o jeho odvolání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d01354d196dc41fe88d6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=f568834344e8532eb288 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 98
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Přísedící se může své funkce vzdát.
+>
+> (2) Funkce přísedícího zanikne dnem následujícím po dni, v němž bylo oznámení přísedícího o vzdání se funkce doručeno zastupitelstvu, které ho do funkce zvolilo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f568834344e8532eb288 -->
 
 ## Oddíl 2 — Dočasné zproštění výkonu funkce
 
@@ -2342,6 +4352,78 @@ Dočasné zproštění dle § 99 nastává ex lege ve vyjmenovaných případech
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5e79ce0a6198891b2c09 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 99
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudce je dočasně zproštěn výkonu funkce,
+>
+>   - a) byl-li jmenován soudcem Ústavního soudu, a to na dobu výkonu této funkce,
+>
+>   - b) stal-li se soudcem nebo asistentem soudce mezinárodního soudu nebo byl-li pověřen výkonem obdobné funkce u mezinárodního soudu, a to na dobu výkonu této funkce,
+>
+>   - c) byl-li dočasně přidělen k ministerstvu nebo Justiční akademii podle § 68 odst. 1, a to na dobu tohoto dočasného přidělení,
+>
+>   - d) byl-li dočasně přidělen k orgánu nebo organizaci se sídlem mimo území České republiky, do mírové nebo záchranné operace nebo k humanitární pomoci mimo území České republiky podle § 70a odst. 1, a to na dobu tohoto dočasného přidělení.
+>
+> (2) Soudce jmenovaný do funkce evropského nejvyššího žalobce je dnem, k němuž mu vznikla tato funkce, dočasně zproštěn výkonu soudcovské funkce.
+>
+> (3) Soudce zvolený do funkce veřejného ochránce práv, ochránce práv dětí nebo jejich zástupce je dnem, k němuž mu vznikla tato funkce, dočasně zproštěn výkonu soudcovské funkce.
+>
+> (4) Po dobu dočasného zproštění výkonu funkce podle odstavce 1 písm. a), odstavce 2 nebo odstavce 3 soudci plat a další náležitosti spojené s výkonem funkce soudce podle zvláštního právního předpisu3) nenáleží. Po dobu dočasného zproštění funkce podle odstavce 1 písm. b) a d) náleží soudci plat a další náležitosti spojené s výkonem funkce soudce podle zvláštního právního předpisu3), není-li s výkonem funkce u mezinárodního soudu, u orgánu nebo organizace se sídlem mimo území České republiky nebo v mírové nebo záchranné operaci anebo s výkonem funkce v rámci humanitární pomoci mimo území České republiky spojeno poskytování odměny. Po dobu dočasného zproštění výkonu funkce podle odstavce 1 písm. c) náleží soudci plat a další náležitosti spojené s výkonem funkce soudce podle zvláštního právního předpisu3).
+>
+> (5) Soudce dočasně zproštěný výkonu funkce soudce podle odstavce 1 písm. b) a d) má nárok na náhrady nákladů poskytované při výkonu funkce v zahraničí, pokud tyto náklady nehradí ten, u něhož tuto funkci vykonává.
+>
+> (6) Vláda stanoví nařízením náhrady nákladů poskytovaných při výkonu funkce soudce v zahraničí, a to náhradu
+>
+>   - a) zvýšených životních nákladů,
+>
+>   - b) zvýšených vybavovacích výdajů,
+>
+>   - c) jízdních výdajů a výdajů za ubytování,
+>
+>   - d) výdajů spojených s přepravou osobních věcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 68, § 70a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5e79ce0a6198891b2c09 -->
+
 ### § 100 — Dočasné zproštění výkonu funkce ministrem
 
 > **§ 100**
@@ -2425,6 +4507,64 @@ Ministr spravedlnosti může (diskrečně) dočasně zprostit soudce výkonu fun
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6fbc36d9cfafe41efd75 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 100
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministr spravedlnosti může dočasně zprostit výkonu funkce soudce,
+>
+>   - a) který je trestně stíhán, a to do pravomocného skončení trestního stíhání,
+>
+>   - b) je-li kárně stíhán pro takové kárné provinění, pro které je v kárné žalobě navrženo uložení kárného opatření odvolání z funkce, a to na dobu do pravomocného skončení kárného řízení nebo dokud není kárnému soudu doručeno prohlášení soudce, že trvá na projednání věci,
+>
+>   - c) bylo-li z důvodu uvedeného v [[#§ 91|§ 91]] zahájeno řízení o jeho nezpůsobilosti vykonávat soudcovskou funkci, a to na dobu do pravomocného skončení tohoto řízení.
+>
+> (2) Po dobu dočasného zproštění výkonu funkce podle odstavce 1 soudci náleží 50 % platu, na který vznikl soudci ke dni účinnosti dočasného zproštění výkonu funkce a po dobu trvání dočasného zproštění výkonu funkce nárok podle zvláštního právního předpisu.3) Nedošlo-li k zániku funkce, doplatí se soudci zbývající část platu, jestliže by mu na něj jinak vznikl nárok; to neplatí, byl-li soudce pravomocně odsouzen pro trestný čin, bylo-li kárné řízení zastaveno v důsledku vzdání se funkce nebo pokud kárný soud vyslovil, že k zániku funkce by došlo, jestliže by se jí soudce dříve nevzdal.
+>
+> (3) K dočasnému zproštění výkonu soudcovské funkce dojde dnem následujícím po dni, v němž bylo soudci doručeno rozhodnutí o dočasném zproštění, nebyl-li v rozhodnutí uveden den pozdější.
+>
+> (4) Proti rozhodnutí o dočasném zproštění výkonu funkce podle odstavce 1 písm. b) může soudce do 5 pracovních dnů od jeho doručení podat námitky k soudu, příslušnému podle zvláštního právního předpisu ke kárnému řízení;7a) podání námitek nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 91
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6fbc36d9cfafe41efd75 -->
+
 ### § 100a — Dočasné zproštění funkce předsedy/místopředsedy soudu
 
 § 100a (vložen novelou) — ministr spravedlnosti může dočasně zprostit funkce **předsedu nebo místopředsedu soudu** za podmínek § 100 odst. 1 písm. a) a c) — tedy trestní stíhání nebo řízení o nezpůsobilosti. Za dobu zproštění mu **nenáleží zvýšení platového koeficientu** spojené s funkcí.
@@ -2468,6 +4608,58 @@ Ministr může dočasně zprostit předsedu/místopředsedu soudu jeho funkce p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f8100685a133529d772b generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 100a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministr spravedlnosti může dočasně zprostit výkonu funkce předsedu nebo místopředsedu soudu
+>
+>   - a) za podmínek stanovených v § 100 odst. 1 písm. a) a c).
+>
+> (2) Po dobu dočasného zproštění výkonu funkce podle odstavce 1 předsedovi nebo místopředsedovi soudu nenáleží zvýšení platového koeficientu spojené s jeho funkcí podle zvláštního právního předpisu6a). Nedošlo-li k zániku funkce předsedy nebo místopředsedy soudu, doplatí se předsedovi nebo místopředsedovi soudu zbývající část platu, jestliže by mu na něj jinak vznikl nárok; to neplatí, byl-li soudce pravomocně odsouzen pro trestný čin.
+>
+> (3) K dočasnému zproštění výkonu funkce dojde dnem následujícím po dni, v němž bylo předsedovi nebo místopředsedovi soudu doručeno rozhodnutí o dočasném zproštění, nebyl-li v rozhodnutí uveden den pozdější.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 100
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8100685a133529d772b -->
+
 ### § 101 — Dočasné zproštění výkonu funkce přísedícího
 
 § 101 — analogická úprava pro přísedící. Lze jej dočasně zprostit funkce při trestním stíhání nebo při podání návrhu na jeho odvolání (§ 97). O zproštění rozhoduje **předseda příslušného soudu** (nikoli ministr).
@@ -2509,6 +4701,60 @@ Ministr může dočasně zprostit předsedu/místopředsedu soudu jeho funkce p�
 **Typicky rozhodné důkazy / podklady:** usnesení o zahájení trestního stíhání, návrh na odvolání dle § 97, rozvrh práce s přidělením přísedícího, rozhodnutí předsedy soudu o zproštění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1b10716cce649715cef2 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 101 — Dočasné zproštění výkonu funkce přísedícího
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Přísedící může být dočasně zproštěn výkonu své funkce, jestliže
+>
+>   - a) je trestně stíhán, a to do pravomocného skončení trestního stíhání,
+>
+>   - b) byl podán návrh na jeho odvolání, a to na dobu do rozhodnutí o návrhu na odvolání.
+>
+> (2) O dočasném zproštění výkonu funkce přísedícího rozhoduje předseda příslušného soudu.
+>
+> (3) K dočasnému zproštění výkonu funkce přísedícího dojde dnem následujícím po dni, v němž bylo přísedícímu doručeno rozhodnutí o dočasném zproštění, nebyl-li v rozhodnutí uveden den pozdější.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b10716cce649715cef2 -->
 
 ## Díl 4 — Funkcionáři soudu
 
@@ -2586,6 +4832,208 @@ Mimořádně **dlouhé** funkční období předsedy NS (a NSS — z. č. 150/20
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ed794d80dddebe61ca8 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 102
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předsedu Nejvyššího soudu jmenuje z řad soudců prezident republiky.
+>
+> (2) Funkční období předsedy a místopředsedů Nejvyššího soudu je 10 let.
+>
+> (3) Předsedy kolegií a předsedy senátů Nejvyššího soudu jmenuje z řad soudců tohoto soudu předseda Nejvyššího soudu.
+>
+> (4) Předsedy kolegií a předsedy senátů Nejvyššího správního soudu jmenuje ze soudců tohoto soudu předseda Nejvyššího správního soudu.
+>
+> (5) Funkční období předsedů kolegií Nejvyššího soudu a Nejvyššího správního soudu je 5 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ed794d80dddebe61ca8 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=320958bc1c1272690141 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 103
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předsedu vrchního soudu jmenuje z řad soudců na návrh ministra spravedlnosti prezident republiky. Místopředsedy vrchního soudu jmenuje z řad soudců na návrh předsedy vrchního soudu ministr spravedlnosti.
+>
+> (2) Funkční období předsedy a místopředsedy vrchního soudu je 7 let.
+>
+> (3) Předsedy senátů vrchního soudu jmenuje z řad soudců tohoto soudu předseda vrchního soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=320958bc1c1272690141 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=e55a9dcc7e6624557df0 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 104
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předsedu krajského soudu jmenuje z řad soudců na návrh ministra spravedlnosti prezident republiky. Místopředsedy krajského soudu jmenuje z řad soudců na návrh předsedy krajského soudu ministr spravedlnosti.
+>
+> (2) Funkční období předsedy a místopředsedy krajského soudu je 7 let.
+>
+> (3) Předsedy senátů krajského soudu jmenuje z řad soudců tohoto soudu předseda krajského soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e55a9dcc7e6624557df0 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=819020fc4f0393628b64 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 105
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předsedu okresního soudu jmenuje z řad soudců na návrh předsedy krajského soudu ministr spravedlnosti. Místopředsedu nebo místopředsedy okresního soudu jmenuje z řad soudců na návrh předsedy okresního soudu ministr spravedlnosti.
+>
+> (2) Funkční období předsedy a místopředsedy okresního soudu je 7 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=819020fc4f0393628b64 -->
+
 ### § 105a — Zákaz opakovaného jmenování
 
 > **§ 105a**
@@ -2635,6 +5083,54 @@ U **vrchních a krajských soudů** lze předsedu po **5letém intervalu** jmeno
 **Typicky rozhodné důkazy / podklady:** jmenovací akty, data vzniku a zániku funkcí, vyhlášení výběrových řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9a2227af6a8256c9999c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 105a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předsedu soudu nelze opakovaně jmenovat do funkce předsedy téhož soudu. Předsedu vrchního a krajského soudu lze opakovaně jmenovat do funkce předsedy jiného soudu téhož stupně až po uplynutí 5 let ode dne zániku funkce předsedy.
+>
+> (2) Místopředsedu soudu nelze jmenovat opakovaně do funkce místopředsedy téhož soudu dvě po sobě jdoucí funkční období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9a2227af6a8256c9999c -->
 
 ### § 105b — Předpoklady pro funkci předsedy soudu
 
@@ -2689,6 +5185,56 @@ Předseda / místopředseda vrchního, krajského a okresního soudu **absolvuje
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=beca7df01fc0c40db986 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 105b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předsedou a místopředsedou soudu může být jmenován soudce, který svými odbornými znalostmi, profesními zkušenostmi a morálními vlastnostmi dává záruky řádného výkonu funkce.
+>
+> (2) Předpokladem pro jmenování předsedou Nejvyššího soudu, Nejvyššího správního soudu a vrchního soudu je výkon funkce soudce nejméně po dobu 5 let. Předpokladem pro jmenování předsedou krajského soudu je výkon funkce soudce nejméně po dobu 4 let. Předpokladem pro jmenování předsedou okresního soudu je výkon funkce soudce nejméně po dobu 2 let. Předpokladem pro jmenování místopředsedou soudu je výkon funkce soudce po dobu jedné poloviny doby potřebné pro jmenování do funkce předsedy daného stupně soudu.
+>
+> (3) Předseda a místopředseda vrchního, krajského a okresního soudu absolvuje odborný vzdělávací program Justiční akademie zaměřený na oblast řízení soudu, a to nejpozději do 2 let ode dne jmenování do funkce předsedy nebo místopředsedy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=beca7df01fc0c40db986 -->
+
 ### §§ 105c–105e — Výběrové řízení na funkci předsedy
 
 §§ 105c–105e zavádějí formalizované **výběrové řízení** na funkci předsedy:
@@ -2735,6 +5281,168 @@ Tento systém **objektivizuje** výběr předsedů a omezuje prostor pro čistě
 **Typicky rozhodné důkazy / podklady:** vyhlášení výběrového řízení, zápis a hodnocení komise, doklad o losování člena, návrh na jmenování s odůvodněním.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d183884b5a832888b9a2 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 105c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Návrh na jmenování do funkce předsedy vrchního a krajského soudu podává ministr spravedlnosti podle výsledku jím vyhlášeného výběrového řízení.
+>
+> (2) Návrh na jmenování do funkce předsedy okresního soudu podává předseda krajského soudu podle výsledku jím vyhlášeného výběrového řízení.
+>
+> (3) Návrh na jmenování místopředsedy musí být odůvodněný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d183884b5a832888b9a2 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1bda519c3fb3fd47572f generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 105d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ve výběrovém řízení se posuzují předpoklady pro výkon funkce předsedy soudu, záměry uchazeče spojené s výkonem funkce, cíle, kterých chce ve funkci dosáhnout, a konkrétní opatření, která navrhuje k jejich dosažení.
+>
+> (2) Ve výběrovém řízení se zhodnotí také dosavadní rozhodovací činnost soudce, komunikační a organizační dovednosti a přihlédne se ke stážím u soudů vyššího stupně a k případným proběhlým kárným řízením.
+>
+> (3) Pro účely výběrového řízení vypracuje
+>
+>   - a) předseda soudu nebo jím pověřený místopředseda hodnocení soudce a roční statistický výkaz jeho činnosti,
+>
+>   - b) soudcovská rada soudu, ke kterému je uchazeč přidělen, stanovisko a
+>
+>   - c) soudcovská rada soudu, u kterého je funkce obsazována, stanovisko.
+>
+> (4) Postup při vyhlašování výběrového řízení, náležitosti přihlášky a postup při podávání přihlášky, postup při zajišťování stanovisek, výkazu a hodnocení činnosti soudce a jejich náležitosti stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1bda519c3fb3fd47572f -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=df86d27b2c0bb0af897b generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 105e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Komise pro výběrové řízení na funkci předsedy má 5 členů.
+>
+> (2) Členy komise pro výběrové řízení na funkci předsedy vrchního a krajského soudu jsou vrchní ředitel sekce ministerstva, odborník pro oblast organizace práce soudů, státní správy soudů a ekonomiky, předseda nebo jím pověřený místopředseda krajského nebo vrchního soudu, u kterého je funkce předsedy obsazována, předseda nebo jím pověřený místopředseda krajského nebo vrchního soudu, u kterého není funkce předsedy obsazována, a předseda nebo jím pověřený místopředseda Nejvyššího soudu.
+>
+> (3) Členy komise pro výběrové řízení na funkci předsedy okresního soudu jsou vrchní ředitel sekce ministerstva, odborník pro oblast organizace práce soudů, státní správy soudů a ekonomiky, místopředseda krajského soudu, předseda nebo jím pověřený místopředseda okresního soudu, u kterého je funkce předsedy obsazována, a předseda nebo jím pověřený místopředseda jiného okresního soudu.
+>
+> (4) Ve výběrovém řízení na funkci předsedy krajského a okresního soudu je předseda soudu, u kterého není funkce obsazována, určován losem.
+>
+> (5) Formu, obsah, pravidla a způsob vyrozumění o výsledku výběrového řízení stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=df86d27b2c0bb0af897b -->
 
 ### Oddíl 2 — Zánik funkce funkcionáře soudu
 
@@ -2788,6 +5496,52 @@ Po této judikatuře byla úprava změněna: **funkcionář soudu může být od
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ea24e6c4edaa03d7287f generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 106
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Předsedu soudu, místopředsedu soudu, předsedu kolegia Nejvyššího soudu nebo kolegia Nejvyššího správního soudu lze z této funkce odvolat pouze rozhodnutím kárného soudu v kárném řízení podle zvláštního právního předpisu6).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ea24e6c4edaa03d7287f -->
+
 ### § 107 — Odvolání předsedy senátu
 
 § 107 — předsedu senátu lze odvolat **jen na základě kárného opatření** dle § 88 odst. 1 písm. c). Není možné jeho odvolání bez kárného řízení (např. operativní rozhodnutí předsedy soudu).
@@ -2829,6 +5583,54 @@ Po této judikatuře byla úprava změněna: **funkcionář soudu může být od
 **Typicky rozhodné důkazy / podklady:** rozvrh práce, statistika průtahů, kárný návrh a rozhodnutí kárného soudu, interní rozhodnutí předsedy soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=82273596a5ecc3d71d32 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 107
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předseda senátu může být z funkce odvolán jen na základě pravomocného rozhodnutí o uložení kárného opatření podle § 88 odst. 1 písm. c).
+>
+> (2) Funkce uvedená v odstavci 1 zaniká dnem právní moci rozhodnutí o uložení kárného opatření podle § 88 odst. 1 písm. c).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 88
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82273596a5ecc3d71d32 -->
 
 ### § 108 — Další způsoby zániku funkce funkcionáře
 
@@ -2877,6 +5679,62 @@ Zánik funkce funkcionáře **nemá za následek zánik funkce soudce** (odst. 4
 **Typicky rozhodné důkazy / podklady:** jmenovací akty, datum jmenování nového předsedy, evidence úkonů státní správy, rozvrh práce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=55028b188027610d08f7 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 108
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Funkce předsedy a místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu a předsedy senátu dále zaniká
+>
+>   - a) zánikem funkce soudce,
+>
+>   - b) vzdáním se funkce.
+>
+> (2) Funkce předsedy soudu, místopředsedy soudu a předsedy kolegia podle § 102 až 105 zaniká rovněž uplynutím funkčního období. Funkce místopředsedy soudu zaniká rovněž uplynutím 3 měsíců ode dne jmenování nového předsedy soudu; v případě tohoto způsobu zániku funkce místopředsedy soudu se pravidlo pro zákaz opakovaného jmenování do funkce místopředsedy téhož soudu neuplatní.
+>
+> (3) Podle odstavce 1 písm. b) funkce zaniká dnem, v němž bylo oznámení o vzdání se funkce doručeno tomu, kdo soudce do funkce jmenoval.
+>
+> (4) Zánik funkce předsedy nebo místopředsedy soudu, předsedy kolegia Nejvyššího soudu nebo Nejvyššího správního soudu a předsedy senátu nemá za následek zánik funkce soudce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 102
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=55028b188027610d08f7 -->
 
 ## Díl 5 — Justiční kandidáti a výběrové řízení na funkci soudce
 
@@ -2941,6 +5799,58 @@ Zkouška se skládá z **písemné a ústní části** (odst. 3). Písemná zkou
 **Typicky rozhodné důkazy / podklady:** doklad o ekvivalentní zkoušce, jmenovací akty členů komise, protokol o průběhu a výsledku zkoušky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5971ec035ffc09db88ec generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 109
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Odborná justiční zkouška se skládá před zkušební komisí jmenovanou ministrem spravedlnosti. Zkušební komise má 5 členů a skládá se ze soudců, zaměstnanců ministerstva a případně dalších odborníků právní teorie a praxe. Soudci mají ve zkušební komisi většinu.
+>
+> (2) Seznam osob, ze kterých ministr spravedlnosti jmenuje členy zkušební komise, zveřejní ministerstvo na svých internetových stránkách.
+>
+> (3) Odborná justiční zkouška se skládá z písemné a ústní části. Je zaměřena především na odvětví práva, která soudy aplikují při výkonu své působnosti, a na právní předpisy, které se vztahují k organizaci soudů a k postavení a povinnostem soudců.
+>
+> (4) Postup a způsob oznamování termínu odborné justiční zkoušky, náležitosti a způsob podávání přihlášky, formu, obsah, pravidla a způsob vyrozumění o výsledku odborné justiční zkoušky stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5971ec035ffc09db88ec -->
 
 ### § 110 — Asistent soudce a justiční zkouška
 
@@ -3019,6 +5929,58 @@ V případě neúspěchu lze:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ecb10461782cf610201f generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 110
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo umožní asistentovi soudce vykonat odbornou justiční zkoušku, a to nejpozději do 6 měsíců ode dne doručení žádosti.
+>
+> (2) Podmínkou podání žádosti je výkon právní praxe po dobu 3 let, z toho nejméně po dobu 1 roku výkon funkce asistenta soudce.
+>
+> (3) Do doby právní praxe se započítává doba výkonu funkce asistenta soudce, asistenta státního zástupce, právního čekatele, soudce Ústavního soudu, praxe advokátního koncipienta, notářského kandidáta, notářského koncipienta, exekutorského kandidáta, exekutorského koncipienta, vyššího soudního úředníka, činnost zaměstnance ministerstva, který získal vysokoškolské vzdělání řádným ukončením studia v rámci magisterského studijního programu v oblasti práva na vysoké škole v České republice a který se samostatně podílí na tvorbě návrhů obecně závazných právních předpisů, a asistenta Veřejného ochránce práv. Ministerstvo výjimečně může na žádost započítat do doby právní praxe dobu jiné právnické činnosti, a to nejdéle v rozsahu 2 let, jestliže asistent získal při výkonu právní praxe zkušenosti potřebné pro výkon funkce soudce.
+>
+> (4) Ten, kdo při odborné justiční zkoušce neuspěl, může požádat o její opakování nejdříve po uplynutí 3 měsíců ode dne konání odborné justiční zkoušky. Ministerstvo umožní opakování odborné justiční zkoušky do 6 měsíců ode dne doručení žádosti. Požádat o opakování odborné justiční zkoušky lze nejpozději do 2 let ode dne konání odborné justiční zkoušky. Ten, kdo neuspěl ani při opakované odborné justiční zkoušce nebo nepožádal o opakování odborné justiční zkoušky do 2 let ode dne konání odborné justiční zkoušky, může podat novou žádost o vykonání odborné justiční zkoušky po uplynutí 3 let ode dne konání opakované odborné justiční zkoušky nebo po uplynutí 5 let ode dne konání neúspěšné odborné justiční zkoušky, nepožádal-li o její opakování.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ecb10461782cf610201f -->
+
 ### § 111 — Justiční zkouška pro VSÚ a státní zaměstnance
 
 § 111 — vykonat justiční zkoušku mohou rovněž:
@@ -3065,6 +6027,56 @@ Tento režim umožňuje **přechod z legislativní administrativy do justice** z
 **Typicky rozhodné důkazy / podklady:** doklad o vzdělání a praxi, zařazení do platové třídy, služební hodnocení, doklad o úhradě poplatku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c76020d35ae55564e948 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 111
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo umožní vykonat odbornou justiční zkoušku vyššímu soudnímu úředníkovi, který získal vysokoškolské vzdělání řádným ukončením studia v magisterském studijním programu v oblasti práva na vysoké škole v České republice, a soudci Ústavního soudu; [[#§ 110|§ 110]] se použije obdobně.
+>
+> (2) Ministerstvo umožní vykonat odbornou justiční zkoušku občanovi, který získal vysokoškolské vzdělání řádným ukončením studia v magisterském studijním programu v oblasti práva na vysoké škole v České republice, je státním zaměstnancem ve služebním poměru v oboru služby legislativa a právní činnost, je zařazen ve 13. a vyšší platové třídě, vykonává právní praxi v tomto oboru služby a služebním zařazení minimálně 5 let, v posledním služebním hodnocení dosáhl vynikajících výsledků a zaplatil poplatek za konání odborné justiční zkoušky; § 110 odst. 1 a [[#§ 4|4]] se použijí obdobně.
+>
+> (3) Poplatníkem poplatku za konání odborné justiční zkoušky je státní zaměstnanec, který žádá o její konání. Předmětem poplatku je konání odborné justiční zkoušky státním zaměstnancem. Výše poplatku činí 5 000 Kč. Poplatek je splatný při podání žádosti. Správcem poplatku je ministerstvo a poplatek je příjmem státního rozpočtu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 110, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c76020d35ae55564e948 -->
 
 ### Justiční kandidát (§§ 112–117a)
 
@@ -3131,6 +6143,60 @@ Výběrová komise má **5 členů**, soudci mají v ní **většinu** (3+). Tat
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5e66fb6459efd37db1f0 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 112
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Výběrové řízení na pozici justičního kandidáta vyhlašuje předseda krajského soudu se souhlasem ministerstva. Výběrové řízení se skládá z písemné a ústní části a z psychologického vyšetření.
+>
+> (2) Psychologické vyšetření provádí Justiční akademie. Psychologické vyšetření slouží k ověření osobnostních předpokladů pro výkon funkce soudce.
+>
+> (3) Výběrová komise má 5 členů a skládá se ze soudců a zaměstnanců ministerstva. Soudci mají ve výběrové komisi většinu.
+>
+> (4) Seznam soudců a zaměstnanců ministerstva, ze kterých předseda krajského soudu jmenuje členy komise, zveřejní předseda soudu na internetových stránkách soudu.
+>
+> (5) Postup a způsob oznamování termínu výběrového řízení, náležitosti a způsob podávání přihlášky, formu, obsah, pravidla a způsob vyrozumění o výsledku výběrového řízení stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5e66fb6459efd37db1f0 -->
+
 ### § 113 — Slib justičního kandidáta
 
 > **§ 113**
@@ -3180,6 +6246,54 @@ Justiční kandidát skládá slib **do rukou předsedy krajského soudu** (niko
 **Typicky rozhodné důkazy / podklady:** protokol o složení slibu, dokumentace výběrového řízení, pracovní smlouva navazující na slib.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c848918d647381a0c540 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 113
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Justičním kandidátem se může stát jen ten, kdo uspěje ve výběrovém řízení, složí do rukou předsedy krajského soudu slib a splní předpoklady pro výkon funkce soudce s výjimkou věku a výběrového řízení na funkci soudce.
+>
+> (2) Slib justičního kandidáta zní: „Slibuji na svou čest a svědomí, že se budu řídit právním řádem České republiky, že se budu svědomitě připravovat na výkon funkce soudce a že si osvojím zásady soudcovské etiky.“
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c848918d647381a0c540 -->
 
 ### § 114 — Odborná příprava a pracovní poměr
 
@@ -3237,6 +6351,60 @@ Kandidát je vázán **mlčenlivostí** i po skončení pracovního poměru (ods
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=181121c92534b054456c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 114
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Odborná příprava justičního kandidáta trvá 1 rok. Odborná příprava se vykonává v pracovním poměru založeném pracovní smlouvou. Za stát pracovní smlouvu s justičním kandidátem uzavírá a v pracovněprávních vztazích s justičním kandidátem jedná krajský soud. Nestanoví-li tento zákon jinak, řídí se pracovní poměr justičního kandidáta zákoníkem práce.
+>
+> (2) Pracovní poměr se sjedná na dobu určitou v trvání 14 měsíců. Nedosáhne-li doba odborné přípravy v době trvání pracovního poměru délky 1 roku, lze se souhlasem justičního kandidáta pracovní poměr prodloužit o dobu potřebnou k dosažení této délky odborné přípravy, nejdéle však o 6 měsíců. Pracovní poměr s justičním kandidátem se prodlouží o potřebnou dobu, jestliže nedosáhl doby odborné přípravy v trvání 1 roku pro nepřítomnost v práci z důvodu těhotenství nebo péče o nezletilé dítě po dobu mateřské nebo rodičovské dovolené.
+>
+> (3) Justiční kandidát je povinen i po skončení pracovního poměru zachovávat mlčenlivost o všech skutečnostech, které se dozvěděl v souvislosti s výkonem své činnosti, ve stejném rozsahu jako soudce. Zprostit této povinnosti ho může ze závažných důvodů předseda krajského soudu.
+>
+> (4) Do doby odborné přípravy justičního kandidáta se v případě omluvené nepřítomnosti nebo z důvodu překážek v práci na jeho straně započítává nejvýše 70 pracovních dnů.
+>
+> (5) Pracovní poměr justičního kandidáta, který uspěl ve výběrovém řízení na funkci soudce, může být s jeho souhlasem změněn na pracovní poměr na dobu neurčitou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=181121c92534b054456c -->
+
 ### § 115 — Výkon činnosti a hodnocení kandidáta
 
 § 115 stanoví, že kandidát vykonává činnost v souladu se zákonem a s **pokyny předsedy senátu nebo samosoudce**, u nichž koná přípravu. V závěru přípravy předseda krajského soudu vypracuje **hodnocení kandidáta** na základě stanoviska předsedy senátu / samosoudce.
@@ -3278,6 +6446,56 @@ Kandidát je vázán **mlčenlivostí** i po skončení pracovního poměru (ods
 **Typicky rozhodné důkazy / podklady:** písemné hodnocení a stanovisko vedoucího soudce, pracovní výstupy kandidáta, záznamy o průběhu přípravy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=af6ca63d27cb5ebbbee3 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 115
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Justiční kandidát vykonává svoji činnost v souladu se zákonem a s pokyny, které mu udělí předseda senátu nebo samosoudce, u kterého justiční kandidát vykonává odbornou přípravu. Justiční kandidát je oprávněn podílet se na rozhodovací činnosti soudu v rozsahu stanoveném zvláštním právním předpisem pro vyšší soudní úředníky; na jeho postavení se přiměřeně použijí ustanovení tohoto zvláštního právního předpisu upravující postavení vyšších soudních úředníků.
+>
+> (2) V závěru odborné přípravy vyhotoví předseda krajského soudu hodnocení justičního kandidáta. Podkladem pro hodnocení justičního kandidáta je stanovisko předsedy senátu nebo samosoudce, u kterého justiční kandidát vykonával odbornou justiční přípravu.
+>
+> (3) Obsahovou náplň odborné přípravy, způsob a postup při hodnocení justičního kandidáta stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af6ca63d27cb5ebbbee3 -->
 
 ### § 116 — Výběrové řízení na funkci soudce
 
@@ -3336,6 +6554,56 @@ Tato struktura zajišťuje, aby na výběru participovala **celá vrcholná just
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9616223994d18cb9f376 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 116
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Výběrové řízení na funkci soudce vyhlašuje ministr spravedlnosti. Výběrové řízení se skládá z písemné a ústní části. V případě, že u uchazeče nebylo provedeno psychologické vyšetření ve výběrovém řízení na funkci justičního kandidáta, je součástí výběrového řízení také psychologické vyšetření.
+>
+> (2) Psychologické vyšetření provádí Justiční akademie. Psychologické vyšetření slouží k ověření osobnostních předpokladů pro výkon funkce soudce.
+>
+> (3) Výběrová komise má 5 členů. Ministr spravedlnosti jmenuje 2 členy z odborníků z řad zaměstnanců ministerstva nebo orgánů a osob spadajících do okruhu působnosti ministerstva podle zvláštního zákona, 2 členy z řad soudců na návrh příslušného předsedy krajského soudu, a to tak, aby byl jeden ze soudců z okresního soudu a druhý z krajského soudu, a 1 člena z řad soudců na společný návrh předsedy Nejvyššího soudu a předsedy Nejvyššího správního soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9616223994d18cb9f376 -->
+
 ### § 117 — Předpoklady pro výběrové řízení
 
 § 117 — kromě absolvování přípravy justičního kandidáta v posledních **5 letech** lze do výběrového řízení na funkci soudce přihlásit i další uchazeče s **ekvivalentní praxí**:
@@ -3386,6 +6654,62 @@ Tato úprava umožňuje **„laterální vstup**" do soudcovské profese z jiný
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=354cf4fdba2b66796ea2 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 117
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předpokladem pro přihlášení do výběrového řízení je ukončení odborné přípravy justičního kandidáta v posledních 5 letech předcházejících okamžiku podání přihlášky do výběrového řízení. Tato doba se prodlužuje o dobu těhotenství nebo péče o nezletilé dítě po dobu mateřské nebo rodičovské dovolené.
+>
+> (2) Stejné účinky jako odborná příprava justičního kandidáta má při splnění ostatních předpokladů pro výkon funkce soudce podle § 60 odst. 3 s výjimkou úspěšného absolvování výběrového řízení na funkci soudce
+>
+> - a) výkon funkce státního zástupce, praxe advokáta, notáře, soudního exekutora a soudce Ústavního soudu po dobu 5 let,
+>
+> - b) výkon právní praxe nebo vědecké, případně pedagogické činnosti po dobu 10 let v právním odvětví souvisejícím s rozhodovací činností soudů, nebo
+>
+> - c) výkon právní praxe ve služebním poměru v oboru legislativa a právní činnost ve 13. a vyšší platové třídě po dobu 15 let; do této praxe se započítává rovněž výkon právní praxe ve státní správě před 1. červencem 2015 ve 13. a vyšší platové třídě s náplní práce, která odpovídá stávajícímu oboru služby legislativa a právní činnost.
+>
+> (3) Postup a způsob oznamování termínu výběrového řízení, náležitosti a způsob podávání přihlášky, formu, obsah, pravidla a způsob vyrozumění o výsledku výběrového řízení stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 60
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=354cf4fdba2b66796ea2 -->
+
 ### § 117a — Výběr soudců nejvyšších soudů
 
 § 117a — předsedové NS a NSS zveřejňují **pravidla pro výběr** kandidátů na funkci soudce nejvyšších soudů. Tato pravidla mohou stanovit **další požadavky** nad rámec obecných předpokladů (např. doktorát, publikační činnost, znalost cizích jazyků atd.). Pravidla projednávají se shromážděním všech soudců daného soudu.
@@ -3427,6 +6751,54 @@ Tato úprava umožňuje **„laterální vstup**" do soudcovské profese z jiný
 **Typicky rozhodné důkazy / podklady:** text zveřejněných pravidel, zápis z projednání shromážděním soudců, doklady o kvalifikaci uchazeče, dokumentace výběrového řízení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a68c33ce9c7a00692293 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 117a — Výběr soudců na funkci soudců nejvyšších soudů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předseda Nejvyššího soudu a předseda Nejvyššího správního soudu zveřejní na internetových stránkách příslušného soudu po projednání se shromážděním všech soudců pravidla pro výběr kandidátů na funkci soudce Nejvyššího soudu nebo Nejvyššího správního soudu. Tato pravidla stanoví postup při výběru kandidátů a způsob hodnocení kandidátů.
+>
+> (2) Pravidla podle odstavce 1 mohou stanovit v návaznosti na předpoklady pro ustanovení soudcem, pro přihlášení do výběrového řízení na funkci soudce, pro přidělení nebo přeložení k příslušnému soudu a provedení psychologického vyšetření podle § 116 odst. 2 další požadavky, které musí splňovat kandidát na funkci soudce Nejvyššího soudu nebo Nejvyššího správního soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 116
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a68c33ce9c7a00692293 -->
 
 ## HLAVA III — Státní správa soudů
 
@@ -3497,6 +6869,54 @@ Praktickým testem této hranice je například to, zda lze předsedu soudu „*
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=394b9aa646544f67970c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 118 — Úkoly státní správy soudů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Úkolem státní správy soudů je vytvářet soudům podmínky k řádnému výkonu soudnictví, zejména po stránce personální, organizační, hospodářské, finanční a výchovné, a dohlížet způsobem a v mezích tímto zákonem stanovených na řádné plnění úkolů soudům svěřených.
+>
+> (2) Výkon státní správy soudů nesmí zasahovat do nezávislosti soudů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=394b9aa646544f67970c -->
+
 ### § 118a — Databáze rozhodnutí
 
 § 118a — ministerstvo provozuje **veřejně dostupnou Databázi rozhodnutí** okresních, krajských a vrchních soudů (NS a NSS mají vlastní databáze nálezů a stanovisek). Soudy povinně zveřejňují **pravomocná rozhodnutí** ve stanoveném rozsahu. Tato úprava reflektuje princip **veřejnosti soudních rozhodnutí** (čl. 96 odst. 2 Ústavy ČR — rozsudek se vyhlašuje veřejně) a slouží k posílení **právní jistoty** a **přezkoumatelnosti** rozhodovací činnosti.
@@ -3538,6 +6958,54 @@ Databáze rozhodnutí slouží transparentnosti a předvídatelnosti práva, ale
 **Typicky rozhodné důkazy / podklady:** výpis z databáze se spisovými značkami, žádost dle z. č. 106/1999 Sb. a rozhodnutí o ní, aktuální prováděcí pravidla o rozsahu zveřejňování.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f8d6474d4d128a028f27 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 118a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo spravuje a provozuje informační systém veřejné správy Databáze rozhodnutí okresních, krajských a vrchních soudů (dále jen „Databáze“). Databáze je veřejně dostupná způsobem umožňujícím dálkový přístup.
+>
+> (2) Okresní, krajské a vrchní soudy zveřejňují v Databázi pravomocná rozhodnutí, jejichž kategorie, postup při jejich zveřejnění a rozsah, ve kterém se tato rozhodnutí zveřejní, stanoví ministerstvo vyhláškou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8d6474d4d128a028f27 -->
 
 ### § 119 — Orgány státní správy soudů
 
@@ -3595,6 +7063,56 @@ V rozsahu stanoveném zákonem se na státní správě podílejí i **předsedov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aaa6211e46bdc7f29828 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 119 — Orgány státní správy soudů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ústředním orgánem státní správy soudů je ministerstvo.
+>
+> (2) Orgány státní správy soudů jsou předseda a místopředsedové Nejvyššího soudu, předseda a místopředseda Nejvyššího správního soudu a předsedové a místopředsedové vrchních, krajských a okresních soudů.
+>
+> (3) V rozsahu a za podmínek stanovených zákonem se na státní správě soudu podílejí předsedové senátů, ostatní soudci a zaměstnanci působící u příslušného soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aaa6211e46bdc7f29828 -->
+
 ### Díl 2 — Výkon státní správy soudů
 
 ### §§ 120–122 — Rozsah a obecná pravidla výkonu
@@ -3643,6 +7161,158 @@ V rozsahu stanoveném zákonem se na státní správě podílejí i **předsedov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a72d7447c6acf115113c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 120
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo vykonává státní správu vrchních, krajských a okresních soudů v rozsahu stanoveném tímto zákonem buď přímo nebo prostřednictvím předsedů těchto soudů; státní správu okresních soudů může vykonávat též prostřednictvím předsedů krajských soudů.
+>
+> (2) Státní správu Nejvyššího soudu vykonává ministerstvo prostřednictvím předsedy tohoto soudu.
+>
+> (3) Státní správu Nejvyššího správního soudu a její výkon upravuje zvláštní právní předpis.7b)
+>
+> (4) Ve věcech majetku státu a státního rozpočtu vykonává ministerstvo státní správu soudů vždy prostřednictvím jejich předsedů.7c)
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a72d7447c6acf115113c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=249cc3d4e07a87e21b6c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 121
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předseda Nejvyššího soudu a předsedové vrchních, krajských a okresních soudů vykonávají státní správu soudů v rozsahu stanoveném tímto zákonem.
+>
+> (2) Místopředsedové Nejvyššího soudu a místopředsedové vrchních soudů vykonávají státní správu těchto soudů v rozsahu určeném jejich předsedou.
+>
+> (3) Místopředsedové krajského soudu vykonávají státní správu krajského soudu a okresních soudů v jeho obvodu v rozsahu určeném předsedou krajského soudu.
+>
+> (4) Místopředseda, popřípadě místopředsedové okresního soudu vykonávají státní správu tohoto soudu v rozsahu určeném jeho předsedou.
+>
+> (5) Předseda Nejvyššího soudu, vrchního soudu a krajského soudu může při zachování vlastní odpovědnosti pověřit jednotlivými úkony státní správy s jejich souhlasem předsedy senátu a ostatní soudce příslušného soudu; předseda okresního soudu může při zachování vlastní odpovědnosti pověřit jednotlivými úkony státní správy s jejich souhlasem ostatní soudce příslušného soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=249cc3d4e07a87e21b6c -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=5c3d637232b62438312f generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 122
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Orgány státní správy soudů vykonávají v případech stanovených tímto zákonem nebo zvláštním právním předpisem státní správu soudů s přihlédnutím k vyjádřením příslušných soudcovských rad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c3d637232b62438312f -->
+
 ### § 122a — Ředitel správy soudu
 
 § 122a — **ředitel správy soudu** je profesionální manažer, který zajišťuje **provoz soudu** v rozsahu, který mu předseda soudu svěřil. Předseda soudu jej jmenuje a odvolává; ředitel je v **pracovním poměru**. Odpovědnost předsedy jako orgánu státní správy zůstává **nedotčena** — ředitel je provozním vedoucím, nikoli orgánem státní správy soudů.
@@ -3686,6 +7356,54 @@ V rozsahu stanoveném zákonem se na státní správě podílejí i **předsedov
 **Typicky rozhodné důkazy / podklady:** jmenovací akt a pracovní smlouva ředitele, vymezení svěřeného rozsahu provozu, uzavřené smlouvy, organizační řád soudu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6264b76ad48e78dd330b generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 122a — Ředitel správy soudu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ředitel správy soudu v rozsahu stanoveném tímto zákonem zajišťuje provoz soudu a některé další činnosti související s výkonem státní správy soudů; odpovědnost předsedy soudu jako orgánu státní správy soudu tím není dotčena. Předseda soudu si může vyhradit věci, které rozhoduje přímo.
+>
+> (2) Ředitele správy soudu jmenuje a odvolává7d) předseda soudu. Funkce ředitele správy soudu je vykonávána v pracovním poměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6264b76ad48e78dd330b -->
 
 ### §§ 122b–122e — Ochrana osobních údajů soudy
 
@@ -3733,6 +7451,218 @@ V rozsahu stanoveném zákonem se na státní správě podílejí i **předsedov
 **Typicky rozhodné důkazy / podklady:** žádost subjektu údajů, určení pověřence, záznamy o činnostech zpracování, odůvodnění omezení práv, korespondence s dozorovým orgánem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=edc134f083b93ab2f3f1 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 122b — Zpracovávání osobních údajů soudy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Soudy mohou zpracovávat osobní údaje, pokud je to nezbytné pro výkon jejich působnosti. Soudy mohou zpracovávat osobní údaje i k jinému účelu, než pro který byly původně shromážděny.
+>
+> (2) Soudy mohou předávat nebo zpřístupňovat osobní údaje orgánům příslušným k předcházení, vyhledávání a odhalování trestné činnosti a stíhání trestných činů, výkonu trestů a ochranných opatření, zajišťování bezpečnosti České republiky, veřejného pořádku a vnitřní bezpečnosti, včetně pátrání po osobách a věcech. Soudy mohou též předávat nebo zpřístupňovat osobní údaje, které získaly při výkonu své působnosti, orgánům veřejné správy pro plnění úkolů v rámci jejich působnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=edc134f083b93ab2f3f1 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=d24ecc54ace9c80c1a2d generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 122c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Pověřenec pro ochranu osobních údajů (dále jen „pověřenec“) nevykonává činnost ve vztahu ke zpracovávání osobních údajů soudem, které jsou potřebné pro výkon působnosti soudu v oblasti předcházení, vyhledávání a odhalování trestné činnosti a stíhání trestných činů, výkonu trestů a ochranných opatření, zajišťování bezpečnosti České republiky, veřejného pořádku a vnitřní bezpečnosti, včetně pátrání po osobách a věcech, a za účelem projednávání a rozhodování sporů a jiných věcí a pro činnosti s tím nezbytně spojené patřící do jejich pravomoci podle zákonů o občanském soudním řízení, zákonů o soudním řízení správním a v dalších případech stanovených zákonem nebo mezinárodní smlouvou, s níž vyslovil souhlas Parlament, jíž je Česká republika vázána a která byla vyhlášena.
+>
+> (2) Soudy se mohou písemně dohodnout, že úkoly pověřence podle přímo použitelného předpisu Evropské unie upravujícího ochranu osobních údajů12) vykonává pověřenec určený určitým soudem. Soudy a ministerstvo se mohou písemně dohodnout, že tyto úkoly vykonává pověřenec určený ministerstvem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d24ecc54ace9c80c1a2d -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=a418accbba09e3222aca generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 122d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Orgán k tomu určený sleduje soulad postupu soudu s právními předpisy v oblasti ochrany osobních údajů při zpracování osobních údajů, jsou-li zpracovávány v souvislosti s předcházením, vyhledáváním a odhalováním trestné činnosti a stíháním trestných činů, výkonem trestů a ochranných opatření, zajišťováním bezpečnosti České republiky, veřejného pořádku a vnitřní bezpečnosti, včetně pátrání po osobách a věcech, nebo s činností soudů související s projednáváním a rozhodováním sporů a jiných věcí a činnostmi s tím nezbytně spojenými patřícími do jejich pravomoci podle zákonů o občanském soudním řízení, zákonů o soudním řízení správním a v dalších případech stanovených zákonem nebo mezinárodní smlouvou, s níž vyslovil souhlas Parlament, jíž je Česká republika vázána a která byla vyhlášena. Zjistí-li nedostatky, vyrozumí o tom příslušného správce nebo zpracovatele a uvede, jak je napravit.
+>
+> (2) Orgánem podle odstavce 1 se rozumí v případě sledování postupu okresního soudu krajský soud, do jehož obvodu okresní soud patří, v případě sledování postupu krajského soudu vrchní soud, do jehož obvodu krajský soud patří, a v případě sledování postupu vrchního soudu Nejvyšší soud.
+>
+> (3) V případě Nejvyššího soudu a Nejvyššího správního soudu se orgánem podle odstavce 1 rozumí zaměstnanec určený jeho předsedou.
+>
+> (4) Orgán podle odstavce 1 přijímá podněty týkající se zpracování osobních údajů a informuje o způsobu jejich vyřízení tak, aby předcházel ohrožení
+>
+> - a) plnění úkolu v oblasti předcházení, vyhledávání a odhalování trestné činnosti a stíhání trestných činů, výkonu trestů a ochranných opatření, zajišťování bezpečnosti České republiky, veřejného pořádku a vnitřní bezpečnosti, včetně pátrání po osobách a věcech,
+>
+> - b) řízení o přestupku, kázeňském přestupku nebo jednání, které má znaky přestupku,
+>
+> - c) ochrany utajovaných informací, nebo
+>
+> - d) oprávněných zájmů třetí osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a418accbba09e3222aca -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=47db2a0268023af4ce40 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 122e — Omezení některých práv a povinností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení čl. 12 až 22 a v jim odpovídajícím rozsahu čl. 5 nařízení Evropského parlamentu a Rady (EU) 2016/679 se ve vztahu k osobním údajům, které jsou zpracovávány soudy v souvislosti s jejich rozhodovací činností a jinými činnostmi s tím nezbytně spojenými za účelem výkonu jejich pravomoci, nepoužijí, je-li to nezbytné pro zajištění
+>
+> - a) předcházení, vyhledávání a odhalování trestné činnosti a stíhání trestných činů, výkonu trestů a ochranných opatření, zajišťování bezpečnosti České republiky, veřejného pořádku a vnitřní bezpečnosti, včetně pátrání po osobách a věcech,
+>
+> - b) ochrany nezávislosti soudů a soudců,
+>
+> - c) ochrany subjektu údajů nebo práv a svobod druhých, nebo
+>
+> - d) vymáhání soukromoprávních nároků.
+>
+> (2) Soud bez zbytečného odkladu vyrozumí subjekt údajů, který uplatnil práva stanovená v čl. 12 až 22 nařízení Evropského parlamentu a Rady (EU) 2016/679, o uplatnění výjimky podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2016/679 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=47db2a0268023af4ce40 -->
 
 ### Díl 3 — Působnost orgánů státní správy
 
@@ -3783,6 +7713,94 @@ V rozsahu stanoveném zákonem se na státní správě podílejí i **předsedov
 - [ ] Respektuj hranici státní správy vůči nezávislosti rozhodování (§ 79, čl. 82 Ústavy).
 
 **Typicky rozhodné důkazy / podklady:** statistiky a výkazy soudu, protokol o prověrce spisů a úrovně jednání, stížnostní spisy, podnět NS, podklady pro stanovení počtů soudců.
+
+
+<!-- LEGAL-REVISION:BEGIN id=09560f6112c6f5821218 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 123
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo vykonává státní správu Nejvyššího soudu a vrchních, krajských a okresních soudů tím, že
+>
+> - a) zajišťuje chod soudů po stránce organizační, zejména každoročně stanoví s ohledem na množství projednávaných věcí pro každý soud počty soudců, asistentů, vyšších soudních úředníků, soudních tajemníků, vykonavatelů a dalších zaměstnanců u něj působících; u Nejvyššího soudu je stanoví po dohodě s předsedou tohoto soudu a u ostatních soudů po vyjádření příslušného předsedy soudu,
+>
+> - b) zajišťuje způsobem stanoveným tímto zákonem chod soudů po stránce personální,
+>
+> - c) zajišťuje chod soudů tím, že zabezpečuje financování jejich hospodaření a materiálního zabezpečení v rozsahu stanoveném zvláštními právními předpisy a provádí kontroly hospodaření,7e)
+>
+> - d) stanoví krajským soudům v rámci schváleného rozpočtu kapitoly prostředky státního rozpočtu určené na hospodaření krajského soudu a okresních soudů v jeho obvodu minimálně v rozsahu členění závazných ukazatelů daných zákonem o státním rozpočtu,
+>
+> - e) řídí a kontroluje výkon státní správy prováděný předsedy soudů ve věcech majetku státu a státního rozpočtu a stanoví působnost k výkonu státní správy soudů prováděnému předsedy soudů v ostatních věcech,
+>
+> - f) řídí a organizuje odbornou přípravu justičních kandidátů, zejména stanoví pro každý krajský soud počty justičních kandidátů,
+>
+> - g) organizuje a zajišťuje odborné justiční zkoušky,
+>
+> - h) schvaluje statut Justiční akademie a dohlíží na její vzdělávací a jinou činnost,
+>
+> - i) organizuje a řídí odbornou přípravu vyšších soudních úředníků, soudních vykonavatelů a dalších zaměstnanců soudů,
+>
+> - j) koordinuje a usměrňuje odbornou průpravu přísedících k výkonu jejich funkce,
+>
+> - k) sleduje chod práce soudních kanceláří,
+>
+> - l) usměrňuje a řídí využívání informačních technologií,
+>
+> - m) organizuje, řídí a kontroluje zveřejňování soudních rozhodnutí,
+>
+> - n) organizuje, řídí a kontroluje zabezpečení úkolů obranného a civilního nouzového plánování, ochrany utajovaných informací, bezpečnosti osob a majetku, požární ochrany a úkolů bezpečnosti a ochrany zdraví při práci,
+>
+> - o) plní další úkoly, stanoví-li tak tento zákon nebo zvláštní právní předpisy.
+>
+> (2) Ministerstvo sleduje a hodnotí postup vrchních, krajských a okresních soudů v řízení a rozhodování pouze z hlediska dodržování zásad důstojnosti jednání a soudcovské etiky a zda v řízení nedochází ke zbytečným průtahům. K tomuto účelu ministerstvo, a to i s využitím elektronické evidence věcí, vedených u jednotlivých soudů,
+>
+> - a) sleduje a vyhodnocuje stav soudních agend na základě výkazů a justiční statistiky,
+>
+> - b) provádí prověrky soudních spisů a prověrky úrovně soudních jednání,
+>
+> - c) vyřizuje stížnosti fyzických a právnických osob na postup soudů (dále jen „stížnosti“).
+>
+> (3) Ministerstvo sleduje postup vrchních, krajských a okresních soudů při tvorbě a změnách rozvrhu práce, vydané rozvrhy práce a rozdělování věcí podle rozvrhu práce.
+>
+> (4) Získá-li ministerstvo v rámci plnění svých úkolů poznatky o nejednotnosti soudního rozhodování, dává Nejvyššímu soudu podněty k zaujetí stanoviska podle § 14 odst. 3.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=09560f6112c6f5821218 -->
 
 ### §§ 124–127 — Působnost předsedů soudů
 
@@ -3843,7 +7861,465 @@ Specifikem **předsedy krajského soudu** je rovněž:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=811ede49eedfcbdf87f6 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 124
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předseda Nejvyššího soudu vykonává státní správu Nejvyššího soudu tím, že
+>
+> - a) zajišťuje chod soudu po stránce personální a organizační, zejména tím, že zajišťuje řádné obsazení Nejvyššího soudu soudci, asistenty soudců, odbornými a dalšími zaměstnanci a vyřizuje personální věci soudců,
+>
+> - b) dbá o odbornost soudců a vytváří podmínky pro její zvyšování,
+>
+> - c) pečuje o zvyšování odborné úrovně asistentů soudců a ostatních zaměstnanců působících u Nejvyššího soudu,
+>
+> - d) dohlíží na řádný chod soudních kanceláří,
+>
+> - e) zajišťuje poskytování informací soudem podle zvláštního právního předpisu,9)
+>
+> - f) kontroluje činnost ředitele správy Nejvyššího soudu,
+>
+> - g) zajišťuje bezpečnost Nejvyššího soudu a úkoly krizového řízení,
+>
+> - h) plní další úkoly, stanoví-li tak tento zákon nebo zvláštní právní předpisy.
+>
+> (2) Předseda Nejvyššího soudu dbá o důstojnost jednání a dodržování zásad soudcovské etiky v řízeních, vedených u Nejvyššího soudu, a o to, aby v těchto řízeních nedocházelo ke zbytečným průtahům. K tomu účelu, a to i s využitím elektronické evidence věcí, vedených u Nejvyššího soudu,
+>
+> - a) provádí prověrky soudních spisů,
+>
+> - b) dohlíží na úroveň soudních jednání,
+>
+> - c) vyřizuje stížnosti.
+>
+> (3) Předseda Nejvyššího soudu kontroluje postup Nejvyššího soudu při rozdělování věcí podle rozvrhu práce.
+>
+> (4) V rámci úkolů uvedených v odstavci 2 písm. a) a b) podává předseda Nejvyššího soudu ministerstvu podněty ke stížnostem pro porušení zákona, má-li za to, že jsou splněny podmínky podle zákona [[o trestním řízení soudním|o trestním řízení soudním]] ([[trestní řád|trestní řád]]).
+>
+> (5) Ředitel správy Nejvyššího soudu, s výjimkou úkonů, ke kterým je podle tohoto zákona nebo zvláštních právních předpisů oprávněn pouze předseda soudu,
+>
+> - a) zajišťuje provoz soudu po stránce hospodářské, materiální a finanční,
+>
+> - b) vyřizuje personální věci zaměstnanců působících u Nejvyššího soudu s výjimkou soudců,
+>
+> - c) zajišťuje řádný chod soudních kanceláří,
+>
+> - d) plní další úkoly související s výkonem státní správy Nejvyššího soudu podle pokynů předsedy soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=811ede49eedfcbdf87f6 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=1b971c0b7be09c50b170 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 125
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předseda vrchního soudu vykonává státní správu vrchního soudu tím, že
+>
+> - a) zajišťuje chod soudu po stránce personální a organizační, zejména tím, že zajišťuje řádné obsazení soudu vyššími soudními úředníky, soudními tajemníky a dalšími zaměstnanci a vyřizuje personální věci soudců,
+>
+> - b) dbá o odbornost soudců a vytváří podmínky pro její zvyšování,
+>
+> - c) pečuje o zvyšování odborné úrovně vyšších soudních úředníků, soudních tajemníků a ostatních zaměstnanců působících u vrchního soudu,
+>
+> - d) dohlíží na řádný chod soudních kanceláří,
+>
+> - e) zajišťuje poskytování informací soudem podle zvláštního právního předpisu,9)
+>
+> - f) zajišťuje včasné zveřejňování soudních rozhodnutí,
+>
+> - g) kontroluje činnost ředitele správy vrchního soudu,
+>
+> - h) zajišťuje bezpečnost soudu a úkoly krizového řízení,
+>
+> - i) plní další úkoly, stanoví-li tak tento zákon nebo zvláštní právní předpisy.
+>
+> (2) Předseda vrchního soudu dbá o důstojnost jednání a dodržování zásad soudcovské etiky v řízeních, vedených u vrchního soudu, a o to, aby v těchto řízeních nedocházelo ke zbytečným průtahům. K tomu účelu, a to i s využitím elektronické evidence věcí, vedených u vrchního soudu,
+>
+> - a) provádí prověrky soudních spisů,
+>
+> - b) dohlíží na úroveň soudního jednání,
+>
+> - c) vyřizuje stížnosti.
+>
+> (3) Předseda vrchního soudu kontroluje postup vrchního soudu při rozdělování věcí podle rozvrhu práce.
+>
+> (4) V rámci úkolů uvedených v odstavci 2 písm. a) a b) podává předseda vrchního soudu ministerstvu podněty ke stížnostem pro porušení zákona, má-li za to, že jsou splněny podmínky podle zákona [[o trestním řízení soudním|o trestním řízení soudním]] ([[trestní řád|trestní řád]]).
+>
+> (5) Ředitel správy vrchního soudu, s výjimkou úkonů, ke kterým je podle tohoto zákona nebo zvláštních právních předpisů oprávněn pouze předseda soudu,
+>
+> - a) zajišťuje provoz soudu po stránce hospodářské, materiální a finanční,
+>
+> - b) vyřizuje personální věci zaměstnanců působících u tohoto soudu s výjimkou soudců,
+>
+> - c) zajišťuje řádný chod soudních kanceláří,
+>
+> - d) plní další úkoly související s výkonem státní správy soudu podle pokynů předsedy soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1b971c0b7be09c50b170 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=28df00468e9862acd507 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 126
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předseda krajského soudu vykonává státní správu krajského soudu a okresních soudů v jeho obvodu tím, že
+>
+> - a) zajišťuje chod krajského soudu po stránce personální a organizační; za tím účelem zejména stanoví počty přísedících tohoto soudu, zajišťuje řádné obsazení soudu vyššími soudními úředníky, soudními tajemníky a dalšími zaměstnanci a vyřizuje personální věci soudců,
+>
+> - b) prostředky státního rozpočtu, stanovené správcem kapitoly státního rozpočtu, rozepisuje pro hospodaření krajského soudu a pro hospodaření okresních soudů v jeho obvodu minimálně v rozsahu členění závazných ukazatelů daných zákonem o státním rozpočtu nebo správcem kapitoly státního rozpočtu,
+>
+> - c) pro účely rozpočtových opatření a vystavování limitů podle rozpočtových pravidel plní vůči okresním soudům v jeho obvodu funkci správce kapitoly státního rozpočtu,
+>
+> - d) dbá o odbornost soudců a vytváří podmínky pro její zvyšování,
+>
+> - e) pečuje o zvyšování odborné úrovně vyšších soudních úředníků, soudních tajemníků, soudních vykonavatelů a ostatních zaměstnanců působících u krajského soudu a u okresních soudů v jeho obvodu a zajišťuje pravidelné vzdělávání asistentů soudců,
+>
+> - f) zajišťuje výběr justičních kandidátů a s vybranými uchazeči uzavírá pracovní smlouvu,
+>
+> - g) řídí a kontroluje odbornou přípravu justičních kandidátů v obvodu krajského soudu a její výkon,
+>
+> - h) řídí a kontroluje výkon státní správy okresních soudů prováděný jejich předsedy,
+>
+> - i) pečuje o odbornou průpravu přísedících krajského soudu k výkonu jejich funkce,
+>
+> - j) dohlíží na řádný chod soudních kanceláří,
+>
+> - k) zajišťuje poskytování informací krajským soudem podle zvláštního právního předpisu,9)
+>
+> - l) zajišťuje včasné zveřejňování soudních rozhodnutí,
+>
+> - m) kontroluje činnost ředitele správy krajského soudu,
+>
+> - n) zajišťuje bezpečnost krajského soudu a úkoly krizového řízení,
+>
+> - o) plní další úkoly, stanoví-li tak tento zákon nebo zvláštní právní předpisy.
+>
+> (2) Předseda krajského soudu dbá o důstojnost jednání a dodržování zásad soudcovské etiky v řízeních, vedených u krajského soudu a u okresních soudů v jeho obvodu, a o to, aby v těchto řízeních nedocházelo ke zbytečným průtahům. K tomu účelu, a to i s využitím elektronické evidence věcí, vedených u krajského a okresních soudů,
+>
+> - a) provádí prověrky soudních spisů,
+>
+> - b) dohlíží na úroveň soudních jednání,
+>
+> - c) vyřizuje stížnosti.
+>
+> (3) Předseda krajského soudu kontroluje postup krajského soudu při rozdělování věcí podle rozvrhu práce.
+>
+> (4) V rámci úkolů uvedených v odstavci 2 písm. a) a b) podává předseda krajského soudu ministerstvu podněty ke stížnostem pro porušení zákona, má-li za to, že jsou splněny podmínky podle zákona [[o trestním řízení soudním|o trestním řízení soudním]] ([[trestní řád|trestní řád]]). Má-li za to, že podnět podaný nebo postoupený mu předsedou okresního soudu nesplňuje podmínky podle zákona [[o trestním řízení soudním|o trestním řízení soudním]] ([[trestní řád|trestní řád]]), postoupí ho se svým stanoviskem ministerstvu.
+>
+> (5) Ředitel správy krajského soudu, s výjimkou úkonů, ke kterým je podle tohoto zákona nebo zvláštních právních předpisů oprávněn pouze předseda soudu,
+>
+> - a) zajišťuje provoz soudu po stránce hospodářské, materiální a finanční,
+>
+> - b) vyřizuje personální věci zaměstnanců působících u tohoto soudu s výjimkou soudců,
+>
+> - c) zajišťuje řádný chod soudních kanceláří,
+>
+> - d) plní další úkoly související s výkonem státní správy soudu podle pokynů předsedy soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=28df00468e9862acd507 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=05ee36e26776deb00f4c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 127
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Předseda okresního soudu vykonává státní správu okresního soudu tím, že
+>
+> - a) zajišťuje chod soudu po stránce personální a organizační; za tím účelem zejména zajišťuje řádné obsazení soudu vyššími soudními úředníky, soudními tajemníky, soudními vykonavateli a dalšími zaměstnanci a vyřizuje personální věci soudců,
+>
+> - b) dohlíží na odbornou přípravu justičních kandidátů po dobu jejího výkonu u okresního soudu,
+>
+> - c) dbá o odbornost soudců a vytváří podmínky pro její zvyšování,
+>
+> - d) pečuje o zvyšování odborné úrovně vyšších soudních úředníků, soudních tajemníků, soudních vykonavatelů a ostatních zaměstnanců působících u tohoto soudu,
+>
+> - e) dohlíží na řádný chod soudních kanceláří,
+>
+> - f) zajišťuje poskytování informací soudem podle zvláštního právního předpisu,9)
+>
+> - g) zajišťuje včasné zveřejňování soudních rozhodnutí,
+>
+> - h) kontroluje činnost ředitele správy okresního soudu,
+>
+> - i) zajišťuje bezpečnost soudu a úkoly krizového řízení,
+>
+> - j) plní další úkoly, stanoví-li tak tento zákon nebo zvláštní právní předpisy.
+>
+> (2) Předseda okresního soudu dbá o důstojnost jednání a dodržování zásad soudcovské etiky v řízeních, vedených u okresního soudu, a o to, aby v těchto řízeních nedocházelo ke zbytečným průtahům. K tomu účelu, a to i s využitím elektronické evidence věcí, vedených u okresního soudu,
+>
+> - a) provádí prověrky soudních spisů,
+>
+> - b) dohlíží na úroveň soudních jednání,
+>
+> - c) vyřizuje stížnosti.
+>
+> (3) Předseda okresního soudu kontroluje postup okresního soudu při rozdělování věcí podle rozvrhu práce.
+>
+> (4) V rámci úkolů uvedených v odstavci 2 písm. a) a b) podává předseda okresního soudu předsedovi krajského soudu podněty ke stížnostem pro porušení zákona, má-li za to, že jsou splněny podmínky podle zákona [[o trestním řízení soudním|o trestním řízení soudním]] ([[trestní řád|trestní řád]]). Má-li za to, že podnět předložený mu jiným soudcem nesplňuje podmínky podle zákona [[o trestním řízení soudním|o trestním řízení soudním]] ([[trestní řád|trestní řád]]), předloží ho se svým stanoviskem předsedovi krajského soudu.
+>
+> (5) Ředitel správy okresního soudu, s výjimkou úkonů, ke kterým je podle tohoto zákona nebo zvláštních právních předpisů oprávněn pouze předseda soudu,
+>
+> - a) zajišťuje provoz soudu po stránce hospodářské, materiální a finanční,
+>
+> - b) vyřizuje personální věci zaměstnanců působících u tohoto soudu s výjimkou soudců,
+>
+> - c) zajišťuje řádný chod soudních kanceláří,
+>
+> - d) plní další úkoly související s výkonem státní správy soudu podle pokynů předsedy soudu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=05ee36e26776deb00f4c -->
+
 ### §§ 128–128b — Kárné podněty a protokol o hlasování
+
+
+<!-- LEGAL-REVISION:BEGIN id=418acb39ca08d8597673 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 128a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo může vyzvat předsedu soudu, který je oprávněn podat návrh na zahájení řízení o kárné odpovědnosti nebo řízení o způsobilosti soudce vykonávat svou funkci, ke sdělení, zda v určité věci takový návrh podá nebo podal.
+>
+> (2) Vyzvat předsedu soudu ke sdělení podle odstavce 1 může též předseda soudu, který je součástí vyššího článku soustavy soudů, jsou-li oba předsedové soudu oprávněni podat návrh na zahájení řízení o kárné odpovědnosti.
+>
+> (3) Předseda soudu, kterému byla doručena výzva, je povinen na ni odpovědět bez zbytečného odkladu, nejpozději do 15 pracovních dnů a v případě odůvodněném složitostí věci nejpozději do 25 pracovních dnů. Lhůty se počítají od doručení výzvy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=418acb39ca08d8597673 -->
+
+
+<!-- LEGAL-REVISION:BEGIN id=c08423069315d3b1fde3 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 128b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Pokud kárný soud rozhodl o zpřístupnění protokolu o hlasování o rozhodnutí soudu, příslušný orgán státní správy soudů smí protokol o hlasování otevřít, nahlédnout do něj a činit si z něj výpisy a opisy.
+>
+> (2) Postupuje-li příslušný orgán státní správy soudů podle odstavce 1, smí protokol otevřít a činit si z něj výpisy a opisy též soudce, o jehož hlasování byl protokol pořízen, a jím zmocněná osoba z řad soudců nebo advokátů.
+>
+> (3) Ten, kdo protokol otevřel, jej po nahlédnutí opět zalepí a otevření potvrdí svým podpisem.
+>
+> (4) Postupuje-li příslušný orgán státní správy soudů podle odstavce 1, není vůči tomuto orgánu, soudci, o jehož hlasování byl protokol pořízen, a vůči tímto soudcem zmocněné osobě z řad soudců nebo advokátů nutno zachovat mlčenlivost o obsahu porady, na které k hlasování došlo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c08423069315d3b1fde3 -->
 
 ### § 128 — Návrhy na zahájení kárného / nezpůsobilostního řízení
 
@@ -3990,6 +8466,56 @@ Tato úprava prolamuje obecnou **tajnost porady senátu** (která je jednou z kl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=07b9293c6e15d7d8d58c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 128
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Zjistí-li příslušný orgán státní správy soudů, že soudce zaviněně porušil své povinnosti při výkonu funkce nebo že chování soudce narušuje důstojnost soudcovské funkce nebo ohrožuje důvěru v nezávislé, nestranné, odborné a spravedlivé rozhodování soudů, podá návrh na zahájení řízení o kárné odpovědnosti soudců podle zvláštního právního předpisu.6)
+>
+> (2) Návrh podle zvláštního právního předpisu6) podá příslušný orgán státní správy soudů také tehdy, je-li soudce nezpůsobilý vykonávat soudcovskou funkci podle [[#§ 91|§ 91]], nebo pokud zjistí, že soudce, jmenovaný předsedou nebo místopředsedou soudu, závažným způsobem porušuje stanovené povinnosti při výkonu státní správy soudů.
+>
+> (3) Příslušný orgán státní správy soudů podá návrh na zahájení řízení o zpřístupnění protokolu o hlasování podle zvláštního právního předpisu6), zjistí-li, že zpřístupnění protokolu může přispět ke zjištění skutečností rozhodných pro podání návrhu podle odstavce 1 nebo [[#§ 2|2]] proti soudci, o jehož hlasování byl protokol pořízen.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 91, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=07b9293c6e15d7d8d58c -->
+
 ## Díl 4 — Justiční akademie (§§ 129–133)
 
 ### § 129 — Zřízení a postavení Justiční akademie
@@ -4069,6 +8595,54 @@ JA tedy **není** samostatnou právnickou osobou; je státním orgánem v užš�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=717c82cab5c57a0dc5e4 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 129
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se Justiční akademie se sídlem v Kroměříži. Justiční akademie je organizační složkou státu a účetní jednotkou. Dohled nad činností Justiční akademie vykonává ministerstvo.
+>
+> (2) Justiční akademie zejména připravuje a po organizační a odborné stránce zabezpečuje výchovně vzdělávací akce v rámci přípravy justičních kandidátů, právních čekatelů, asistentů soudců a soustavné vzdělávání soudců, státních zástupců a dalších osob, působících v justici. Justiční akademie může dále zabezpečovat vzdělávací akce pro osoby, které spolupracují s justicí, zejména policejní orgány a orgány sociálně-právní ochrany dětí. Tuto činnost vykonává Justiční akademie v úzké součinnosti se soudy a státními zastupitelstvími tak, aby co nejlépe odpovídala jejich potřebám.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=717c82cab5c57a0dc5e4 -->
+
 ### § 130 — Orgány Justiční akademie
 
 > **§ 130**
@@ -4144,6 +8718,58 @@ Předsedovi Rady přísluší **0,3násobek platu** soudce krajského soudu (dle
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c0def838cd6f6401abc generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 130
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Orgány Justiční akademie jsou Rada Justiční akademie (dále jen „Rada“) a ředitel Justiční akademie (dále jen „ředitel“).
+>
+> (2) Rada řídí po odborné stránce výchovnou a vzdělávací činnost Justiční akademie, zejména stanoví celkovou obsahovou náplň vzdělávací činnosti, studijní programy jednotlivých vzdělávacích akcí a zásady zařazování justičních kandidátů, vyšších soudních úředníků a dalších osob do vzdělávání. Radu tvoří dva zástupci Nejvyššího soudu a dva zástupci Nejvyššího správního soudu, jmenovaní a odvolávaní předsedy těchto soudů, dva zástupci Nejvyššího státního zastupitelství, jmenovaní a odvolávaní nejvyšším státním zástupcem, a předseda, místopředseda a dalších sedm členů, jmenovaní a odvolávaní ministrem spravedlnosti ze soudců, státních zástupců, advokátů, notářů, soudních exekutorů, akademických pracovníků nebo jiných odborníků; ministr spravedlnosti jmenuje členy Rady tak, aby většinu v ní tvořili soudci a státní zástupci.
+>
+> (3) Ředitel zajišťuje chod Justiční akademie po stránce personální, pedagogické, organizační, materiální a finanční, a nestanoví-li tento zákon jinak, jedná jejím jménem. Ředitele jmenuje a odvolává ministr spravedlnosti po projednání s Radou.
+>
+> (4) Výkon funkce člena Rady se považuje za překážku v práci z důvodu jiného úkonu v obecném zájmu.10) Člen Rady má právo na náhradu výdajů v souvislosti s výkonem funkce člena Rady v rozsahu stanoveném právními předpisy o poskytování cestovních náhrad.11) Předsedovi, místopředsedovi a členům Rady, kteří nejsou soudci a státní zástupci, přísluší měsíční odměna za výkon funkce a náhrada výdajů, a to předsedovi ve výši 0,3násobku platu a náhrady výdajů soudce krajského soudu dle délky právní praxe, místopředsedovi ve výši 0,2násobku a členu ve výši 0,1násobku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c0def838cd6f6401abc -->
+
 ### § 131 — Statut Justiční akademie
 
 > **§ 131**
@@ -4193,6 +8819,52 @@ Současný statut JA je dostupný na **internetových stránkách JA** (jak vyž
 **Typicky rozhodné důkazy / podklady:** text statutu, zápis ze zasedání Rady, doklad o projednání, datum vydání a zveřejnění statutu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5a7e9a7d4384f48b72fb generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 131
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Vnitřní organizaci Justiční akademie a podrobnosti o její činnosti upravuje statut, který vydává ministr spravedlnosti po projednání s Radou.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5a7e9a7d4384f48b72fb -->
 
 ### § 132 — Obsahová náplň činnosti
 
@@ -4252,6 +8924,58 @@ Současný statut JA je dostupný na **internetových stránkách JA** (jak vyž
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=16073089536f6de28321 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 132
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Justiční akademie v rámci své výchovné a vzdělávací činnosti zejména
+>
+> - a) organizuje a provádí adaptační kurzy, semináře a přednášky pro justiční kandidáty a právní čekatele a podílí se na výběru osob, které se ucházejí o přijetí do pracovního poměru justičního kandidáta, právního čekatele nebo soudce,
+>
+> - b) připravuje a provádí vzdělávací akce zaměřené na zvyšování odborné úrovně soudců a státních zástupců a metodicky podporuje tvorbu individuálních plánů vzdělávání podle [[#§ 82a|§ 82a]],
+>
+> - c) zajišťuje odborné vzdělávání dalších osob a plní další úkoly, stanoví-li tak zvláštní právní předpis nebo ministerstvo.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 82a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16073089536f6de28321 -->
+
 ### § 132a — Hospodářská činnost JA
 
 § 132a — JA může provozovat **hospodářskou činnost** mimo svoji hlavní činnost (typicky: pronájem konferenčních prostor, ubytovacích kapacit, vydavatelská činnost). Hospodářská činnost **nesmí ohrozit** kvalitu, rozsah a dostupnost hlavní vzdělávací činnosti.
@@ -4293,6 +9017,52 @@ Současný statut JA je dostupný na **internetových stránkách JA** (jak vyž
 **Typicky rozhodné důkazy / podklady:** účetnictví hospodářské činnosti, kalendář obsazenosti prostor, doklady o omezení vlastních akcí, smlouvy o pronájmu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=10ca230536590f0a542c generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 132a — Hospodářská činnost Justiční akademie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> Justiční akademie může provozovat hospodářskou činnost mimo svoji činnost hlavní, pro kterou byla zřízena (§ 129 odst. 2). Hospodářská činnost nesmí ohrozit kvalitu, rozsah a dostupnost hlavní činnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 129
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=10ca230536590f0a542c -->
 
 ### § 133 — Lektoři Justiční akademie
 
@@ -4353,6 +9123,56 @@ Za pedagogickou činnost v **pracovním poměru** k JA (interní zaměstnanec) n
 **Typicky rozhodné důkazy / podklady:** akt ustanovení/odvolání lektora, vyjádření předsedy soudu / vedoucího státního zástupce, pracovní smlouva interního lektora, mzdové podklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=da6e0e1f8c721ce51937 generator=2026-07-17.4 source_sha256=d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb -->
+#### Revizní doplnění k § 133
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2002/6-2002 Zákon o soudech, soudcích, přísedících a státní správě soudů a o změně některých dalších zákonů (zákon o soudech a soudcích).md`; identifikátor verze: `SB-2002-00006_2026-01-01`; SHA-256: `d6f16c30b1a4e9df95470579990f9e1c4c4e98b10670110596dd518d3f9d3eeb`.
+
+##### Znění ustanovení
+
+> (1) Vzdělávání na Justiční akademii zajišťují zejména lektoři, které ustanovuje a odvolává Rada, a ostatní pedagogičtí zaměstnanci.
+>
+> (2) Lektoři Justiční akademie jsou vybíráni ze soudců, státních zástupců, advokátů, notářů, soudních exekutorů, akademických pracovníků vysokých škol a dalších významných odborníků; u soudců a státních zástupců, kteří budou vykonávat pedagogickou činnost při výkonu funkce soudce nebo státního zástupce, Rada si před jejich jmenováním lektorem Justiční akademie vyžádá vyjádření příslušného předsedy soudu nebo vedoucího státního zástupce.
+>
+> (3) Za pedagogickou činnost vykonávanou v pracovním poměru k Justiční akademii náleží plat akademického pracovníka státní vysoké školy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=da6e0e1f8c721ce51937 -->
 
 ## Shrnutí — průřezové instituty a souvislosti
 
